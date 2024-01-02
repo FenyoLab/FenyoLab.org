@@ -1,0 +1,26 @@
+---
+interface Props {
+  image: string;
+  firstName: string;
+  lastName: string;
+  position: string;
+  suffix?: string;
+  email?: string;
+}
+
+const { image, firstName, lastName, position, suffix, email } = Astro.props;
+---
+
+<li class="flex gap-4 items-center">
+  <div class="h-32 overflow-hidden">
+    <img width="107" src={image} alt="alt" />
+  </div>
+  <div class="bg-red-500">
+    <div class="font-bold leading-tight">
+      {firstName}
+      {lastName}{" "}
+      {suffix && `, ${suffix}`}
+    </div>
+    <div class="text-sm">{position}</div>
+  </div>
+</li>

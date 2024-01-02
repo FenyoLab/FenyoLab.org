@@ -1,0 +1,28 @@
+---
+import Layout from "@layouts/Layout.astro";
+
+import presentations from "@data/presentations.json";
+---
+
+<Layout title="Presentations">
+  <ul>
+    {
+      presentations.map((presentation) => (
+        <li class="flex justify-between gap-4 flex-reverse odd:flex-row-reverse mb-6">
+          <img src={presentation.image} alt="alt" />
+          <p class="text-sm">
+            <Fragment set:html={presentation.authors} />
+            <a
+              href={presentation.link}
+              target="_blank"
+              class="font-bold italic"
+            >
+              {presentation.title}
+            </a>
+            , {presentation.location}, {presentation.date}.
+          </p>
+        </li>
+      ))
+    }
+  </ul>
+</Layout>

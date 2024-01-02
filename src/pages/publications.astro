@@ -1,0 +1,71 @@
+---
+import Layout from "@layouts/Layout.astro";
+
+import publications from "@data/publications.json";
+
+interface Publication {
+  authors: string;
+  title: string;
+  journal: string;
+  link?: string;
+  image?: string;
+  "erratum-link"?: string;
+  "erratum-journal"?: string;
+  announcement?: string;
+  "announcement-link"?: string;
+}
+---
+
+<Layout title="Publications">
+  <ul class="list-none">
+    {
+      Object.entries(publications)
+        .reverse()
+        .map(([year, publications_list]) => (
+          <>
+            <li class="font-bold mb-4 text-base">{year}</li>
+            <ul class="list-none space-y-8 mb-8">
+              {publications_list.map((publication: Publication) => (
+                <li>
+                  <div class="text-sm">
+                    {publication.authors}:
+                    {publication?.link ? (
+                      <a href={publication.link} target="_blank" class="font-bold italic">
+                        <Fragment set:html={'"' + publication.title + '",'}/>
+                      </a>
+                    ) : (
+                      <span class="font-bold italic">
+                        "{publication.title}",
+                      </span>
+                    )}
+                    <span>{publication.journal}.</span>
+                    <div>
+                      {publication?.announcement && (
+                        <a
+                          href={publication["announcement-link"]}
+                          target="_blank"
+                          class="font-bold italic"
+                        >
+                          {publication.announcement}
+                        </a>
+                      )}
+                      {publication?.["erratum-journal"] && (
+                        <a
+                          href={publication["erratum-link"]}
+                          target="_blank"
+                          class="font-bold italic"
+                        >
+                            Erratum
+                        </a>
+                        <span> in {publication["erratum-journal"]}.</span>
+                      )}
+                    </div>
+                  </div>
+                </li>
+              ))}
+            </ul>
+          </>
+        ))
+    }
+  </ul>
+</Layout>
