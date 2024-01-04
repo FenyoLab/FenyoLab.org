@@ -27,38 +27,43 @@ interface Publication {
             <ul class="list-none space-y-8 mb-8">
               {publications_list.map((publication: Publication) => (
                 <li>
-                  <div class="text-sm">
-                    {publication.authors}:
-                    {publication?.link ? (
-                      <a href={publication.link} target="_blank" class="font-bold italic">
-                        <Fragment set:html={'"' + publication.title + '",'}/>
-                      </a>
-                    ) : (
-                      <span class="font-bold italic">
-                        "{publication.title}",
-                      </span>
+                  <div class="flex gap-2 items-center">
+                    {publication.image && (
+                      <img width="50" src={publication.image} alt="alt" />
                     )}
-                    <span>{publication.journal}.</span>
-                    <div>
-                      {publication?.announcement && (
-                        <a
-                          href={publication["announcement-link"]}
-                          target="_blank"
-                          class="font-bold italic"
-                        >
-                          {publication.announcement}
+                    <div class="text-sm">
+                      {publication.authors}:
+                      {publication?.link ? (
+                        <a href={publication.link} target="_blank" class="font-bold italic">
+                          <Fragment set:html={'"' + publication.title + '",'}/>
                         </a>
+                      ) : (
+                        <span class="font-bold italic">
+                          "{publication.title}",
+                        </span>
                       )}
-                      {publication?.["erratum-journal"] && (
-                        <a
-                          href={publication["erratum-link"]}
-                          target="_blank"
-                          class="font-bold italic"
-                        >
-                            Erratum
-                        </a>
-                        <span> in {publication["erratum-journal"]}.</span>
-                      )}
+                      <span>{publication.journal}.</span>
+                      <div>
+                        {publication?.announcement && (
+                          <a
+                            href={publication["announcement-link"]}
+                            target="_blank"
+                            class="font-bold italic"
+                          >
+                            {publication.announcement}
+                          </a>
+                        )}
+                        {publication?.["erratum-journal"] && (
+                          <a
+                            href={publication["erratum-link"]}
+                            target="_blank"
+                            class="font-bold italic"
+                          >
+                              Erratum
+                          </a>
+                          <span> in {publication["erratum-journal"]}.</span>
+                        )}
+                      </div>
                     </div>
                   </div>
                 </li>

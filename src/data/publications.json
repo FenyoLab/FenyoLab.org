@@ -721,7 +721,7 @@
     {
       "authors": "Ruggles KV, Krug K, Wang X, Clauser KR, Wang J, Payne SH, Fenyö D, Zhang B, Mani DR",
       "link": "https://www.ncbi.nlm.nih.gov/pubmed/28456751",
-      "image": "proteogenomics_mcp_2017.png",
+      "image": "/images/publications/proteogenomics_mcp_2017.png",
       "journal": "Mol Cell Proteomics 2017",
       "title": "Methods, tools and current perspectives in proteogenomics"
     },
@@ -778,7 +778,7 @@
     {
       "authors": "Askenazi M & Fenyö D",
       "link": "http://doi.org/10.1002/pmic.201600096",
-      "image": "openslice-proteomics-2016.png",
+      "image": "/images/publications/openslice-proteomics-2016.png",
       "journal": "Proteomics 2016 July 19",
       "title": "OpenSlice: Quantitative Data Sharing from HyperPeaks to Global Ion Chromatograms (GICs)"
     },
@@ -814,7 +814,7 @@
     },
     {
       "authors": "Ma S, Ren J, Fenyö D",
-      "link": "pdf/16_ma_amiajs.pdf",
+      "link": "/pdf/16_ma_amiajs.pdf",
       "journal": "AMIA Jt Summits Transl Sci Proc. 2016",
       "title": "Breast Cancer Prognostics Using Multi-Omics Data"
     },
@@ -899,19 +899,19 @@
     },
     {
       "authors": "Hakhverdyan Z, Domanski M, Hough L, Oroskar AA, Oroskar AR, Keegan S, Dilworth DJ, Molloy K, Sherman V, Aitchison JD, Fenyö D, Chait BT, Jensen TH, Rout MP, LaCava J",
-      "link": "pdf/15_hakhverdyan_nm.pdf",
+      "link": "/pdf/15_hakhverdyan_nm.pdf",
       "journal": "Nature Methods 2015 May 4. PMID 25938370",
       "title": "Rapid Optimized Interactomic Screening"
     },
     {
       "authors": "Fenyö D, Beavis R",
-      "link": "pdf/15_fenyo_bioinformatics.pdf",
+      "link": "/pdf/15_fenyo_bioinformatics.pdf",
       "journal": "Bioinformatics 2015. PMID: 25697819",
       "title": "The GPMDB REST Interface"
     },
     {
       "authors": "Reid D, Keegan S, Leo-Macias A, Watanabe G, Strande NT, Oksuz BA, Fenyö D, Lieber MR, Ramsden DA, Rothenberg E",
-      "link": "pdf/15_reid_pnas.pdf",
+      "link": "/pdf/15_reid_pnas.pdf",
       "journal": "PNAS 2015 May 4 PMID 25941401",
       "title": "Organization and dynamics of the nonhomologous end-joining machinery during DNA double-strand break repair"
     }
@@ -925,19 +925,19 @@
     },
     {
       "authors": "Sun J, Zhang G, Li S, Ivanov AR, Fenyö D, Lisacek F, Murthy SK, Karger BL, Brusic V",
-      "link": "pdf/14_sun_bmc-genomics.pdf",
+      "link": "/pdf/14_sun_bmc-genomics.pdf",
       "journal": "BMC Genomics 2014",
       "title": "Pathway analysis and transcriptomics improve protein identification by shotgun proteomics from samples comprising small number of cells - a benchmarking study"
     },
     {
       "authors": "Nilsson CL, Mostovenko E, Lichti CF, Ruggles K, Fenyö D, Rosenbloom KR, Hancock WS, Paik YK, Omenn GS, LaBaer J, Kroes RA, Uhlén M, Hober S, Végvári A, Andrén PE, Sulman EP, Lang FF, Fuentes M, Carlsohn E, Emmett MR, Moskal JR, Berven FS, Fehniger TE, Marko-Varga G.",
-      "link": "pdf/14_nilsson_jpr.pdf",
+      "link": "/pdf/14_nilsson_jpr.pdf",
       "journal": "J Proteome Res. 2014",
       "title": "Use of ENCODE Resources to Characterize Novel Proteoforms and Missing Proteins in the Human Proteome"
     },
     {
       "authors": "Agullo-Pascual E, Lin X, Leo-Macias A, Zhang M, Liang FX, Li Z, Pfenniger A, Lübkemeier I, Keegan S, Fenyö D, Willecke K, Rothenberg E, Delmar M.",
-      "link": "pdf/14_agullo-pascual_cardio-res.pdf",
+      "link": "/pdf/14_agullo-pascual_cardio-res.pdf",
       "journal": "Cardiovasc Res. 2014 Aug 18. pii: cvu195",
       "title": "Super-resolution imaging reveals that loss of the C-terminus of Connexin43 limits microtubule plus-end capture and NaV1.5 localization at the intercalated disc"
     },
@@ -949,7 +949,7 @@
     },
     {
       "authors": "Mertins P, Yang F, Liu T, Mani DR, Petyuk VA, Gillette MA, Clauser KR, Qiao JW, Gritsenko MA, Moore RJ, Levine DA, Townsend R, Erdmann-Gilmore P, Snider JE, Davies SA, Ruggles KV, Fenyö D, Kitchens RT, Li S, Olvera N, Dao F, Rodriguez H, Chan DW, Liebler D, White F, Rodland KD, Mills GB, Smith RD, Paulovich AG, Ellis M, Carr SA",
-      "link": "pdf/14_mertins_mcp.pdf",
+      "link": "/pdf/14_mertins_mcp.pdf",
       "journal": "Mol Cell Proteomics. 2014",
       "title": "Ischemia in tumors induces early and sustained phosphorylation changes in stress kinase pathways but does not affect global protein levels"
     },
@@ -963,13 +963,13 @@
   "2013": [
     {
       "authors": "Lichti CF, Liu H, Shavkunov AS, Mostovenko E, Sulman EP, Ezhilarasan R, Wang Q, Kroes R, Moskal JR, Fenyö D, Oksuz BA, Conrad CA, Lang FF, Berven FS, Végvári A, Rezeli M, Marko-Varga G, Hober S, Nilsson CL",
-      "link": "pdf/13_lichti_jpr.pdf",
+      "link": "/pdf/13_lichti_jpr.pdf",
       "journal": "J Proteome Res. 2013",
       "title": "Integrated Chromosome 19 Transcriptomic and Proteomic Datasets Derived from Glioma Cancer Stem Cell Lines"
     },
     {
       "authors": "Agullo-Pascual E, Reid DA, Keegan S, Sidhu M, Fenyö D, Rothenberg E, Delmar M.",
-      "link": "pdf/13_agullo-pascual_cvr.pdf",
+      "link": "/pdf/13_agullo-pascual_cvr.pdf",
       "journal": "Cardiovasc Res. 2013",
       "title": "Super-resolution fluorescence microscopy of the cardiac connexome reveals plakophilin-2 inside the connexin43 plaque"
     },
@@ -980,31 +980,31 @@
     },
     {
       "authors": "Y. Bao, S. Waldemarson, G. Zhang, A. Wahlander, B. Ueberheide, S. Myung, B. Reed, K. Molloy, J.C. Padovan, J. Eriksson, T.A. Neubert, B.T. Chait, D. Fenyö",
-      "link": "pdf/13_bao_methods.pdf",
+      "link": "/pdf/13_bao_methods.pdf",
       "journal": "Methods 61(2013) 299-303",
       "title": "Detection and Correction of Interference in SRM Analysis"
     },
     {
       "authors": "M.F. Muellenbeck, B. Ueberheide, B. Amulic, A. Epp, D Fenyö, C.E. Busse, M. Esen, M. Theisen, B. Mordmüller, H. Wardemann",
-      "link": "pdf/13_muellenbeck_jem.pdf",
+      "link": "/pdf/13_muellenbeck_jem.pdf",
       "journal": "J Exp Med. 210 (2013) 389-99",
       "title": "Atypical and classical memory B cells produce Plasmodium falciparum neutralizing antibodies"
     },
     {
       "authors": "S. Liu, H. Im, A. Bairoch, M. Cristofanilli, R. Chen, E.W. Deutsch, S. Dalton, D. Fenyö, S. Fanayan, C. Gates, P. Gaudet, M. Hincapie, S. Hanash, H. Kim, S.-K. Jeong, E. Lundberg, G. Mias, R. Menon, Z. Mu, E. Nice, Y.-K. Paik, M. Uhlen, L. Wells, S.-L. Wu, F.Yan, F.Zhang, Y.Zhang, M.Snyder, G.S. Omenn, R.C. Beavis, W.S. Hancock",
-      "link": "pdf/12_liu_jpr.pdf",
+      "link": "/pdf/12_liu_jpr.pdf",
       "journal": "J. Proteome Res. 12 (2013) 45-57",
       "title": "A Chromosome-centric Human Proteome Project (C-HPP) to Characterize the Sets of Proteins Encoded in Chromosome 17"
     },
     {
       "authors": "C.L. Nilsson, F. Berven, F. Selheim, H. Liu, J.R. Moskal, R.A. Kroes, E.P. Sulman, C.A. Conrad, F.F. Lang, P.E. Andrén, A. Nilsson, E. Carlsohn, H. Lilja, J. Malm, D. Fenyö, D. Subramaniyam, X. Wang, M. Gonzales-Gonzales, N. Dasilva, P. Diez, M. Fuentes, Á. Végvári, K. Sjödin, C. Welinder, T. Laurell, T.E. Fehniger, H. Lindberg, M. Rezeli, G. Edula, S. Hober, G. Marko-Varga",
-      "link": "pdf/12_nilsson_jpr.pdf",
+      "link": "/pdf/12_nilsson_jpr.pdf",
       "journal": "J. Proteome Res. 12 (2013) 135-150",
       "title": "Chromosome 19 Annotations with Disease Speciation: A First Report from the Global Research Consortium"
     },
     {
       "authors": "E. Kefaloyianni, J.S. Lyssand, C. Moreno, D. Delaroche, M. Hong, D. Fenyö, C.V. Mobbs, T.A. Neubert, W.A. Coetzee",
-      "link": "pdf/12_kefaloyianni_proteomics.pdf",
+      "link": "/pdf/12_kefaloyianni_proteomics.pdf",
       "journal": "Proteomics 13 (2013) 368-78",
       "title": "A comparative proteomic analysis of the KATP channel complex in different tissue types"
     }
@@ -1012,7 +1012,7 @@
   "2012": [
     {
       "authors": "L. Bozzacco, H. Yu, J. Dengjel, C. Trumpfheller, H.A. Zebroski III, N. Zhang, V. Küttner, B.M. Ueberheide, H. Deng, B.T. Chait, R.M. Steinman, S. Mojsov, D. Fenyö",
-      "link": "pdf/12_bozzacco_plos-one.pdf",
+      "link": "/pdf/12_bozzacco_plos-one.pdf",
       "journal": "PLoS One 7 (2012):e41897",
       "title": "Strategy for Identifying Dendritic Cell-Processed CD4(+) T Cell Epitopes from the HIV Gag p24 Protein"
     }
@@ -1020,25 +1020,25 @@
   "2011": [
     {
       "authors": "J.F. Scheid, H. Mouquet, B. Ueberheide, R. Diskin, F. Klein, T.Y.K. Olivera, J. Pietzsch, D. Fenyö, A. Abadir, K. Velinzon, A. Hurley, S. Myung, F. Boulad, P. Poignard, D. Burton, F. Pereyra, D.D. Ho, B.D. Walker, M.S. Seaman, P.J. Bjorkman, B.T. Chait, M.C. Nussenzweig.",
-      "link": "pdf/11_Scheid_Science.pdf",
+      "link": "/pdf/11_Scheid_Science.pdf",
       "journal": "Science 6049 (2011) 1633-7",
       "title": "Sequence and Structural Convergence of Broad and Potent HIV Antibodies That Mimic CD4 Binding"
     },
     {
       "authors": "C.F. Aliferis, A.V. Alekseyenko, Y. Aphinyanaphongs, S. Brown, D. Fenyö, L. Fu, S. Shen, A. Statnikov, J. Wang",
-      "link": "pdf/11_aliferis_imia.pdf",
+      "link": "/pdf/11_aliferis_imia.pdf",
       "journal": "IMIA Yearbook of Medical Informatics 6 (2011) 146-155",
       "title": "Trends and Developments in Bioinformatics in 2010: Prospects and Perspectives"
     },
     {
       "authors": "S. Myung, H. Cohen, D. Fenyö, J.C. Padovan, A.N. Krutchinsky, B.T. Chait",
-      "link": "pdf/11_Myung_IntJourMassSpec.pdf",
+      "link": "/pdf/11_Myung_IntJourMassSpec.pdf",
       "journal": "International Journal of Mass Spectrometry 301 (2011) 211-219",
       "title": "High-capacity ion trap coupled to a time-of-flight mass spectrometer for comprehensive linked scans with no scanning losses"
     },
     {
       "authors": "J. Eriksson, D. Fenyö",
-      "link": "pdf/11_Fenyo_Methods-Mol-Biol.pdf",
+      "link": "/pdf/11_Fenyo_Methods-Mol-Biol.pdf",
       "journal": "Methods Mol Biol. 694 (2011) 109-17",
       "title": "Modeling mass spectrometry-based protein analysis"
     }
@@ -1047,43 +1047,43 @@
     {
       "authors": "D. Fenyö,(Ed.)",
       "link": "http://www.amazon.com/Computational-Biology-Methods-Molecular/dp/1607618419",
-      "image": "computational-biology-2010.jpg",
+      "image": "/images/publications/computational-biology-2010.jpg",
       "journal": "Methods Mol Biol 673 (2010)",
       "title": "Computational Biology"
     },
     {
       "authors": "J. Eriksson, D. Fenyö",
-      "link": "pdf/10_eriksson_methods-mol-biol.pdf",
+      "link": "/pdf/10_eriksson_methods-mol-biol.pdf",
       "journal": "Methods Mol Biol 673 (2010) 223-30",
       "title": "Modeling experimental design for proteomics"
     },
     {
       "authors": "G. Zhang, B.M. Ueberheide, S. Waldemarson, S. Myung, K. Molloy, J. Eriksson, B.T. Chait, T.A. Neubert, D. Fenyö",
-      "link": "pdf/10_zhang_methods-mol-biol.pdf",
+      "link": "/pdf/10_zhang_methods-mol-biol.pdf",
       "journal": "Methods Mol Biol 673 (2010) 211-22",
       "title": "Protein quantitation using mass spectrometry"
     },
     {
       "authors": "D. Fenyö, J. Eriksson, R. Beavis",
-      "link": "pdf/10_fenyo_methods-mol-biol.pdf",
+      "link": "/pdf/10_fenyo_methods-mol-biol.pdf",
       "journal": "Methods Mol Biol 673 (2010) 189-202",
       "title": "Mass spectrometric protein identification using the global proteome machine"
     },
     {
       "authors": "L. Peng, E.A. Kapp, D. Fenyö, M.S. Kwon, P. Jiang, S. Wu, Y. Jiang, M.I. Aguilar, N. Ahmed, M.S. Baker, Z. Cai, Y.J. Chen, P. Van Chi, M.C. Chung, F. He, A.C. Len, P.C. Liao, K. Nakamura, S.M. Ngai, Y.K. Paik, T.L. Pan, T.C. Poon, G. Hosseini Salekdeh, R.J. Simpson, R. Sirdeshmukh, C. Srisomsap, J. Svasti, Y.C. Tyan, F.S. Dreyer, D. McLauchlan, P. Rawson, T.W. Jordan",
-      "link": "pdf/10_peng_proteomics.pdf",
+      "link": "/pdf/10_peng_proteomics.pdf",
       "journal": "Proteomics 2010 May 18",
       "title": "The asia oceania human proteome organisation membrane proteomics initiative. preparation and characterization of the carbonate-washed membrane standard"
     },
     {
       "authors": "A.G. Paulovich, D. Billheimer, A.J. Ham, L. Vega-Montoto, P.A. Rudnick, D.L. Tabb, P. Wang, R.K. Blackman, D.M. Bunk, H.L. Cardasis, K.R. Clauser, C.R. Kinsinger, B. Schilling, T.J. Tegeler, A.M. Variyath, M. Wang, J.R. Whiteaker, L.J. Zimmerman, D. Fenyo, S.A. Carr, S.J. Fisher, B.W. Gibson, M. Mesri, T.A. Neubert, F.E. Regnier, H. Rodriguez, C. Spiegelman, S.E. Stein, P. Tempst, D.C. Liebler",
-      "link": "pdf/10_paulovich_mcp.pdf",
+      "link": "/pdf/10_paulovich_mcp.pdf",
       "journal": "Mol Cell Proteomics, 9 (2010) 242-254",
       "title": "Interlaboratory study characterizing a yeast performance standard for benchmarking LC-MS platform performance"
     },
     {
       "authors": "M.D. Sekedat, D. Fenyö, R.S. Rogers, A.J. Tackett, J.D. Aitchison, B.T. Chait",
-      "link": "pdf/10_sekedat_msb.pdf",
+      "link": "/pdf/10_sekedat_msb.pdf",
       "journal": "Mol Syst Biol. 6 (2010) 353",
       "title": "GINS motion reveals replication fork progression is remarkably uniform throughout the yeast genome"
     }
@@ -1091,19 +1091,19 @@
   "2009": [
     {
       "authors": "B.M. Ueberheide, D. Fenyö, P.F. Alewood, B.T. Chait",
-      "link": "pdf/09_ueberheide_pnas.pdf",
+      "link": "/pdf/09_ueberheide_pnas.pdf",
       "journal": "Proc Natl Acad Sci 106 (2009) 6910-6915",
       "title": "Rapid sensitive analysis of cysteine rich peptide venom components"
     },
     {
       "authors": "T.N. Siegel, D.R. Hekstra, L.E. Kemp, L.M. Figueiredo, J.E. Lowell, D. Fenyö, X. Wang, S. Dewell, G.A. Cross",
-      "link": "pdf/09_siegel_genes-dev.pdf",
+      "link": "/pdf/09_siegel_genes-dev.pdf",
       "journal": "Genes Dev. 23 (2009) 1063-1076",
       "title": "Four histone variants mark the boundaries of polycistronic transcription units in Trypanosoma brucei"
     },
     {
       "authors": "G. Zhang, D. Fenyö, T.A. Neubert",
-      "link": "pdf/09_zhang_jpr.pdf",
+      "link": "/pdf/09_zhang_jpr.pdf",
       "journal": "J Proteome Res 8 (2009) 1285-1292",
       "title": "Evaluation of the Variation in Sample Preparation for Comparative Proteomics Using Stable Isotope Labeling by Amino Acids in Cell Culture"
     }
@@ -1111,49 +1111,49 @@
   "2008": [
     {
       "authors": "J. Eriksson and D. Fenyö",
-      "link": "pdf/08_eriksson_wiley.pdf",
+      "link": "/pdf/08_eriksson_wiley.pdf",
       "journal": "pp. 211-222 in: Mass Spectrometry: Instrumentation, Interpretation, and Applications, Eds. R. Ekman, J. Silberring, A.M. Brinkmalm, D.M. Desiderio, N.M. Nibbering, Wiley 2008",
       "title": "Optimizing Sensitivity and Specificity in Mass Spectrometric Proteome Analysis"
     },
     {
       "authors": "G. Zhang, D. Fenyö, T.A. Neubert",
-      "link": "pdf/08a_zhang_jpr.pdf",
+      "link": "/pdf/08a_zhang_jpr.pdf",
       "journal": "J Proteome Res 7 (2008) 678-686",
       "title": "Use of DNA Ladders for Reproducible Protein Fractionation by Sodium Dodecyl Sulfate-Polyacrylamide Gel Electrophoresis (SDS-PAGE) for Quantitative Proteomics"
     },
     {
       "authors": "G. Zhang, D. Fenyö, T.A. Neubert",
-      "link": "pdf/08b_zhang_jpr.pdf",
+      "link": "/pdf/08b_zhang_jpr.pdf",
       "journal": "J Proteome Res 7 (2008) 4715-4726",
       "title": "Screening for EphB Signaling Effectors Using SILAC with a Linear Ion Trap-Orbitrap Mass Spectrometer"
     },
     {
       "authors": "M. Falth, M. Svensson, A. Nilsson, K. Skold, D. Fenyö, P.E. Andren",
-      "link": "pdf/08_falth_jpr.pdf",
+      "link": "/pdf/08_falth_jpr.pdf",
       "journal": "J Proteome Res 7 (2008) 3049-3053",
       "title": "Validation of Endogenous Peptide Identifications Using a Database of Tandem Mass Spectra"
     },
     {
       "authors": "E.M. Woo, D. Fenyö, B.H. Kwok, H. Funabiki, B.T. Chait BT",
-      "link": "pdf/08_woo_anal-chem.pdf",
+      "link": "/pdf/08_woo_anal-chem.pdf",
       "journal": "Anal Chem 80 (2008) 2419-2425",
       "title": "Efficient Identification of Phosphorylation by Mass Spectrometric Phosphopeptide Fingerprinting"
     },
     {
       "authors": "L.F. Westblade, L. Minakhin, K. Kuznedelov, A.J. Tackett, E.J. Chang, R.A. Mooney, I. Vvedenskaya, Q.J. Wang, D. Fenyö, M.P. Rout, R. Landick, B.T. Chait, K. Severinov, S.A. Darst",
-      "link": "pdf/08_westblade_jpr.pdf",
+      "link": "/pdf/08_westblade_jpr.pdf",
       "journal": "J Proteome Res 7 (2008) 1244-1250",
       "title": "Rapid Isolation and Identification of Bacteriophage T4-Encoded Modifications of Escherichia coli RNA Polymerase: A Generic Method to Study Bacteriophage/Host Interactions"
     },
     {
       "authors": "C.C. Darie, V. Shetty, D.S. Spellman, G. Zhang, C. Xu, H.L. Cardasis, S. Blais, D. Fenyö, and T.A. Neubert",
-      "link": "pdf/08_darie_springer.pdf",
+      "link": "/pdf/08_darie_springer.pdf",
       "journal": "in Applications of Mass Spectrometry in Life Safety, C. Popescu et al. (eds.), Springer 2008",
       "title": "Blue Native PAGE and Mass Spectrometry Analysis of Ephrin Stimulation-Dependent Protein-Protein Interactions in NG108-EPHB2 Cells"
     },
     {
       "authors": "D. Fenyö, R.C. Beavis",
-      "link": "pdf/08_fenyo_mas.pdf",
+      "link": "/pdf/08_fenyo_mas.pdf",
       "journal": "Mass Spectrom Rev 27 (2008) 1-19",
       "title": "Informatics development: Challenges and solutions for MALDI mass spectrometry"
     }
@@ -1161,7 +1161,7 @@
   "2007": [
     {
       "authors": "J. Eriksson, D. Fenyö",
-      "link": "pdf/07_eriksson_nbt.pdf",
+      "link": "/pdf/07_eriksson_nbt.pdf",
       "journal": "Nature Biotechnology 25 (2007) 651-655",
       "title": "Improving the success rate of proteome analysis by modeling protein-abundance distributions and experimental designs"
     },
@@ -1173,19 +1173,19 @@
     },
     {
       "authors": "D. Fenyö, B.S.Phinney, R.C. Beavis",
-      "link": "pdf/07_fenyo_jpr.pdf",
+      "link": "/pdf/07_fenyo_jpr.pdf",
       "journal": "J Proteome Res 6 (2007) 1997-2004",
       "title": "Determining the Overall Merit of Protein Identification Data Sets: rho-Diagrams and rho-Scores"
     },
     {
       "authors": "M. Falth, K. Sköld, M. Svensson, A. Nilsson, D. Fenyö, P.E. Andren",
-      "link": "pdf/07_falth_mcp.pdf",
+      "link": "/pdf/07_falth_mcp.pdf",
       "journal": "Mol Cell Proteomics 6 (2007) 1188-1197",
       "title": "Neuropeptidomics: Strategies for specific and sensitive identification of endogenous peptides"
     },
     {
       "authors": "A. Kaplan, M. Söderström, D. Fenyö, H. Pettersen, S. Lindqvist, K. Sköld, M. Svensson, P. Svenningsson, P.E. Andren & L. Björkesten",
-      "link": "pdf/07_kaplan_jpr.pdf",
+      "link": "/pdf/07_kaplan_jpr.pdf",
       "journal": "Journal of Proteome Research 6 (2007) 28880-2895",
       "title": "An automated method for scanning LC-MS data sets for significant peptides and proteins, including quantitative profiling and interactive confirmation"
     }
@@ -1193,31 +1193,31 @@
   "2006": [
     {
       "authors": "R. Craig, J.C. Cortens, D. Fenyö, R.C. Beavis",
-      "link": "pdf/06_craig_jpr.pdf",
+      "link": "/pdf/06_craig_jpr.pdf",
       "journal": "Journal of Proteome Research, 5 (2006) 1843-1849",
       "title": "Using Annotated Peptide Mass Spectrum Libraries for Protein Identification"
     },
     {
       "authors": "M. Fälth, K. Sköld, M. Norrman, M. Svensson, D. Fenyö, P.E. Andren",
-      "link": "pdf/06_falth_mol-cell-proteo.pdf",
+      "link": "/pdf/06_falth_mol-cell-proteo.pdf",
       "journal": "Molecular and Cellular Proteomics 5 (2006) 998-1005",
       "title": "SwePep – A Database Designed for Endogenous Peptides and Mass Spectrometry"
     },
     {
       "authors": "E. Ossipova, D. Fenyö, J. Eriksson",
-      "link": "pdf/06_ossipova_proteomics.pdf",
+      "link": "/pdf/06_ossipova_proteomics.pdf",
       "journal": "Proteomics 6 (2006) 2079-85",
       "title": "Optimizing Search Conditions for the Mass-Fingerprint-Based Identification of Proteins"
     },
     {
       "authors": "M. Berg, A. Parbel, H. Pettersen, D. Fenyö, & L. Björkesten",
-      "link": "pdf/06_berg_rcms.pdf",
+      "link": "/pdf/06_berg_rcms.pdf",
       "journal": "Rapid Communications in Mass Spectrometry 20 (2006) 1558-62",
       "title": "Detection of Artifacts and Peptide Modifications in LC-MS data Using Two-Dimensional Signal Intensity Map Data Visualization"
     },
     {
       "authors": "M. Berg, A. Parbel, H. Pettersen, D. Fenyö, & L. Björkesten",
-      "link": "pdf/06_berg_j-exp-both.pdf",
+      "link": "/pdf/06_berg_j-exp-both.pdf",
       "journal": "Journal of Experimental Botany, 57 (2006) 1509-14",
       "title": "Reproducibility of LC-MS-based protein identification"
     }
@@ -1225,13 +1225,13 @@
   "2005": [
     {
       "authors": "J. Eriksson, D. Fenyö",
-      "link": "pdf/05_eriksson_jpr.pdf",
+      "link": "/pdf/05_eriksson_jpr.pdf",
       "journal": "J Proteome Research 4 (2005) 387-93",
       "title": "Protein Identification in Complex Mixtures"
     },
     {
       "authors": "E. A. Kapp, F. Schutz, L. M. Connolly, J. A. Chakel, J. E. Meza, C. A. Miller, D. Fenyö, J. K. Eng, J.N. Adkins, G.S. Omenn & R.J. Simpson",
-      "link": "pdf/05_kapp_proteomics.pdf",
+      "link": "/pdf/05_kapp_proteomics.pdf",
       "journal": "Proteomics, 5 (2005) 3475-90",
       "title": "An evaluation, comparison, and accurate benchmarking of several publicly available MS/MS search algorithms: Sensitivity and specificity analysis"
     },
@@ -1242,13 +1242,13 @@
     },
     {
       "authors": "A. Thelemann, F. Petti, G. Griffin, K. Iwata, T. Hunt, T. Settinari, D. Fenyö, N. Gibson and J. D. Haley",
-      "link": "pdf/05_Thelemann_mcp.pdf",
+      "link": "/pdf/05_Thelemann_mcp.pdf",
       "journal": "Molecular and Cellular Proteomics, 4 (2005) 356-76",
       "title": "Phosphotyrosine signaling networks in epidermal growth factor receptor overexpressing squamous carcinoma cells"
     },
     {
       "authors": "D. Fenyö",
-      "link": "pdf/05_fenyo_encyclopedia-GGPB.pdf",
+      "link": "/pdf/05_fenyo_encyclopedia-GGPB.pdf",
       "journal": "Encyclopedia of Genetics, Genomics, Proteomics and Bioinformatics, Ed. M. Dunn, John Wiley & Sons, 2005",
       "title": "Protein fingerprinting"
     },
@@ -1261,25 +1261,25 @@
   "2004": [
     {
       "authors": "J. Eriksson, D. Fenyö",
-      "link": "pdf/04_eriksson_jpr.pdf",
+      "link": "/pdf/04_eriksson_jpr.pdf",
       "journal": "J. Proteome Research 3 (2004) 979-82",
       "title": "The Statistical Significance of Protein Identification Results as a Function of the Number of Protein Sequences Searched"
     },
     {
       "authors": "J. Eriksson, D. Fenyö",
-      "link": "pdf/04_eriksson_jpr_2.pdf",
+      "link": "/pdf/04_eriksson_jpr_2.pdf",
       "journal": "J Proteome Research 3 (2004) 32-36",
       "title": "Probity: A Protein Identification Algorithm with Accurate Assignment of the Significance of the Results"
     },
     {
       "authors": "H. Nordvarg, J. Flensburg, O. Rönn, J. Öhman, R. Marouga, B. Lundgren, D. Haid, E. Malmport, J. Goscinski, L. Hörnsten, M. Scigelova, S. Bourin, P. Garberg, G. Woffendin, D. Fenyö, H. Bergling & E. Forsberg",
-      "link": "pdf/04_nordvarg_jbt.pdf",
+      "link": "/pdf/04_nordvarg_jbt.pdf",
       "journal": "Journal of Biomolecular Techniques, 15 (2004) 265-75",
       "title": "A Proteomics Approach to the Study of Absorption, Distribution, Metabolism, Excretion and Toxicity"
     },
     {
       "authors": "R.C. Beavis & D. Fenyö",
-      "link": "pdf/04_beavis_curr-protocols-bioinf.pdf",
+      "link": "/pdf/04_beavis_curr-protocols-bioinf.pdf",
       "journal": "Current Protocols in Bioinformatics, Ed. D. Davidson, John Wiley & Sons, 2004",
       "title": "Finding protein sequences using PROWL"
     }
@@ -1287,13 +1287,13 @@
   "2003": [
     {
       "authors": "D. Fenyö, R.C. Beavis",
-      "link": "pdf/03_fenyo_anal-chem.pdf",
+      "link": "/pdf/03_fenyo_anal-chem.pdf",
       "journal": "Analytical Chemistry 75 (2003) 768-74",
       "title": "A method for assessing the statistical significance of mass spectrometry-based protein identifications using general scoring schemes"
     },
     {
       "authors": "M. Trester-Zedlitz, K. Kamada, S.K. Burley, D. Fenyö, B.T. Chait, T.W. Muir",
-      "link": "pdf/03_trester-zedlitz_j-am-chem-soc.pdf",
+      "link": "/pdf/03_trester-zedlitz_j-am-chem-soc.pdf",
       "journal": "J Am Chem Soc 125 (2003) 2416-2425",
       "title": "A Modular Cross-Linking Approach for Exploring Protein Interactions"
     }
@@ -1301,21 +1301,21 @@
   "2002": [
     {
       "authors": "D. Fenyö, R.C. Beavis",
-      "link": "pdf//02_fenyo_trends-biotech.pdf",
+      "link": "/pdf//02_fenyo_trends-biotech.pdf",
       "journal": "Trends Biotechnol 20 (2002) S35-8",
       "title": "Informatics and data management in proteomics"
     },
     {
       "authors": "J. Eriksson, D. Fenyö",
-      "link": "pdf/02_Eriksson-Proteomics.pdf",
-      "erratum-link": "pdf/02_Eriksson-Proteomics-erratum.pdf",
+      "link": "/pdf/02_Eriksson-Proteomics.pdf",
+      "erratum-link": "/pdf/02_Eriksson-Proteomics-erratum.pdf",
       "erratum-journal": "Proteomics 2 (2002) 603",
       "journal": "Proteomics. 2 (2002) 262-70",
       "title": "A model of random mass-matching and its use for automated significance testing in mass spectrometric proteome analysis"
     },
     {
       "authors": "H.I. Field, D. Fenyö, R.C. Beavis",
-      "link": "pdf/02_Field-Proteomics.pdf",
+      "link": "/pdf/02_Field-Proteomics.pdf",
       "journal": "Proteomics 2 (2002) 36-47",
       "title": "RADARS, a bioinformatics solution that automates proteome mass spectral analysis, optimises protein identification, and archives data in a relational database"
     }
@@ -1323,19 +1323,19 @@
   "2000": [
     {
       "authors": "J. Eriksson, B.T. Chait, D. Fenyö",
-      "link": "pdf/00_eriksson_anal-chem.pdf",
+      "link": "/pdf/00_eriksson_anal-chem.pdf",
       "journal": "Anal Chem 72 (2000) 999-1005",
       "title": "A statistical basis for testing the significance of mass spectrometric protein identification results"
     },
     {
       "authors": "D. Fenyö",
-      "link": "pdf/00_fenyo_current-opinion.pdf",
+      "link": "/pdf/00_fenyo_current-opinion.pdf",
       "journal": "Current Opinion in Biotechnology, 11 (2000) 391-395",
       "title": "Identifying the proteome: software tools"
     },
     {
       "authors": "R.C. Beavis & D. Fenyö",
-      "link": "pdf/00_beavis_proteomics-trends-guide.pdf",
+      "link": "/pdf/00_beavis_proteomics-trends-guide.pdf",
       "journal": "In Proteomics: A Trends Guide, Eds. M. Mann and W. Blackstock, pp 23-27, Elsevier 2000",
       "title": "Database searching with mass spectrometric information"
     }
@@ -1343,7 +1343,7 @@
   "1999": [
     {
       "authors": "D. Fenyö",
-      "link": "pdf/99_Fenyo-Bioinformatics.pdf",
+      "link": "/pdf/99_Fenyo-Bioinformatics.pdf",
       "journal": "Bioinformatics 15 (1999) 339-340",
       "title": "The Biopolymer Markup Language"
     }
@@ -1351,13 +1351,13 @@
   "1998": [
     {
       "authors": "D. Fenyö and R.C. Beavis",
-      "link": "pdf/98_fenyo_marcel-dekker.pdf",
+      "link": "/pdf/98_fenyo_marcel-dekker.pdf",
       "journal": "in Mass spectrometry of Biological Materials, Eds. B. Larsen & C. McEwen, Marcel Dekker, 1998",
       "title": "Network-Based Bioinformatics in Protein Mass Spectrometry"
     },
     {
       "authors": "D. Fenyö, J. Qin, B.T. Chait",
-      "link": "pdf/98_fenyo_electrophoresis.pdf",
+      "link": "/pdf/98_fenyo_electrophoresis.pdf",
       "journal": "Electrophoresis 19 (1998) 998-1005",
       "title": "Protein Identification using Mass Spectrometric Information"
     }
@@ -1365,25 +1365,25 @@
   "1997": [
     {
       "authors": "Y. Wang, K. Severinov, N. Loizos, D. Fenyö, E. Heyduk, T. Heyduk, B. T. Chait, S.A. Darst",
-      "link": "pdf/97_wang_j-mol-biol.pdf",
+      "link": "/pdf/97_wang_j-mol-biol.pdf",
       "journal": "J Mol Biol (1997) 648-662",
       "title": "Determinants for Escherichia coli RNA Polymerase Assembly within the β Subunit"
     },
     {
       "authors": "J. Qin, D. Fenyö, Y. Zhao, W.W. Hall, D.M. Chao, C.J. Wilson, R.A. Young and B.T. Chait",
-      "link": "pdf/97_qin_Strategy_anal-chem.pdf",
+      "link": "/pdf/97_qin_Strategy_anal-chem.pdf",
       "journal": "Anal Chem 69 (1997) 3995-4001",
       "title": "A Strategy for Rapid, High Confidence Protein Identification"
     },
     {
       "authors": "D. Fenyö, B.T. Chait, T.E. Johnson, J.S. Lindsey",
-      "link": "pdf/97_fenyo_jpp.pdf",
+      "link": "/pdf/97_fenyo_jpp.pdf",
       "journal": "J Por and Phthalocy 1 (1997) 93-99",
       "title": "Laser desorption Mass Spectrometry of Large Synthetic Porphyrin Arrays"
     },
     {
       "authors": "D. Fenyö",
-      "link": "pdf/97_fenyo_cabios.pdf",
+      "link": "/pdf/97_fenyo_cabios.pdf",
       "journal": "Computer Applications in the Biosciences (CABIOS) 13 (1997) 617-8",
       "title": "A Software Tool for Analysis of Mass Spectrometric Disulfide Mapping Experiments"
     }
@@ -1391,19 +1391,19 @@
   "1996": [
     {
       "authors": "E. Severinova, K. Severinov, D. Fenyö, M. Marr, E.N. Brody, J.W. Roberts, B.T. Chait, S.A. Darst",
-      "link": "pdf/96_severinova_j-mol-biol.pdf",
+      "link": "/pdf/96_severinova_j-mol-biol.pdf",
       "journal": "J Mol Biol, 263 (1996) 637-647",
       "title": "Organization of the <i>Escherichia coli</i> RNA polymerase σ<sup >70</sup > subunit"
     },
     {
       "authors": "D. Fenyö, W. Zhang, B.T. Chait, R.C. Beavis",
-      "link": "pdf/96_fenyo_anal-chem.pdf",
+      "link": "/pdf/96_fenyo_anal-chem.pdf",
       "journal": "Anal Chem 68 (1996) 721A-726A",
       "title": "Internet-based Analytical Chemistry Resources. A Model Project"
     },
     {
       "authors": "A.A. Stewart, J.D. Haley, G.-Y. Qu, K. Stam, D. Fenyö, B.T. Chait, D.R. Marshak, A.Y.-K. Ng, G. Marley, K.K. Iwata",
-      "link": "pdf/96_stewart_growth-factors.pdf",
+      "link": "/pdf/96_stewart_growth-factors.pdf",
       "journal": "Growth Factors, 13 (1996) 87-98",
       "title": "Unbilical Cord Transforming Growth Factor-β3. Isolation, Comparison with Recombinant TGF-β3 and Cellular Localization"
     }
@@ -1411,7 +1411,7 @@
   "1995": [
     {
       "authors": "K. Stam, A.A. Stewart, G.Y. Qu, K.K. Iwata, D. Fenyö, B.T. Chait, D.R. Marshak, J.D. Haley",
-      "link": "pdf/95_stam_biochem-journal.pdf",
+      "link": "/pdf/95_stam_biochem-journal.pdf",
       "journal": "Biochem J 305 (1995) 87",
       "title": "Physical and Biologial Characterization of a Growth-Inhibitors Activity Purified from the Neuroepithelioma cell-line A673"
     }
@@ -1419,43 +1419,43 @@
   "1994": [
     {
       "authors": "K. Severinov, D. Fenyö, E. Severinov, B.T. Chait, A. Goldfarb, S. Darst",
-      "link": "pdf/94_severinov_JBC.pdf",
+      "link": "/pdf/94_severinov_JBC.pdf",
       "journal": "J Biol Chem 269 (1994) 20826-8",
       "title": "The σ-Subunit Conserved Region 3 is Part of the \"5’-Face\" of the active Center of <i>E. coli</i> RNA Polymerase"
     },
     {
       "authors": "H. Tang, K. Severinov, A. Goldfarb, D. Fenyö, B.T. Chait, R. Ebright",
-      "link": "pdf/94_tang_genes-dev.pdf",
+      "link": "/pdf/94_tang_genes-dev.pdf",
       "journal": "Gene Dev 8 (1994) 3058-67",
       "title": "Location, Structure, and Function of the Target of a Transcription Activator Protein"
     },
     {
       "authors": "P. Sinnis, P. Clavijo, D. Fenyö, B.T. Chait, C. Cerami, V. Nussenzweig",
-      "link": "pdf/94_sinnis_j-exp-med.pdf",
+      "link": "/pdf/94_sinnis_j-exp-med.pdf",
       "journal": "J Exp Med 180 (1994) 297-306",
       "title": "Structural and Functional Properties of Region II-Plus of the Malaria Circumsporozoite Protein"
     },
     {
       "authors": "T.S.R. Krishna, D. Fenyö, X–P. Kong, S. Gary, B.T. Chait, P. Burgers, J. Kuriyan",
-      "link": "pdf/94_krishna_jmb.pdf",
+      "link": "/pdf/94_krishna_jmb.pdf",
       "journal": "J Mol Biol 241 (1994) 265-268",
       "title": "Crystallization of Proliferating Cell Nuclear Antigen (PCNA) from <i>Saccharomyces cerevisiae</i>"
     },
     {
       "authors": "G. Brinkmalm, P. Demirev, J. Eriksson, D. Fenyö, P. Håkansson & B. U. R. Sundqvist",
-      "link": "pdf/94_brinkmalm_nimb.pdf",
+      "link": "/pdf/94_brinkmalm_nimb.pdf",
       "journal": "Nuclear Instruments and Methods in Physics Research B84 (1994) 37-42",
       "title": "Electronic Sputtering of Fullerenes and the Influence of Primary Ion Charge-State"
     },
     {
       "authors": "R.M. Papaleo, G. Brinkmalm, D. Fenyö, J. Eriksson, H.-F. Kammer, P. Demirev, P. Håkansson & B. U. R. Sundqvist",
-      "link": "pdf/94_papleo_nimb.pdf",
+      "link": "/pdf/94_papleo_nimb.pdf",
       "journal": "Nuclear Instruments and Methods in Physics Research B91 (1994) 667-671",
       "title": "MeV ion sputtering of polymers: correlation between secondary ion radial velocity distributions and heavy ion track structure"
     },
     {
       "authors": "D. Fenyö, P. Håkansson & B. U. R. Sundqvist",
-      "link": "pdf/94_fenyo_nimb.pdf",
+      "link": "/pdf/94_fenyo_nimb.pdf",
       "journal": "Nuclear Instruments and Methods B84 (1994) 31",
       "title": "On the Ejection of Hydrogen Ions from Organic Solids Impacted by MeV Ions"
     }
@@ -1463,19 +1463,19 @@
   "1993": [
     {
       "authors": "G. Brinkmalm, P. Demirev, D. Fenyö, P. Håkansson, J. Kopniczky & B. U. R. Sundqvist",
-      "link": "pdf/93_brinkmalm_phys-rev-b.pdf",
+      "link": "/pdf/93_brinkmalm_phys-rev-b.pdf",
       "journal": "Physical Review B47 (1993) 7560-7567",
       "title": "Formation of Fullerenes in MeV-ion Sputtering from Organic Solids"
     },
     {
       "authors": "P. Demirev, D. D. N. B. Daya, G. Brinkmalm, D. Fenyö, P. Håkansson & B. U. R. Sundqvist",
-      "link": "pdf/93_demirev_ijmsip.pdf",
+      "link": "/pdf/93_demirev_ijmsip.pdf",
       "journal": "International Journal of Mass Spectrometry and Ion Processes 123 (1993) 69",
       "title": "On Molecular Ion Formation by Hydride Abstraction in Plasma Desorption Mass Spectrometry"
     },
     {
       "authors": "D. Fenyö",
-      "link": "pdf/93_fenyo_phys-rev-b.pdf",
+      "link": "/pdf/93_fenyo_phys-rev-b.pdf",
       "journal": "Physical Review B47 (1993) 8263",
       "title": "Sputtering by a Sum of Impulses: The Effect of Finite Track Width"
     }
@@ -1483,13 +1483,13 @@
   "1992": [
     {
       "authors": "D. Fenyö & R. E. Johnson",
-      "link": "pdf/92_fenyo_phys-rev-b.pdf",
+      "link": "/pdf/92_fenyo_phys-rev-b.pdf",
       "journal": "Physical Review B46 (1992) 5090",
       "title": "Computer Experiments on Molecular Ejection from an Amorphous Solid: Comparison to an Analytic Continuum Mechanical Model"
     },
     {
       "authors": "G. Brinkmalm, D. Barofsky, P. Demirev, D. Fenyö, P. Håkansson, R. E. Johnson, C.T. Reimann & B. U. R. Sundqvist",
-      "link": "pdf/92_brinkmalm_chem-phys-lett.pdf",
+      "link": "/pdf/92_brinkmalm_chem-phys-lett.pdf",
       "journal": "Chemical Physics Letters 191 (1992) 345-350",
       "title": "Formation of Fullerenes in MeV Ion Track Plasmas"
     }
@@ -1497,19 +1497,19 @@
   "1991": [
     {
       "authors": "P. Demirev, G. Brinkmalm, D. Fenyö, P. Håkansson & B. U. R. Sundqvist",
-      "link": "pdf/91_demirev_ijmsip.pdf",
+      "link": "/pdf/91_demirev_ijmsip.pdf",
       "journal": "International Journal of Mass Spectrometry and Ion Processes 111 (1991) 41",
       "title": "Radial velocities of ejected ions: implications for the mechanism of molecular ion formation in plasma desorption mass spectrometry of biomolecules"
     },
     {
       "authors": "A. Hallen, D. Fenyö, B.U.R. Sundqvist , R.E. Johnson & B.G. Svensson, Dose-Rate",
-      "link": "pdf/91_hallen_j-appl-phys.pdf",
+      "link": "/pdf/91_hallen_j-appl-phys.pdf",
       "journal": "Journal of Applied Physics 70 (1991) 3025",
       "title": "Dependence on the Defect Production in MeV Proton-Irradiated Silicon"
     },
     {
       "authors": "D. Fenyö",
-      "link": "pdf/91_fenyo_auu.pdf",
+      "link": "/pdf/91_fenyo_auu.pdf",
       "journal": "ACTA UNIVERSITATIS UPSALIENSIS, Almqvist & Wiksell Int., Stockholm, 1991",
       "title": "Electronic Sputtering of Organic Solids"
     },
@@ -1525,7 +1525,7 @@
     },
     {
       "authors": "P. Demirev, D. Fenyö, P. Håkansson & B. U. R. Sundqvist",
-      "link": "pdf/91_demirev_oms.pdf",
+      "link": "/pdf/91_demirev_oms.pdf",
       "journal": "Organic Mass Spectrometry 26 (1991), 471",
       "title": "On the Mechanism of Formation of Alkali Cation Adducts in Plasma Desorption Mass Spectrometry of Biomolecules"
     }
@@ -1533,13 +1533,13 @@
   "1990": [
     {
       "authors": "D. Fenyö, A. Hedin, P. Håkansson & B. U. R. Sundqvist",
-      "link": "pdf/90_fenyo_ijmsip.pdf",
+      "link": "/pdf/90_fenyo_ijmsip.pdf",
       "journal": "International Journal of Mass Spectrometry and Ion Processes 100 (1990) 63",
       "title": "Radial Velocity Distribution of Ions Ejected from Organic Solids by Fast Heavy Ion Bombardment"
     },
     {
       "authors": "D. Fenyö, B. U. R. Sundqvist, B. Karlsson & R. E. Johnson",
-      "link": "pdf/90_fenyo_phys-rev-b.pdf",
+      "link": "/pdf/90_fenyo_phys-rev-b.pdf",
       "journal": "Physical Review B42 (1990) 1895",
       "title": "A Molecular Dynamics Study of Sputtering of Large Molecules"
     },
@@ -1557,19 +1557,19 @@
   "1989": [
     {
       "authors": "R. E. Johnson, B. U. R. Sundqvist, A. Hedin & D. Fenyö",
-      "link": "pdf/89_johnson_phys-rev-b.pdf",
+      "link": "/pdf/89_johnson_phys-rev-b.pdf",
       "journal": "Physical Review B40 (1989) 49",
       "title": "Sputtering by Fast Ions Using a Sum of Impulses"
     },
     {
       "authors": "A. Hedin, D. Fenyö, P. Håkansson, G. Jonsson & B. U. R. Sundqvist",
-      "link": "pdf/89_hedin_nimb.pdf",
+      "link": "/pdf/89_hedin_nimb.pdf",
       "journal": "Nuclear Instruments and Methods B40/41 (1989) 275",
       "title": "Electronic Sputtering of Biomolecules"
     },
     {
       "authors": "B. U. R Sundqvist, D. Fenyö, A. Hedin, P. Håkansson, G. Jonsson, W. Ens & R. E. Johnson",
-      "link": "pdf/89_sundqvist_rad-eff-def-solids.pdf",
+      "link": "/pdf/89_sundqvist_rad-eff-def-solids.pdf",
       "journal": "Radiation Effects and Defects in Solids 109 (1989) 169",
       "title": "Directional Correlations Between Incident Particle and Secondary Ions in Electronic Sputtering of Large Organic Molecules"
     },

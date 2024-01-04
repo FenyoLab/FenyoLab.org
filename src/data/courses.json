@@ -1,0 +1,159 @@
+[
+  {
+    "image": "/images/courses/blank.jpg",
+    "link": "Methods_2021",
+    "title": "Methods in Quantitive Biology (BMSC-GA 4449) and Methodological Foundations of BMI (BMIN-GA 1001) Fall 2021",
+    "location": " Sackler Institute of Graduate Biomedical Sciences, NYU School of Medicine"
+  },
+  {
+    "link": "Machine_Learning_2021",
+    "title": "Machine Learning Fall 2021 (BMSC-GA 4439 and BMIN-GA 1004)",
+    "location": " Sackler Institute of Graduate Biomedical Sciences, NYU School of Medicine",
+    "image": "/images/courses/blank.jpg"
+  },
+  {
+    "image": "/images/courses/blank.jpg",
+    "link": "Proteomics_Informatics_2021",
+    "title": "Proteomics Informatics Spring 2021 (BMSC-GA 4437)",
+    "location": " Sackler Institute of Graduate Biomedical Sciences, NYU School of Medicine"
+  },
+  {
+    "link": "Machine_Learning_2020",
+    "title": "Machine Learning Fall 2020 (BMSC-GA 4439 and BMIN-GA 1004)",
+    "location": " Sackler Institute of Graduate Biomedical Sciences, NYU School of Medicine",
+    "image": "/images/courses/blank.jpg"
+  },
+  {
+    "image": "/images/courses/blank.jpg",
+    "link": "Methods_2020",
+    "title": "Methods in Quantitive Biology (BMSC-GA 4449) and Methodological Foundations of BMI (BMIN-GA 1001) Fall 2020",
+    "location": " Sackler Institute of Graduate Biomedical Sciences, NYU School of Medicine, 2020"
+  },
+  {
+    "link": "Bioinformatics_2020",
+    "title": "Introduction to Bioinformatics",
+    "location": " for wet-lab biologists at NYULH, during the COVID-19 pause",
+    "image": "/images/courses/Bioinformatics_2020/bi20.jpg"
+  },
+  {
+    "image": "/images/courses/Proteomics_Informatics_2020/pi2020.jpg",
+    "link": "Proteomics_Informatics_2020",
+    "title": "Proteomics Informatics Spring 2020 (BMSC-GA 4437)",
+    "location": " Sackler Institute of Graduate Biomedical Sciences, NYU School of Medicine"
+  },
+  {
+    "link": "Machine_Learning_2019",
+    "title": "Machine Learning Fall 2019 (BMSC-GA 4439 and BMIN-GA 1004)",
+    "location": " Sackler Institute of Graduate Biomedical Sciences, NYU School of Medicine",
+    "image": "/images/courses/Machine_Learning_2019/ml2019.jpg"
+  },
+  {
+    "image": "/images/courses/Methods_2019/methods2019.png",
+    "link": "Methods_2019",
+    "title": "Methods in Quantitive Biology (BMSC-GA 4449) and Methodological Foundations of BMI (BMIN-GA 1001) Fall 2019",
+    "location": " Sackler Institute of Graduate Biomedical Sciences, NYU School of Medicine, 2019"
+  },
+  {
+    "link": "Proteomics_Informatics_2019",
+    "title": "Proteomics Informatics Spring 2019 (BMSC-GA 4437)",
+    "location": " Sackler Institute of Graduate Biomedical Sciences, NYU School of Medicine, 2019",
+    "image": "/images/courses/Proteomics_Informatics_2019/pi2019.png"
+  },
+  {
+    "image": "/images/courses/Methods_2018/methods2018.png",
+    "link": "Methods_2018",
+    "title": "Methods in Quantitive Biology (BMSC-GA 4449) and Methodological Foundations of BMI (BMIN-GA 1001) Fall 2018",
+    "location": " Sackler Institute of Graduate Biomedical Sciences, NYU School of Medicine, 2018"
+  },
+  {
+    "link": "Machine_Learning_Fall_2018/",
+    "title": "Machine Learning Fall 2018 (BMSC-GA 4439 and BMIN-GA 1004)",
+    "location": " Sackler Institute of Graduate Biomedical Sciences, NYU School of Medicine, 2018",
+    "image": "/images/courses/Machine_Learning_Fall_2018/ml2018.png"
+  },
+  {
+    "image": "/images/courses/Proteomics_Informatics_2018/pi2018.png",
+    "link": "Proteomics_Informatics_2018",
+    "title": "Proteomics Informatics Spring 2018 (BMSC-GA 4437)",
+    "location": " Sackler Institute of Graduate Biomedical Sciences, NYU School of Medicine, 2018"
+  },
+  {
+    "link": "Machine_Learning_2018",
+    "title": "Machine Learning Spring 2018 (BMSC-GA 4439 and BMIN-GA 1004)",
+    "location": " Sackler Institute of Graduate Biomedical Sciences, NYU School of Medicine, 2018",
+    "image": "/images/courses/Machine_Learning_2018/ml2018.png"
+  },
+  {
+    "image": "/images/courses/Methods_2017/methods2017.png",
+    "link": "Methods_2017",
+    "title": "Methods in Quantitive Biology (BMSC-GA 4449) and Methodological Foundations of BMI (BMIN-GA 1001) Fall 2017",
+    "location": " Sackler Institute of Graduate Biomedical Sciences, NYU School of Medicine, 2017"
+  },
+  {
+    "link": "Machine_Learning_2017",
+    "title": "Machine Learning Spring 2017 (BMSC-GA 4439)",
+    "location": " Sackler Institute of Graduate Biomedical Sciences, NYU School of Medicine, 2017",
+    "image": "/images/courses/Machine_Learning_2017/ml2017.jpg"
+  },
+  {
+    "image": "/images/courses/Proteomics_Informatics_2016/proteomics-informatics-2016.png",
+    "link": "Proteomics_Informatics_2016",
+    "title": "Proteomics Informatics Spring 2016 (BMSC-GA 4437)",
+    "location": " Sackler Institute of Graduate Biomedical Sciences, NYU School of Medicine, 2016"
+  },
+  {
+    "link": "Topics_Bioinformatics_2016",
+    "title": "Topics in Bioinformatics Spring 2016 (BMSC-GA 4456)",
+    "location": " Sackler Institute of Graduate Biomedical Sciences, NYU School of Medicine, 2016",
+    "image": "/images/courses/Topics_Bioinformatics_2016/topics-bioinformatics-2016.png"
+  },
+  {
+    "image": "/images/courses/Introduction_Biostatistics_Bioinformatics_2015/ibb2015.png",
+    "link": "Introduction_Biostatistics_Bioinformatics_2015",
+    "title": "Introduction to Biostatistics and Bioinformatics Fall 2015 (BMSC-GA 4451)",
+    "location": " Sackler Institute of Graduate Biomedical Sciences, NYU School of Medicine, 2015"
+  },
+  {
+    "link": "BMI_Methods_2015",
+    "title": "Methodological Foundations of Biomedical Informatics Fall 2015 (BMSC-GA 4449)",
+    "location": " Sackler Institute of Graduate Biomedical Sciences, NYU School of Medicine, 2015",
+    "image": "/images/courses/BMI_Methods_2015/methods2015.png"
+  },
+  {
+    "image": "/images/courses/Proteomics_Informatics_2015/proteomics-informatics-2015.png",
+    "link": "Proteomics_Informatics_2015",
+    "title": "Proteomics Informatics Spring 2015 (BMSC-GA 4437)",
+    "location": " Sackler Institute of Graduate Biomedical Sciences, NYU School of Medicine, 2015"
+  },
+  {
+    "link": "BMI_Methods_2014",
+    "title": "Methodological Foundations of Biomedical Informatics Fall 2014 (BMSC-GA 4449)",
+    "location": " Sackler Institute of Graduate Biomedical Sciences, NYU School of Medicine, 2014",
+    "image": "/images/courses/BMI_Methods_2014/methods2014.png"
+  },
+  {
+    "image": "/images/courses/Introduction_Biostatistics_Bioinformatics_2014/ibb2014.png",
+    "link": "Introduction_Biostatistics_Bioinformatics_2014",
+    "title": "Introduction to Biostatistics and Bioinformatics Fall 2014 (BMSC-GA 4451)",
+    "location": " Sackler Institute of Graduate Biomedical Sciences, NYU School of Medicine, 2014"
+  },
+  {
+    "link": "Proteomics_Informatics_2014",
+    "title": "Proteomics Informatics Spring 2014 (BMSC-GA 4437)",
+    "location": " Sackler Institute of Graduate Biomedical Sciences, NYU School of Medicine, 2014",
+    "image": "/images/courses/Proteomics_Informatics_2014/proteomics-informatics-2014.png"
+  },
+  {
+    "image": "/images/courses/Proteomics_Informatics_2013/proteomics-informatics-2013.png",
+    "link": "Proteomics_Informatics_2013",
+    "title": "Proteomics Informatics Spring 2013 (BMSC-GA 4437)",
+    "location": " Sackler Institute of Graduate Biomedical Sciences, NYU School of Medicine, 2013"
+  },
+  {
+    "presenter": "David Fenyö",
+    "link": "Proteomics Informatics Workshop 2011/index.html",
+    "title": "Proteomics Informatics Workshop 2011",
+    "location": " NYU School of Medicine, Feb 2011",
+    "image": "/images/courses/Proteomics Informatics Workshop 2011/icon.png"
+  }
+]
