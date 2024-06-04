@@ -65,6 +65,19 @@
       "firstName": "Maria",
       "lastName": "Benitez-Jones",
       "position": "Ph.D. 2023"
+    },
+    
+    {
+      "image": "/images/members/lizabeth-katsnelson.jpg",
+      "firstName": "Lizabeth",
+      "lastName": "Katsnelson",
+      "position": "Ph.D. 2024"
+    },
+   {
+      "image": "/images/members/joshua-wang.jpg",
+      "firstName": "Joshua",
+      "lastName": "Wang",
+      "position": "Ph.D. 2024"
     }
   ],
   "Postdocs / Research Scientist": [
