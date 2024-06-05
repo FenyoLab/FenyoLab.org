@@ -91,6 +91,45 @@
       "title": "The largest SWI/SNF polyglutamine domain is a pH sensor"
     }
   ],
+  "2024": [
+  
+    {
+      "authors": "",
+      "link": "",
+      "journal": "",
+      "title": ""
+    },
+    {
+      "authors": "Goehring L, Keegan S, Lahiri S, Xia W, Kong M, Jimenez-Sainz J, Gupta D, Drapkin R, Jensen RB, Smith DJ, Rothenberg E, Fenyö D, Huang TT",
+      "link": "https://doi.org/10.1038/s41467-024-48286-1",
+      "journal": "Nat Commun. 2024 Jun 3;15(1):4716",
+      "title": "Dormant origin firing promotes head-on transcription-replication conflicts at transcription termination sites in response to BRCA2 deficiency."
+    },
+    {
+      "authors": "Stephan G, Haddock S, Wang S, Erdjument-Bromage H, Liu W, Ravn-Boess N, Frenster JD, Bready D, Cai J, Ronnen R, Sabio-Ortiz J, Fenyo D, Neubert TA, Placantonakis DG",
+      "link": "https://doi.org/10.1016/j.celrep.2024.114229",
+      "journal": "Cell Rep. 2024 May 28;43(5):114229",
+      "title": "Modulation of GPR133 (ADGRD1) signaling by its intracellular interaction partner extended synaptotagmin 1."
+    },
+    {
+      "authors": "Rona G, Miwatani-Minter B, Zhang Q, Goldberg HV, Kerzhnerman MA, Howard JB, Simoneschi D, Lane E, Hobbs JW, Sassani E, Wang AA, Keegan S, Laverty DJ, Piett CG, Pongor LS, Xu ML, Andrade J, Thomas A, Sicinski P, Askenazi M, Ueberheide B, Fenyö D, Nagel ZD, Pagano M",
+      "link": "https://doi.org/10.1016/j.molcel.2024.02.010",
+      "journal": "Mol Cell 2024 S1097-2765(24)00129-1",
+      "title": "CDK-independent role of D-type cyclins in regulating DNA mismatch repair"
+    },
+    {
+      "authors": "Okimoto LYS, Mendonca-Neto R, Nakamura FG, Nakamura EF, Fenyö D, Silva CT:",
+      "link": "https://doi.org/10.1186/s12859-024-05715-8",
+      "journal": "BMC Bioinformatics 25 (2024) 92",
+      "title": "Few-shot genes selection: subset of PAM50 genes for breast cancer subtypes classification"
+    },
+    {
+      "authors": "Petralia F, Ma W, Yaron TM, Caruso FP, Tignor N, Wang JM, Charytonowicz D, Johnson JL, Huntsman EM, Marino GB, Calinawan A, Evangelista JE, Selvan ME, Chowdhury S, Rykunov D, Krek A, Song X, Turhan B, Christianson KE, Lewis DA, Deng EZ, Clarke DJB, Whiteaker JR, Kennedy JJ, Zhao L, Segura RL, Batra H, Raso MG, Parra ER, Soundararajan R, Tang X, Li Y, Yi X, Satpathy S, Wang Y, Wiznerowicz M, González-Robles TJ, Iavarone A, Gosline SJC, Reva B, Robles AI, Nesvizhskii AI, Mani DR, Gillette MA, Klein RJ, Cieslik M, Zhang B, Paulovich AG, Sebra R, Gümüs ZH, Hostetter G, Fenyö D, Omenn GS, Cantley LC, Ma'ayan A, Lazar AJ, Ceccarelli M, Wang P",
+      "link": "https://doi.org/10.1016/j.cell.2024.01.027",
+      "journal": "Cell 2024 S0092-8674(24)00064-3",
+      "title": "Clinical Proteomic Tumor Analysis Consortium. Pan-cancer proteogenomics characterization of tumor immunity""
+    }
+  ],
   "2023": [
     {
       "authors": "Dou Y, Katsnelson L, Zhang B, Fenyö D, Liu T",
