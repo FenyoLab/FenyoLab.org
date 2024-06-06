@@ -61,34 +61,10 @@
       "title": "Modulation of GPR133 (ADGRD1) Signaling by its Intracellular Interaction Partner Extended Synaptotagmin 1 (ESYT1)"
     },
     {
-      "authors": "Grant A. Hussey, Chenzhen Zhang, Alexis P. Sullivan, David Fenyö, Jonas Schluter",
-      "link": "bioRxiv 2022.10.18.512783",
-      "journal": "bioRxiv 2022.10.18.512783",
-      "title": "The MTIST platform: a microbiome time series inference standardized test simulation, dataset, and scoring systems"
-    },
-    {
-      "authors": "Sergei German, Leslie Mitchell, Antonio Vela Gartner, David Fenyo, Jef D. Boeke",
-      "link": "https://doi.org/10.1101/2022.06.26.496474",
-      "journal": "bioRxiv 2022.06.26.496474",
-      "title": "MenDEL: PCR Primer Design as Constrained Optimization Process"
-    },
-    {
-      "authors": "Sergei German, Sudarshan Pinglay, Brendan Camellato, David Fenyo, Jef D. Boeke",
-      "link": "https://doi.org/10.1101/2022.06.26.496179",
-      "journal": "bioRxiv 2022.06.26.496179",
-      "title": "MenDEL: automated search of BAC sets covering long DNA regions of interest"
-    },
-    {
       "authors": "Tamas Szoradi, Tong Shu, Gururaj R Kidiyoor, Ying Xie, Nora L Herzog, Andrew Bazley, Martina Bonucci, Sarah Keegan, Shivanjali Saxena, Farida Ettefa, Gregory P Brittingham, Joel Lemiere, David Fenyo, Fred Chang, Morgan Delarue, Liam J Holt",
       "link": "https://doi.org/10.1101/2021.11.18.469159",
       "journal": "bioRxiv 2021.11.18.469159",
       "title": "nucGEMs probe the biophysical properties of the nucleoplasm"
-    },
-    {
-      "authors": "Wenke Liu, Xuya Wang, D R Mani, David Fenyo",
-      "link": "https://doi.org/10.1101/2021.07.15.452534",
-      "journal": "bioRxiv 2021.07.15.452534",
-      "title": "Modeling transcriptional profiles of gene perturbation with deep neural network"
     },
     {
       "authors": "Jeovanis Gil, Yonghyo Kim, Beáta Szeitz, Viktória Doma, Ugur Çakir, Natália Pinto de Almeida, Yanick Paco Hagemeijer, Victor Guryev, Jenny G Johansson, Yogita Sharma, Indira Pla Parada, Zsolt Horvath, Jéssica de Siqueira Guedes, Gustavo Monnerat, Fábio CS Nogueira, Boram Lee, Henriett Oskolas, Enikö Kuroli, Judit Hársing, Yutaka Sugihara, Magdalena Kuras, Roger Appelqvist, Elisabet Wieslander, Gilberto B Domont, Bo Baldetorp, Runyu Hong, Gergely Huszty, Laura Vizkeleti, József Tímár, David Fenyö, Lazaro Hiram Betancourt, Johan Jakobsson, Johan Malm, Aniel Sanchez, A. Marcell Szász, Peter Horvatovich, Melinda Rezeli, Sarolta Kárpáti, György Marko-Varga",
@@ -101,18 +77,6 @@
       "link": "https://doi.org/10.1101/2020.07.21.214205",
       "journal": "bioRxiv 2020.07.21.214205",
       "title": "DreamAI: algorithm for the imputation of proteomics data"
-    },
-    {
-      "authors": "Mehrnoosh Oghbaie, Petr Sulc, David Fenyo, Michael Pennock, John LaCava",
-      "link": "https://doi.org/10.1101/744656",
-      "journal": "bioRxiv 744656",
-      "title": "Complex+: Aided Decision-Making for the Study of Protein Complexes"
-    },
-    {
-      "authors": "Juan Ignacio Gutierrez, Gregory Brittingham, Xuya Wang, David Fenyo, Liam J Holt",
-      "link": "https://doi.org/10.1101/165043",
-      "journal": "bioRxiv 165043",
-      "title": "The largest SWI/SNF polyglutamine domain is a pH sensor"
     }
   ],
   "2024": [
@@ -329,6 +293,18 @@
       "link": "https://doi.org/10.3390/biomedinformatics2010010",
       "journal": "BioMedInformatics 2022, 2, 159-168",
       "title": "Deep Learning and Its Applications in Computational Pathology"
+    },
+    {
+      "authors": "Sergei German, Leslie Mitchell, Antonio Vela Gartner, David Fenyo, Jef D. Boeke",
+      "link": "https://doi.org/10.1101/2022.06.26.496474",
+      "journal": "bioRxiv 2022.06.26.496474",
+      "title": "MenDEL: PCR Primer Design as Constrained Optimization Process"
+    },
+    {
+      "authors": "Sergei German, Sudarshan Pinglay, Brendan Camellato, David Fenyo, Jef D. Boeke",
+      "link": "https://doi.org/10.1101/2022.06.26.496179",
+      "journal": "bioRxiv 2022.06.26.496179",
+      "title": "MenDEL: automated search of BAC sets covering long DNA regions of interest"
     }
   ],
   "2021": [
@@ -447,6 +423,12 @@
       "link": "https://doi.org/10.1038/s41596-020-00454-5",
       "journal": "Nat Protoc. 2021 Jan 13",
       "title": "Monitoring genome-wide replication fork directionality by Okazaki fragment sequencing in mammalian cells"
+    },
+    {
+      "authors": "Wenke Liu, Xuya Wang, D R Mani, David Fenyo",
+      "link": "https://doi.org/10.1101/2021.07.15.452534",
+      "journal": "bioRxiv 2021.07.15.452534",
+      "title": "Modeling transcriptional profiles of gene perturbation with deep neural network"
     }
   ],
   "2020": [
@@ -631,6 +613,12 @@
       "link": "https://doi.org/10.1074/mcp.RA118.001266",
       "journal": "Mol Cell Proteomics. 2019 Jan 7. pii: mcp.RA118.001266",
       "title": "Quantitative mass spectrometry to interrogate proteomic heterogeneity in metastatic lung adenocarcinoma and validate a novel somatic mutation CDK12-G879V"
+    },
+    {
+      "authors": "Mehrnoosh Oghbaie, Petr Sulc, David Fenyo, Michael Pennock, John LaCava",
+      "link": "https://doi.org/10.1101/744656",
+      "journal": "bioRxiv 744656",
+      "title": "Complex+: Aided Decision-Making for the Study of Protein Complexes"
     }
   ],
   "2018": [
@@ -729,6 +717,12 @@
       "link": "https://doi.org/10.7554/eLife.30094",
       "journal": "Elife. 2018 Jan 8;7. pii: e30094",
       "title": "Dissection of affinity captured LINE-1 macromolecular complexes"
+    },
+    {
+      "authors": "Juan Ignacio Gutierrez, Gregory Brittingham, Xuya Wang, David Fenyo, Liam J Holt",
+      "link": "https://doi.org/10.1101/165043",
+      "journal": "bioRxiv 165043",
+      "title": "The largest SWI/SNF polyglutamine domain is a pH sensor"
     }
   ],
   "2017": [
