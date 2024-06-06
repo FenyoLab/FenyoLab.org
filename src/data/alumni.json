@@ -519,6 +519,12 @@
       "firstName": "Aron",
       "lastName": "Bartha",
       "position": "Visiting Student 2022-2023"
-    }
+    },
+     {
+      "image": "/images/members/jon-ma.jpg",
+      "firstName": "Jon",
+      "lastName": "Ma",
+      "position": "Master's Student 2023-2024"
+    },
   ]
 }
