@@ -17,12 +17,6 @@
       "position": "MD/PhD Student"
     },
     {
-      "image": "/images/members/lizabeth-katsnelson.jpg",
-      "firstName": "Lizabeth",
-      "lastName": "Katsnelson",
-      "position": "Ph.D. Student"
-    },
-    {
       "image": "/images/members/noor-chalhoub.jpg",
       "firstName": "Noor",
       "lastName": "Chalhoub",
@@ -98,8 +92,16 @@
       "lastName": "Nawlo",
       "suffix": "M.D.",
       "position": "Gynecologic Oncology Fellow"
-    }
+    },
+    
+    {
+      "image": "/images/members/lizabeth-katsnelson.jpg",
+      "firstName": "Lizabeth",
+      "lastName": "Katsnelson",
+      "position": "Postdoctoral Fellow"
+    },
   ],
+  
 
   "Staff": [
     {
@@ -117,13 +119,6 @@
     }
   ],
   "Interns / Visitors / Rotation Students / Master's Students": [
-    {
-      "image": "/images/members/jon-ma.jpg",
-      "firstName": "Jon",
-      "lastName": "Ma",
-      "position": "Master's Student"
-    },
-
     {
       "image": "/images/members/aliza-siegman.jpg",
       "firstName": "Aliza",
