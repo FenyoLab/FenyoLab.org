@@ -25,14 +25,12 @@ interface Member {
     {
       Object.entries(members).map(([group, members]) => (
         <>
-          <p>
           <li class="font-bold">{group}</li>
           <ul class="list-none space-y-8">
             {members.map((member: Member) => (
               <MemberCard {...member} />
             ))}
           </ul>
-          </p>
         </>
       ))
     }
