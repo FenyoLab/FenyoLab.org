@@ -1,6 +1,12 @@
 {
   "Preprints": [
     {
+      "authors": "Hussey G, Valeriano J, Zhang C, Sullivan A, Fenyö D, Schluter J",
+      "link": "https://doi.org/10.21203/rs.3.rs-4343683/v1",
+      "journal": "Res Sq [Preprint]. 2024 May 8:rs.3.rs-4343683",
+      "title": "The MTIST platform: a microbiome time series inference standardized test"
+    },
+    {
       "authors": "Leticia Szadai, Aron Bartha, Indira Pla Parada, Alexandra Lakatos, Dorottya Pál, Anna Sára Lengyel, Natália Pinto de Almeida, Ágnes Judit Jánosi, Fábio Nogueira, Beata Szeitz, Viktória Doma, Nicole Woldmar, Jéssica Guedes, Zsuzsanna Ujfaludi, Zoltán Gábor Pahi, Tibor Pankotai, Yonghyo Kim, Balázs Győrffy, Bo Baldetorp, Charlotte Welinder, A. Marcell Szasz, Lazaro Betancourt, Jeovanis Gil, Roger Appelqvist, Ho-Jeong Kwon, Sarolta Kárpáti, Magdalena Kuras, Jimmy Rodriguez Murillo, István Balázs Németh, Johan Malm, David Fenyö, Krzysztof Pawłowski, Peter Horvatovich, Elisabet Wieslander, Lajos V. Kemény, Gilberto Domont, György MarkoVarga, Aniel Sanchez",
       "link": "https://doi.org/10.1101/2024.05.01.592032",
       "journal": "bioRxiv 2024.05.01.592032",
