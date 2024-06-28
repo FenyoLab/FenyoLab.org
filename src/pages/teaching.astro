@@ -20,19 +20,6 @@ interface Course {
 ---
 
 <Layout title="Teaching">
-  <div class="flex mb-6">
-    <a href="/presentations/" class="pr-2 hover:underline hover:text-slate-500"
-      >Presentations</a
-    >
-    |
-    <a
-      href="/teaching/"
-      class="px-2 font-bold hover:underline hover:text-slate-500">Teaching</a
-    > |
-    <a href="/invited/" class="pl-2 hover:underline hover:text-slate-500"
-      >Invited Speakers</a
-    >
-  </div>
   <ul class="list-disc list-inside text-sm pl-4 mb-8">
     {
       selectLectures.map((lecture: Lecture) => (
