@@ -93,15 +93,15 @@
       "suffix": "M.D.",
       "position": "Gynecologic Oncology Fellow"
     },
-    
+
     {
       "image": "/images/members/lizabeth-katsnelson.jpg",
       "firstName": "Lizabeth",
       "lastName": "Katsnelson",
-      "position": "Postdoctoral Fellow"
+      "position": "Postdoctoral Fellow",
+      "projectDesc": "Lisa is interested in utilizing machine learning methods to study the association between chromosome-specific aneuploidies and immune evasion in cancer."
     }
   ],
-  
 
   "Staff": [
     {

@@ -5,22 +5,55 @@ interface Props {
   lastName: string;
   position: string;
   suffix?: string;
-  email?: string;
+  projectDesc?: string;
+  summary?: boolean;
 }
 
-const { image, firstName, lastName, position, suffix, email } = Astro.props;
+const {
+  image,
+  firstName,
+  lastName,
+  position,
+  suffix,
+  projectDesc,
+  summary = false,
+} = Astro.props;
 ---
 
-<li class="flex gap-2 items-center pl-4 h-32">
-  <div class="h-32 overflow-hidden">
-    <img width="107" src={image} alt="alt" />
-  </div>
-  <div>
-    <div class="font-bold leading-tight">
-      {firstName}
-      {lastName}{" "}
-      {suffix && `, ${suffix}`}
-    </div>
-    <div class="text-sm">{position}</div>
-  </div>
-</li>
+{
+  !summary ? (
+    <li class="flex items-center mb-4 rounded-lg bg-stone-100">
+      <div class="w-48 overflow-hidden flex-none">
+        <div class="flex flex-col justify-center rounded-l-lg w-48 bg-stone-300 items-center p-4">
+          <img
+            src={image}
+            alt="alt"
+            class="h-24 mb-4 ring-2 ring-white rounded-lg object-scale-down"
+          />
+          <div class="font-bold text-sm leading-tight">
+            {firstName}
+            {lastName} {suffix && `, ${suffix}`}
+          </div>
+          <div class="text-sm text-center">{position}</div>
+        </div>
+      </div>
+      <div class="p-4">{projectDesc}</div>
+    </li>
+  ) : (
+    <li>
+      <div class="flex flex-col justify-start rounded-lg h-52 w-52 bg-stone-300 items-center p-4">
+        <img
+          src={image}
+          alt="alt"
+          class="h-24 mb-4 ring-2 ring-white rounded-lg object-scale-down"
+        />
+        <div class="font-bold text-sm leading-tight text-center">
+          <span>{`${firstName} ${lastName}`}</span>
+          {suffix && `, ${suffix}`}
+        </div>
+
+        <div class="text-sm font-normal text-center">{position}</div>
+      </div>
+    </li>
+  )
+}
