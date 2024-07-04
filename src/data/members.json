@@ -66,6 +66,13 @@
       "firstName": "Ze",
       "lastName": "Chen",
       "position": "Ph.D. Student"
+    },
+
+    {
+      "image": "/images/members/linda-procell.jpg",
+      "firstName": "Linda",
+      "lastName": "Procell",
+      "position": "Ph.D. Student"
     }
   ],
 
@@ -100,6 +107,14 @@
       "lastName": "Katsnelson",
       "position": "Postdoctoral Fellow",
       "projectDesc": "Lisa is interested in utilizing machine learning methods to study the association between chromosome-specific aneuploidies and immune evasion in cancer."
+    },
+
+    {
+      "image": "/images/members/jharna-patel.png",
+      "firstName": "Jharna",
+      "lastName": "Patel",
+      "suffix": "M.D.",
+      "position": "Gynecologic Oncology Fellow"
     }
   ],
 
@@ -131,6 +146,13 @@
       "firstName": "Mina",
       "lastName": "Zanna",
       "position": "Master's Student"
+    },
+
+    {
+      "image": "/images/members/avery-dunn.jpeg",
+      "firstName": "Avery",
+      "lastName": "Dunn",
+      "position": "Rotation Student"
     }
   ]
 }
