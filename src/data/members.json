@@ -51,7 +51,9 @@
       "image": "/images/members/madu-nzerem.jpeg",
       "firstName": "Madu",
       "lastName": "Nzerem",
-      "position": "Ph.D. Student"
+      "position": "Ph.D. Student",
+      "projectDesc": "Bacterial virulence factors can be used as an alternative target to treat/prevent bacterial infections. By representing biological information with deep learning based tools, I am integrating data from tertiary level protein structure and genomic neighborhoods to predict known and potentially novel bacterial virulence factors."
+
     },
 
     {
