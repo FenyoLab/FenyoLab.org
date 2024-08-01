@@ -5,7 +5,8 @@
       "firstName": "David",
       "lastName": "Fenyö",
       "suffix": "Ph.D.",
-      "position": "Professor"
+      "position": "Professor",
+      "projectDesc": "David's research focuses on multi-omic and spatial data integration, and he applies it to discover and verify biomarkers and therapeutic targets in cancer."
     }
   ],
 
@@ -40,7 +41,6 @@
       "lastName": "Kaparos",
       "position": "Ph.D. Student"
     },
-
     {
       "image": "/images/members/madu-nzerem.jpeg",
       "firstName": "Madu",
@@ -49,21 +49,18 @@
       "projectDesc": "Bacterial virulence factors can be used as an alternative target to treat/prevent bacterial infections. By representing biological information with deep learning based tools, I am integrating data from tertiary level protein structure and genomic neighborhoods to predict known and potentially novel bacterial virulence factors."
 
     },
-
     {
       "image": "/images/members/tianxiao-zhao.jpg",
       "firstName": "Tianxiao",
       "lastName": "Zhao",
       "position": "Ph.D. Student"
     },
-
     {
       "image": "/images/members/ze-chen.jpg",
       "firstName": "Ze",
       "lastName": "Chen",
       "position": "Ph.D. Student"
     },
-
     {
       "image": "/images/members/linda-procell.jpg",
       "firstName": "Linda",
@@ -80,7 +77,6 @@
       "suffix": "Ph.D.",
       "position": "Research Scientist"
     },
-
     {
       "image": "/images/members/amit-bhardwaj.jpg",
       "firstName": "Amit",
@@ -88,7 +84,6 @@
       "suffix": "Ph.D.",
       "position": "Postdoctoral Fellow"
     },
-
     {
       "image": "/images/members/jude-nawlo.jpg",
       "firstName": "Jude",
@@ -96,7 +91,6 @@
       "suffix": "M.D.",
       "position": "Gynecologic Oncology Fellow"
     },
-
     {
       "image": "/images/members/lizabeth-katsnelson.jpg",
       "firstName": "Lizabeth",
@@ -105,7 +99,6 @@
       "position": "Postdoctoral Fellow",
       "projectDesc": "Lisa is interested in utilizing machine learning methods to study the association between chromosome-specific aneuploidies and immune evasion in cancer."
     },
-
     {
       "image": "/images/members/jharna-patel.png",
       "firstName": "Jharna",
@@ -122,14 +115,13 @@
       "lastName": "Keegan",
       "position": "Scientific Programmer"
     },
-
     {
       "image": "/images/members/mark-grivainis.jpg",
       "firstName": "Mark",
       "lastName": "Grivainis",
       "position": "Scientific Programmer"
     },
-        {
+    {
       "image": "/images/members/aliza-siegman.jpg",
       "firstName": "Aliza",
       "lastName": "Siegman",
