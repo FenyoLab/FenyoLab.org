@@ -11,12 +11,6 @@
 
   "Ph.D. Students": [
     {
-      "image": "/images/members/joshua-wang.jpg",
-      "firstName": "Joshua",
-      "lastName": "Wang",
-      "position": "MD/PhD Student"
-    },
-    {
       "image": "/images/members/noor-chalhoub.jpg",
       "firstName": "Noor",
       "lastName": "Chalhoub",
@@ -107,6 +101,7 @@
       "image": "/images/members/lizabeth-katsnelson.jpg",
       "firstName": "Lizabeth",
       "lastName": "Katsnelson",
+      "suffix": "Ph.D.",
       "position": "Postdoctoral Fellow",
       "projectDesc": "Lisa is interested in utilizing machine learning methods to study the association between chromosome-specific aneuploidies and immune evasion in cancer."
     },
@@ -133,28 +128,38 @@
       "firstName": "Mark",
       "lastName": "Grivainis",
       "position": "Scientific Programmer"
+    },
+        {
+      "image": "/images/members/aliza-siegman.jpg",
+      "firstName": "Aliza",
+      "lastName": "Siegman",
+      "position": "Scientific Programmer"
     }
   ],
   "Interns / Visitors / Rotation Students / Master's Students": [
     {
-      "image": "/images/members/aliza-siegman.jpg",
-      "firstName": "Aliza",
-      "lastName": "Siegman",
-      "position": "Master's Student"
+      "image": "",
+      "firstName": "Anthony",
+      "lastName": "Chalhoub",
+      "position": "Student Intern"
     },
-
     {
-      "image": "/images/members/mina-zanna.jpg",
-      "firstName": "Mina",
-      "lastName": "Zanna",
-      "position": "Master's Student"
+      "image": "",
+      "firstName": "Laura",
+      "lastName": "Jaggernauth",
+      "position": "Student Intern"
     },
-
     {
-      "image": "/images/members/avery-dunn.jpeg",
-      "firstName": "Avery",
-      "lastName": "Dunn",
-      "position": "Rotation Student"
-    }
+      "image": "",
+      "firstName": "Saba",
+      "lastName": "Jankarashvili",
+      "position": "Student Intern"
+    },
+    {
+      "image": "/images/members/wenjing-zhang.jpg",
+      "firstName": "Wenjing",
+      "lastName": "Zhang",
+      "position": "Student Intern"
+    },
   ]
 }
