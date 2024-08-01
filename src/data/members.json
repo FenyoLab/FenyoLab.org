@@ -27,7 +27,8 @@
       "image": "/images/members/grant-hussey.jpg",
       "firstName": "Grant",
       "lastName": "Hussey",
-      "position": "Ph.D. Student"
+      "position": "Ph.D. Student",
+      "projectDesc": "Grant is focused on improving PhosphoDisco, a Python-based toolkit to discover co-regulated phosphorylation modules in phosphoproteomic data, and its application on the CPTAC consortium's pan-cancer datasets."
     },
     {
       "image": "/images/members/michelle-hollenberg.jpeg",
@@ -53,7 +54,8 @@
       "image": "/images/members/tianxiao-zhao.jpg",
       "firstName": "Tianxiao",
       "lastName": "Zhao",
-      "position": "Ph.D. Student"
+      "position": "Ph.D. Student",
+      "projectDesc": "Tianxiao develops computational tools for spatial multi-omics studies using deep learning, focusing on spatial data simulation, spatial context reconstruction, and data integration. He is also exploring applications of large language models in molecular biology."
     },
     {
       "image": "/images/members/ze-chen.jpg",
@@ -130,19 +132,17 @@
   ],
   "Interns / Visitors / Rotation Students / Master's Students": [
     {
-      "image": "",
+      "image": "/images/members/anthony-chalhoub.jpg",
       "firstName": "Anthony",
       "lastName": "Chalhoub",
       "position": "Student Intern"
     },
     {
-      "image": "",
       "firstName": "Laura",
       "lastName": "Jaggernauth",
       "position": "Student Intern"
     },
     {
-      "image": "",
       "firstName": "Saba",
       "lastName": "Jankarashvili",
       "position": "Student Intern"
