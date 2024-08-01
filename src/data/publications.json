@@ -7,12 +7,6 @@
       "title": "The MTIST platform: a microbiome time series inference standardized test"
     },
     {
-      "authors": "Leticia Szadai, Aron Bartha, Indira Pla Parada, Alexandra Lakatos, Dorottya Pál, Anna Sára Lengyel, Natália Pinto de Almeida, Ágnes Judit Jánosi, Fábio Nogueira, Beata Szeitz, Viktória Doma, Nicole Woldmar, Jéssica Guedes, Zsuzsanna Ujfaludi, Zoltán Gábor Pahi, Tibor Pankotai, Yonghyo Kim, Balázs Győrffy, Bo Baldetorp, Charlotte Welinder, A. Marcell Szasz, Lazaro Betancourt, Jeovanis Gil, Roger Appelqvist, Ho-Jeong Kwon, Sarolta Kárpáti, Magdalena Kuras, Jimmy Rodriguez Murillo, István Balázs Németh, Johan Malm, David Fenyö, Krzysztof Pawłowski, Peter Horvatovich, Elisabet Wieslander, Lajos V. Kemény, Gilberto Domont, György MarkoVarga, Aniel Sanchez",
-      "link": "https://doi.org/10.1101/2024.05.01.592032",
-      "journal": "bioRxiv 2024.05.01.592032",
-      "title": "Predicting immune checkpoint therapy response in three independent metastatic melanoma cohorts"
-    },
-    {
       "authors": "María Xóchitl Benítez-Jones, Sarah Keegan, Sebastian Jamshahi, David Fenyö",
       "link": "https://doi.org/10.1101/2024.02.28.582150",
       "journal": "bioRxiv 2024.02.28.582150",
@@ -80,6 +74,30 @@
     }
   ],
   "2024": [
+    {
+      "authors": "Pinto de Almeida N, Jánosi ÁJ, Hong R, Rajeh A, Nogueira F, Szadai L, Szeitz B, Pla Parada I, Doma V, Woldmar N, Guedes J, Újfaludi Z, Bartha A, Kim Y, Welinder C, Baldetorp B, Kemény LV, Pahi Z, Wan G, Nguyen N, Pankotai T, Győrffy B, Pawłowski K, Horvatovich P, Szasz AM, Sanchez A, Kuras M, Rodriguez Murillo J, Betancourt L, Domont GB, Semenov YR, Yu KH, Kwon HJ, Németh IB, Fenyő D, Wieslander E, Marko-Varga G, Gil J",
+      "link": "https://doi.org/10.1002/ctm2.1773",
+      "journal": "Clin Transl Med 2024; 14(7):e1773",
+      "title": "Mitochondrial dysfunction and immune suppression in BRAF V600E-mutated metastatic melanoma"
+    }, 
+    {
+      "authors": "Szadai L, Bartha A, Parada IP, Lakatos AIT, Pál DMP, Lengyel AS, de Almeida NP, Jánosi ÁJ, Nogueira F, Szeitz B, Doma V, Woldmar N, Guedes J, Ujfaludi Z, Pahi ZG, Pankotai T, Kim Y, Győrffy B, Baldetorp B, Welinder C, Szasz AM, Betancourt L, Gil J, Appelqvist R, Kwon HJ, Kárpáti S, Kuras M, Murillo JR, Németh IB, Malm J, Fenyö D, Pawłowski K, Horvatovich P, Wieslander E, Kemény LV, Domont G, Marko-Varga G, Sanchez A",
+      "link": "https://doi.org/10.3389/fonc.2024.1428182",
+      "journal": "Front Oncol 2024; 14:1428182",
+      "title": "Predicting immune checkpoint therapy response in three independent metastatic melanoma cohorts"
+    },
+    {
+      "authors": "Liu J, Cao S, Imbach KJ, Gritsenko MA, Lih TM, Kyle JE, Yaron-Barir TM, Binder ZA, Li Y, Strunilin I, Wang YT, Tsai CF, Ma W, Chen L, Clark NM, Shinkle A, Naser Al Deen N, Caravan W, Houston A, Simin FA, Wyczalkowski MA, Wang LB, Storrs E, Chen S, Illindala R, Li YD, Jayasinghe RG, Rykunov D, Cottingham SL, Chu RK, Weitz KK, Moore RJ, Sagendorf T, Petyuk VA, Nestor M, Bramer LM, Stratton KG, Schepmoes AA, Couvillion SP, Eder J, Kim YM, Gao Y, Fillmore TL, Zhao R, Monroe ME, Southard-Smith AN, Li YE, Jui-Hsien Lu R, Johnson JL, Wiznerowicz M, Hostetter G, Newton CJ, Ketchum KA, Thangudu RR, Barnholtz-Sloan JS, Wang P, Fenyö D, An E, Thiagarajan M, Robles AI, Mani DR, Smith RD, Porta-Pardo E, Cantley LC, Iavarone A, Chen F, Mesri M, Nasrallah MP, Zhang H, Resnick AC, Chheda MG, Rodland KD, Liu T, Ding L",
+      "link": "https://doi.org/10.1016/j.ccell.2024.06.004",
+      "journal": "Cancer Cell 2024; 42(7):1217-1238.e19",
+      "title": "Philadelphia Coalition for a Cure; Clinical Proteomic Tumor Analysis Consortium. Multi-scale signaling and tumor evolution in high-grade gliomas"
+    },
+    {
+      "authors": "Kohlrausch FB, Wang F, McKerrow W, Grivainis M, Fenyo D, Keefe DL",
+      "link": "https://doi.org/10.1007/s10815-024-03176-9",
+      "journal": "J Assist Reprod Genet 2024",
+      "title": "Mapping of long interspersed element-1 (L1) insertions by TIPseq provides information about sub chromosomal genetic variation in human embryos"
+    },
     {
       "authors": "Goehring L, Keegan S, Lahiri S, Xia W, Kong M, Jimenez-Sainz J, Gupta D, Drapkin R, Jensen RB, Smith DJ, Rothenberg E, Fenyö D, Huang TT",
       "link": "https://doi.org/10.1038/s41467-024-48286-1",
