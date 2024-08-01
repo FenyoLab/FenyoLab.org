@@ -1,0 +1,36 @@
+---
+import Layout from "@layouts/Layout.astro";
+
+import tools from "@data/tools.json";
+
+interface Tool {
+  image: string;
+  name: string;
+  link: string;
+  description: string;
+}
+---
+
+<Layout title="Tools">
+  <ul>
+    {
+      tools.map((tool) => (
+        <li class="flex flex-row even:flex-row-reverse justify-between gap-4 mb-6">
+          <a href={tool.link} target="_blank" class="flex-none">
+            <img src={tool.image} alt="alt" />
+          </a>
+          <p class="text-sm leading-tight text-justify">
+            <a
+              href={tool.link}
+              target="_blank"
+              class="font-bold italic text-base text-slate-700 hover:underline hover:text-slate-500"
+            >
+              {tool.name}
+            </a>{" "}
+            {tool.description}
+          </p>
+        </li>
+      ))
+    }
+  </ul>
+</Layout>

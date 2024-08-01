@@ -1,0 +1,38 @@
+---
+import MemberCard from "@components/MemberCard.astro";
+import Layout from "@layouts/Layout.astro";
+
+import members from "@data/members.json";
+
+interface Member {
+  image: string;
+  firstName: string;
+  lastName: string;
+  position: string;
+  suffix?: string;
+  email?: string;
+}
+---
+
+<Layout title="Members">
+  <div class="flex">
+    <a href="/members/" class="pr-2 font-bold underline">Members</a> | <a
+      href="/alumni/"
+      class="pl-2">Alumni</a
+    >
+  </div>
+  <ul class="list-none mb-8">
+    {
+      Object.entries(members).map(([group, members]) => (
+        <>
+          <li class="font-bold my-4">{group}</li>
+          <ul class="list-none space-y-8">
+            {members.map((member: Member) => (
+              <MemberCard {...member} />
+            ))}
+          </ul>
+        </>
+      ))
+    }
+  </ul>
+</Layout>
