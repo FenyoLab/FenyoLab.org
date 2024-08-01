@@ -525,6 +525,18 @@
       "firstName": "Jon",
       "lastName": "Ma",
       "position": "Master's Student 2023-2024"
+    },
+    {
+      "image": "/images/members/mina-zanna.jpg",
+      "firstName": "Mina",
+      "lastName": "Zanna",
+      "position": "Master's Student 2023-2024"
+    },
+    {
+      "image": "/images/members/avery-dunn.jpeg",
+      "firstName": "Avery",
+      "lastName": "Dunn",
+      "position": "Rotation Student 2024"
     }
   ]
 }
