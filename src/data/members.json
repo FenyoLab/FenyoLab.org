@@ -115,7 +115,8 @@
       "image": "/images/members/keegan.jpg",
       "firstName": "Sarah",
       "lastName": "Keegan",
-      "position": "Scientific Programmer"
+      "position": "Scientific Programmer",
+      "projectDesc": "Sarah collaborates with scientists on diverse projects, including computer vision and image analysis, statistical modeling, simulations of biological systems, creation of data repositories, and clinical data informatics."
     },
     {
       "image": "/images/members/mark-grivainis.jpg",
