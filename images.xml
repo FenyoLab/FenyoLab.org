@@ -1,0 +1,42 @@
+<!--  
+'timer' :: number of seconds between each image transition
+'order' :: how you want your images displayed. choose either 'sequential' or 'random'
+'looping' :: if the slide show is in sequential mode, this stops the show at the last image (use 'yes' for looping, 'no' for not)
+'fadeTime' :: velocity of image crossfade. Increment for faster fades, decrement for slower. Approximately equal to seconds.
+'xpos' :: _x position of all loaded clips (0 is default)
+'ypos' :: _y position of all loaded clips (0 is default)
+-->
+<gallery timer="5" order="sequential" fadetime="2" looping="yes" xpos="0" ypos="0">
+<image path="/images/slideshow/Slide0.JPG" />
+<image path="/images/slideshow/Slide1.JPG" />
+<image path="/images/slideshow/Slide2.JPG" />
+<image path="/images/slideshow/Slide3.JPG" />
+<image path="/images/slideshow/Slide4.JPG" />
+<image path="/images/slideshow/Slide5.JPG" />
+<image path="/images/slideshow/Slide6.JPG" />
+<image path="/images/slideshow/Slide7.JPG" />
+<image path="/images/slideshow/Slide8.JPG" />
+<image path="/images/slideshow/Slide9.JPG" />
+<image path="/images/slideshow/computational-biology.jpg" />
+<image path="/images/slideshow/Slide10.JPG" />
+<image path="/images/slideshow/Slide11.JPG" />
+<image path="/images/slideshow/Slide12.JPG" />
+<image path="/images/slideshow/Slide13.JPG" />
+<image path="/images/slideshow/Slide14.JPG" />
+<image path="/images/slideshow/Slide15.JPG" />
+<image path="/images/slideshow/Slide16.JPG" />
+<image path="/images/slideshow/Slide17.JPG" />
+<image path="/images/slideshow/Slide18.JPG" />
+<image path="/images/slideshow/Slide19.JPG" />
+<image path="/images/slideshow/Slide20.JPG" />
+<image path="/images/slideshow/Slide21.JPG" />
+<image path="/images/slideshow/Slide22.JPG" />
+<image path="/images/slideshow/Slide23.JPG" />
+<image path="/images/slideshow/Slide24.JPG" />
+<image path="/images/slideshow/Slide25.JPG" />
+<image path="/images/slideshow/Slide26.JPG" />
+<image path="/images/slideshow/Slide27.JPG" />
+<image path="/images/slideshow/Slide28.JPG" />
+<image path="/images/slideshow/Slide29.JPG" />
+<image path="/images/slideshow/Slide30.JPG" />
+</gallery>
