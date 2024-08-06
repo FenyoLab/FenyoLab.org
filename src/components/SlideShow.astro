@@ -17,14 +17,15 @@ shuffleArray(images);
 
 <div class="h-full">
   <slide-image class="block w-full h-full">
-    <div class="w-full h-full overflow-hidden grid">
+    <div class="relative w-full h-full">
       {
         images.map((i) => (
-          <img
-            class="transition-opacity duration-1000 ease-in-out opacity-0  w-full h-full object-contain"
-            style="grid-area: 1/1/2/2;"
-            src={i.default.src}
-          />
+          <div class="absolute top-0 bottom-0 left-0 right-0">
+            <img
+              class="transition-opacity duration-1000 ease-in-out opacity-0 w-full h-full object-contain"
+              src={i.default.src}
+            />
+          </div>
         ))
       }
     </div>
