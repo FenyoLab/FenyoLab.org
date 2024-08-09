@@ -49,7 +49,7 @@ shuffleArray(images);
       const self = this;
       if (this.images == undefined) return;
       this.images[this.currentImage].classList.add("opacity-0");
-      this.currentImage = (this.currentImage + 1) % 3;
+      this.currentImage = (this.currentImage + 1) % this.images.length;
       this.images[this.currentImage].classList.remove("opacity-0");
       setTimeout(() => self.nextImage(), 10000);
     }
