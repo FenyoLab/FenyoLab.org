@@ -3,7 +3,7 @@ interface SlideShowImage {
   default: ImageMetadata;
 }
 const images = await Astro.glob<SlideShowImage>(
-  "/public/images/slideshow/*.{png,jpg}"
+  "/public/images/slideshow/*.{png,jpg,jpeg}"
 );
 function shuffleArray(array: SlideShowImage[]) {
   for (let i = array.length - 1; i > 0; i--) {
