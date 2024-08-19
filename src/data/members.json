@@ -34,7 +34,8 @@
       "image": "/images/members/michelle-hollenberg.jpeg",
       "firstName": "Michelle",
       "lastName": "Hollenberg",
-      "position": "Ph.D. Student"
+      "position": "Ph.D. Student",
+      "projectDesc": "Michelle focuses on developing strategies for analyzing multiplexed immunofluorescent images to investigate the tumor microenvironment in endometrial carcinoma. I use deep learning, image analysis, and multiomics tools to identify relevant biomarkers and morphological features that correlate with clinical outcomes, such as recurrence and immunotherapy response."
     },
     {
       "image": "/images/members/efiyenia-kaparos.jpg",
