@@ -31,8 +31,8 @@ const {
             class="h-24 mb-4 ring-2 ring-white rounded-lg object-scale-down"
           />
           <div class="font-bold text-sm leading-tight">
-            {firstName}
-            {lastName} {suffix && `, ${suffix}`}
+            <span>{`${firstName} ${lastName}`}</span>
+            {suffix && `, ${suffix}`}
           </div>
           <div class="text-sm text-center">{position}</div>
         </div>
