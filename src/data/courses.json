@@ -1,6 +1,6 @@
 [
   {
-    "image": "/images/courses/aio2024.jpg",
+    "image": "/images/courses/blank.jpg",
     "link": "https://docs.google.com/document/d/1m8AXDIEIa6Al94pyCRpK3sdYQrXJpWCrtWNhaub35po",
     "title": "Healthcare Data Management Fall 2024 (BMIN-GA 4533)",
     "location": " Vilcek Institute of Graduate Biomedical Sciences, NYU School of Medicine"
@@ -21,7 +21,7 @@
     "link": "https://docs.google.com/document/d/1ub5E0Hgf3jF3Ut11-grU6DhCuHI4oKdl_M6hNjQn_CY",
     "title": "Advanced Integrative Omics Spring 2024 (BMIN-GA 4498 & BMSC-GA 4498)",
     "location": " Vilcek Institute of Graduate Biomedical Sciences, NYU School of Medicine",
-    "image": "/images/courses/blank.jpg"
+    "image": "/images/courses/aio2024.jpg"
   },
   {
     "image": "/images/courses/pi2024.png",
