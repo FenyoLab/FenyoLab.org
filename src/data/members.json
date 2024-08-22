@@ -15,7 +15,8 @@
       "image": "/images/members/noor-chalhoub.jpg",
       "firstName": "Noor",
       "lastName": "Chalhoub",
-      "position": "Ph.D. Student"
+      "position": "Ph.D. Student",
+      "projectDesc": "Noor is using GWAS and eQTL data from European and East Asian populations to deduce causal risk SNVs for Type 2 diabetes at the NKX6-3/ANK1 locus. Her work utilizes genome engineering techniques to build synthetic haplotypes with various combinations of potential risk SNVs and integrate them into human iPSCs. The cells containing the synthetic haplotypes will be differentiated into multiple cell types associated with Type 2 diabetes and characterized with snRNA-seq, snATAC-seq, and RT-qPCR."
     },
     {
       "image": "/images/members/jimin-tan.jpg",
@@ -78,14 +79,8 @@
       "firstName": "Wenke",
       "lastName": "Liu",
       "suffix": "Ph.D.",
-      "position": "Research Scientist"
-    },
-    {
-      "image": "/images/members/amit-bhardwaj.jpg",
-      "firstName": "Amit",
-      "lastName": "Bhardwaj",
-      "suffix": "Ph.D.",
-      "position": "Postdoctoral Fellow"
+      "position": "Research Scientist",
+      "projectDesc": "Wenke's research focuses on developing machine learning methods to the harmonization analysis of large multimodal biomedical data sets."
     },
     {
       "image": "/images/members/jude-nawlo.jpg",
