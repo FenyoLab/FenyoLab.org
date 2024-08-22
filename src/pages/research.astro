@@ -3,6 +3,71 @@ import Layout from "@layouts/Layout.astro";
 ---
 
 <Layout title="Research">
+
+  <div class="flex items-center gap-4 mb-6">
+    <div class="flex-none">
+      <img
+        src="/images/research/integration.png"
+        alt="A heatmap showing how integrative data can be visualized and analyzed"
+      />
+    </div>
+    <p class="text-justify leading-tight text-sm">
+      <b>Multiomics integration:</b> With the cost of deep sequencing and mass spectrometric 
+      analysis decreasing rapidly, it has become feasible to characterize a large number of 
+      patient samples by sequencing their genome, transcriptome, proteome, phosphoproteome 
+      and metabolome. We have developed proteogenomic integration methods and applied these 
+      methods across many cancers to better understand the underlying tumor biology, and to 
+      find vulnerabilities that can be exploited in the treatment of patients. 
+    </p>
+  </div>
+
+<div class="flex items-center gap-4 mb-6">
+    <p class="text-justify leading-tight text-sm">
+    <b>Histology and spatial omics:</b> To fully understand biological processes in healthy and 
+    diseased tissue, we need to study its spatial structure as it is integral to tissue function. 
+    There is a fast improvement in spatial omics technologies that can produce high quality data. 
+    We are developing computational methods to better utilize these high dimensional spatial data sets.
+    </p>
+    <div class="flex-none">
+      <img
+        src="/images/research/blank.jpg"
+        alt="Blank"
+      />
+    </div>
+</div>
+  
+  
+<div class="flex items-center gap-4 mb-6">
+    <div class="flex-none">
+      <img
+        src="/images/research/blank.jpg"
+        alt="Blank"
+      />
+    </div>
+    <p class="text-justify leading-tight text-sm">
+    <b>Cancer biology</b>: With a focus on gynecological and lung cancers, we aim to discover and verify 
+    biomarkers and therapeutic targets by integrating multi-modal data—including multi-omics, 
+    imaging and electronic health record data—with an ultimate goal of improving patient treatment.
+    </p>
+</div>
+
+<div class="flex items-center gap-4 mb-6">
+    <p class="text-justify leading-tight text-sm">
+    <b>Retrotransposons</b> are mobile DNA elements within our genome that can copy and paste themselves 
+    into new locations in the genome and can potentially disrupt normal cellular function, and 
+    therefore mechanisms suppressing retrotransposition are active in healthy cells, but in many 
+    tumors this suppression mechanism is disrupted. We have developed data analysis methods for 
+    studying the LINE-1 retrotransposon throughout its lifecycle and we are applying these methods 
+    to study the role of retrotransposition in tumors, aging and embryos.
+    </p>
+    <div class="flex-none">
+      <img
+        src="/images/research/blank.jpg"
+        alt="Blank"
+      />
+    </div>
+</div>
+
   <div class="flex items-center gap-4 mb-6">
     <div class="flex-none">
       <img
@@ -11,58 +76,27 @@ import Layout from "@layouts/Layout.astro";
       />
     </div>
     <p class="text-justify leading-tight text-sm">
-      Mass spectrometry based <a
-        class="underline hover:text-slate-500 italic"
-        href="/proteomics"><b>proteomics</b></a
-      > is widely used in biological research. We develop methods for protein
-      identification, quantitation, and for validation of the results, including
-      algorithms for for finding and integrating mass spectrometric peptide
-      peaks, detecting interference to obtain a robust measure of the amount of
-      proteins present in samples, searching protein sequence collections and
-      spectral libraries as well as validation of the results using expectation
-      values, rho-diagrams, and spectrum databases.
+      <b>Mass spectrometry based proteomics</b> is widely used in biological research. 
+      We have developed methods for protein identification, quantitation, and for validation 
+      of the results, including algorithms for for finding and integrating mass spectrometric 
+      peptide peaks, detecting interference to obtain a robust measure of the amount of 
+      proteins present in samples, searching protein sequence collections and spectral 
+      libraries as well as validation of the results using expectation values.
     </p>
   </div>
+
+
   <div class="flex items-center gap-4 mb-6">
     <p class="text-justify leading-tight text-sm">
-      We develop computational methods for <a
-        class="underline hover:text-slate-500 italic"
-        href="/integration"><b>integration</b></a
-      > of genomics, transcriptomics, proteomics and metabolomics data within
-      the NCI funded <a
-        class="underline hover:text-slate-500 italic"
-        href="http://proteomics.cancer.gov/"
-        target="_blank">Clinical Proteomic Tumor Analysis Consortium (CPTAC)</a
-      > and <a
-        class="underline hover:text-slate-500 italic"
-        href="http://cancer.med.nyu.edu/"
-        target="_blank">NYU Cancer Institute</a
-      >. In these projects we develop methods for analysis, integration and
-      visualization of multi-omics tumor data to gain understanding of cancer
-      biology and to discover and verify biomarkers for guiding treatment.
+      <b>Modeling and Simulation of biological systems:</b> We develop models of biological systems and use
+      computer simulations to test the models and compare them to experimental
+      data.
     </p>
-
-    <div class="flex-none">
-      <img
-        src="/images/research/integration.png"
-        alt="A heatmap showing how integrative data can be visualized and analyzed"
-      />
-    </div>
-  </div>
-  <div class="flex items-center gap-4 mb-6">
     <div class="flex-none">
       <img
         src="/images/research/simulation.png"
         alt="A plot showing simulated data compared to experimental data"
       />
     </div>
-    <p class="text-justify leading-tight text-sm">
-      <a
-        class="underline hover:text-slate-500 italic"
-        href="/modeling-simulation"><b>Modeling and Simulation</b></a
-      > of biological systems. We develop models of biological systems and use
-      computer simulations to test the models and compare them to experimental
-      data.
-    </p>
   </div>
 </Layout>
