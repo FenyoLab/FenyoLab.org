@@ -104,6 +104,14 @@
       "lastName": "Patel",
       "suffix": "M.D.",
       "position": "Gynecologic Oncology Fellow"
+    },
+    {
+      "image": "/images/members/bea-szeitz.jpeg",
+      "firstName": "Bea",
+      "lastName": "Szeitz",
+      "suffix": "Ph.D.",
+      "position": "Postdoctoral Fellow",
+      "projectDesc": "Bea analyzes multi-omic cancer datasets to improve our understanding of tumor heterogeneity and its relation to tumor progression, metastasis development and therapy resistance. Her special interests are proteogenomics and lung cancer."
     }
   ],
 
