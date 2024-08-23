@@ -1,4 +1,5 @@
 ---
+import DropDownMenu from "@components/DropDownMenu.astro";
 import Sidebar from "@layouts/Sidebar.astro";
 
 interface Props {
@@ -19,25 +20,33 @@ const { title } = Astro.props;
     <title>{title}</title>
   </head>
   <body class="h-screen max-h-screen bg-logo">
-    <div class="container mx-auto h-full">
+    <div class="container mx-auto h-full max-w-screen-lg">
       <div class="flex flex-col h-full overflow-hidden">
         <div class="h-16 flex-none sticky top-0 z-10">
           <div class="flex items-center w-full h-full">
-            <div class="flex-none items-center justify-center w-64">
-              <div class="w-60 pl-4">
-                <img src="/images/logo.png" alt="logo" />
-              </div>
+            <div class="block md:hidden">
+              <DropDownMenu />
             </div>
-            <div
-              class="flex flex-col h-full items-center justify-center mx-auto font-serif font-bold"
-            >
-              <p class="text-lg">FENYO LAB</p>
-              <p class="text-sm">{title}</p>
+            <div class="w-24 md:w-72 pl-4">
+              <img
+                class="hidden md:block object-contain"
+                src="/images/logo.png"
+              />
+              <img
+                class="md:hidden min-w-16 min-h-16"
+                src="/images/logo_small.png"
+              />
+            </div>
+            <div class="font-serif font-bold w-full">
+              <div class="flex flex-col items-center">
+                <p class="text-lg">FENYO LAB</p>
+                <p class="text-sm">{title}</p>
+              </div>
             </div>
           </div>
         </div>
         <div class="flex w-full h-full overflow-hidden">
-          <div class="flex-none w-64 h-full">
+          <div class="flex-none w-64 h-full hidden md:block">
             <Sidebar />
           </div>
           <div class="flex-1 w-full px-4 pt-6 h-full">
