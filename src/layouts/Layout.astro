@@ -20,19 +20,25 @@ const { title } = Astro.props;
     <title>{title}</title>
   </head>
   <body class="h-screen max-h-screen bg-logo">
-    <div class="container mx-auto h-full">
+    <div class="container mx-auto h-full max-w-screen-lg">
       <div class="flex flex-col h-full overflow-hidden">
         <div class="h-16 flex-none sticky top-0 z-10">
           <div class="flex items-center w-full h-full">
-            <div>
+            <div class="block md:hidden">
               <DropDownMenu />
             </div>
-            <div class="w-24 md:w-60 pl-4">
-              <img class="hidden md:block" src="/images/logo.png" />
-              <img class="md:hidden w-16 h-16" src="/images/logo_small.png" />
+            <div class="w-24 md:w-72 pl-4">
+              <img
+                class="hidden md:block object-contain"
+                src="/images/logo.png"
+              />
+              <img
+                class="md:hidden min-w-16 min-h-16"
+                src="/images/logo_small.png"
+              />
             </div>
-            <div class="font-serif font-bold">
-              <div class="flex flex-col items-center j">
+            <div class="font-serif font-bold w-full">
+              <div class="flex flex-col items-center">
                 <p class="text-lg">FENYO LAB</p>
                 <p class="text-sm">{title}</p>
               </div>
