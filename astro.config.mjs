@@ -1,10 +1,11 @@
 import { defineConfig } from "astro/config";
 
 import tailwind from "@astrojs/tailwind";
+import icon from "astro-icon";
 
 // https://astro.build/config
 export default defineConfig({
-  integrations: [tailwind()],
+  integrations: [tailwind(), icon()],
   redirects: {
     bs: "https://docs.google.com/document/d/1btchpM25g_A4Z2Ij9pktgvqwrZ8OjI7acKCE8VjhzZM",
     os: "https://docs.google.com/document/d/1YTpdIXS3pSIuqgzjpocQvF3IMKqnK24I",

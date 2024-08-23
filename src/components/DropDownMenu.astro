@@ -1,0 +1,43 @@
+---
+import Sidebar from "@layouts/Sidebar.astro";
+import { Icon } from "astro-icon/components";
+---
+
+<div class="dropdown">
+  <button class="p-2 dropdown">
+    <Icon class="w-8 h-8" name="mdi:menu" />
+  </button>
+  <div
+    class="transition-opacity invisible absolute opacity-0 top-0 left-0 w-screen h-screen bg-slate-900"
+    data-id="modal-background"
+  >
+  </div>
+  <div
+    id="myDropdown"
+    class="transition-all ease-out duration-300 h-screen absolute left-0 -translate-x-56 top-0 min-w-56 bg-logo border-black"
+  >
+    <button class="absolute top-0 right-0 p-2" data-id="close_button">
+      <Icon class="w-8 h-8" name="mdi:close" />
+    </button>
+    <Sidebar />
+  </div>
+</div>
+
+<script>
+  function toggleMenu() {
+    const dropdownContent = document.getElementById("myDropdown");
+    if (!dropdownContent) return;
+    dropdownContent.classList.toggle("-translate-x-56");
+    modal?.classList.toggle("opacity-50");
+    modal?.classList.toggle("invisible");
+  }
+  // Component script to handle dropdown behavior
+  const button = document.querySelector("button.dropdown");
+  const modal = document.querySelector("[data-id='modal-background'");
+  modal?.addEventListener("click", toggleMenu);
+  //   if (!button) return;
+  button?.addEventListener("click", toggleMenu);
+
+  const close = document.querySelector("[data-id='close_button'");
+  close?.addEventListener("click", toggleMenu);
+</script>
