@@ -64,7 +64,8 @@
       "image": "/images/members/ze-chen.jpg",
       "firstName": "Ze",
       "lastName": "Chen",
-      "position": "Ph.D. Student"
+      "position": "Ph.D. Student",
+      "projectDesc": "Ze uses statistical and machine learning methods to explore biology and medicine, and currently he is focusing on understanding aneuploidy in cancer by studying the interactions between cancer cells and immune cells."
     },
     {
       "image": "/images/members/linda-procell.jpg",

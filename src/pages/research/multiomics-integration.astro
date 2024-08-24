@@ -3,15 +3,9 @@
 import Layout from "@layouts/Layout.astro";
 ---
 
-<Layout title="Research">
+<Layout title="Research: Multiomics Integration">
 
   <div class="flex items-cejnter gap-4 mb-6">
-    <div class="flex-none">
-      <img
-        src="/images/research/integration.png"
-        alt="A heatmap showing how integrative data can be visualized and analyzed"
-      />
-    </div>
     <p class="text-justify leading-tight text-sm">
       <b>Multiomics integration:</b> With the cost of deep sequencing and mass spectrometric 
       analysis decreasing rapidly, it has become feasible to characterize a large number of 
@@ -20,5 +14,30 @@ import Layout from "@layouts/Layout.astro";
       methods across many cancers to better understand the underlying tumor biology, and to 
       find vulnerabilities that can be exploited in the treatment of patients. 
     </p>
+    <div class="flex-none">
+      <img
+        src="/images/research/integration.png"
+        alt="A heatmap showing how integrative data can be visualized and analyzed"
+      />
+    </div>
   </div>
+
+  
+  <div class="flex items-cejnter gap-4 mb-6">
+    <div class="flex-none">
+      <img
+        src="/images/research/blank.jpg"
+        alt="Tools for integrating multiomics data"
+      />
+    </div>
+    <p class="text-justify leading-tight text-sm">
+      <b>Tools:</b> We have developed proteogenomic integration methods including: 
+      QUILTS, for generating tumor-specific protein sequence databases using the 
+      observed DNA and RNA sequence variation; 
+      a method based on independent component analysis for extracting signatures; 
+      BlackSheep for differential extreme value analysis; 
+      and deep learning methods for integrating proteogenomics and histopathology. 
+    </p>
+  </div>
+
 </Layout>
