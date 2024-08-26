@@ -1,17 +1,12 @@
 ---
-import MemberCard from "@components/MemberCard.astro";
+import CardGroup from "@components/CardGroup.astro";
 import Layout from "@layouts/Layout.astro";
 
-import members from "@data/members.json";
+import groups from "@data/members.json";
 
-interface Member {
-  image: string;
-  firstName: string;
-  lastName: string;
-  position: string;
-  suffix?: string;
-  email?: string;
-}
+const summarize = [
+  "Interns / Visitors / Rotation Students / Master's Students",
+];
 ---
 
 <Layout title="Members">
@@ -23,14 +18,13 @@ interface Member {
   </div>
   <ul class="list-none mb-8">
     {
-      Object.entries(members).map(([group, members]) => (
+      Object.entries(groups).map(([group, members]) => (
         <>
-          <li class="font-bold my-4">{group}</li>
-          <ul class="list-none space-y-8">
-            {members.map((member: Member) => (
-              <MemberCard {...member} />
-            ))}
-          </ul>
+          <CardGroup
+            group={group}
+            members={members}
+            summary={summarize.includes(group)}
+          />
         </>
       ))
     }
