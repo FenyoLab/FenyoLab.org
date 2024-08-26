@@ -1,7 +1,7 @@
 ---
-import MemberCard from "@components/MemberCard.astro";
 import Layout from "@layouts/Layout.astro";
 
+import CardGroup from "@components/CardGroup.astro";
 import alumni from "@data/alumni.json";
 
 interface Member {
@@ -21,16 +21,13 @@ interface Member {
       class="pl-2 font-bold underline">Alumni</a
     >
   </div>
-  {
-    Object.entries(alumni).map(([group, members]) => (
-      <ul class="list-none mb-8">
-        <li class="font-bold">{group}</li>
-        <ul class="list-none flex flex-wrap gap-4 items-stretch">
-          {members.map((member: Member) => (
-            <MemberCard summary={true} {...member} />
-          ))}
-        </ul>
-      </ul>
-    ))
-  }
+  <ul class="list-none mb-8">
+    {
+      Object.entries(alumni).map(([group, members]) => (
+        <>
+          <CardGroup group={group} members={members} summary={true} />
+        </>
+      ))
+    }
+  </ul>
 </Layout>

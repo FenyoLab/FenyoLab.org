@@ -1,0 +1,39 @@
+---
+import MemberCard from "@components/MemberCard.astro";
+
+interface Member {
+  image: string;
+  firstName: string;
+  lastName: string;
+  position: string;
+  suffix?: string;
+  projectDesc?: string;
+  summary?: boolean;
+}
+
+interface Props {
+  group: string;
+  members: Member[];
+  summary: boolean;
+}
+
+const { group, members, summary = false } = Astro.props;
+---
+
+{
+  (
+    <>
+      <li class="font-bold my-4">{group}</li>
+      <ul
+        class:list={[
+          "list-none",
+          summary ? "flex flex-wrap gap-4 items-stretch" : "space-y-8",
+        ]}
+      >
+        {members.map((member: Member) => (
+          <MemberCard {...member} summary={summary} />
+        ))}
+      </ul>
+    </>
+  )
+}
