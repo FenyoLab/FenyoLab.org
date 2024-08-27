@@ -136,7 +136,8 @@
       "image": "/images/members/aliza-siegman.jpg",
       "firstName": "Aliza",
       "lastName": "Siegman",
-      "position": "Scientific Programmer"
+      "position": "Scientific Programmer",
+      "projectDesc": "Aliza's research involves using machine learning techniques for image analysis. This includes utilizing cell segmentation-based methods to analyze the tumor microenvironment in endometrial carcinoma and developing deep learning methods to detect H. pylori in the gastrointestinal tract."
     }
   ],
   "Interns / Visitors / Rotation Students / Master's Students": [
