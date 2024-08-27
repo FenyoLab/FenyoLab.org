@@ -129,7 +129,8 @@
       "image": "/images/members/mark-grivainis.jpg",
       "firstName": "Mark",
       "lastName": "Grivainis",
-      "position": "Scientific Programmer"
+      "position": "Scientific Programmer",
+      "projectDesc": "Mark transforms complex biological data into insightful visualizations, leveraging cloud-based technologies to enable researchers and scientists to explore and understand intricate patterns. His expertise lies in developing interactive and scalable visualization tools that empower data-driven discovery in the life sciences."
     },
     {
       "image": "/images/members/aliza-siegman.jpg",
