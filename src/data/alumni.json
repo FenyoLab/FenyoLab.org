@@ -100,6 +100,12 @@
       "position": "Postdoctoral Fellow 2015-2017"
     },
     {
+      "image": "/images/members/jill-westcott.jpg",
+      "firstName": "Jill",
+      "lastName": "Westcott",
+      "position": "Maternal-Fetal Medicine Fellow 2019"
+    },
+    {
       "image": "/images/members/wilson-mckerrow.jpg",
       "firstName": "Wilson",
       "lastName": "McKerrow",
@@ -153,6 +159,48 @@
   ],
   "Interns / Visitors / Rotation Students": [
     {
+      "image": "/images/members/askenazi.jpg",
+      "firstName": "Manor",
+      "lastName": "Askenazi",
+      "position": "Visiting Scientist"
+    },
+    {
+      "image": "/images/members/hiner.jpg",
+      "firstName": "Rebecca",
+      "lastName": "Hiner",
+      "position": "Rotation Student 2012-2013"
+    },
+    {
+      "image": "/images/members/giuffrida.jpg",
+      "firstName": "Jonathan",
+      "lastName": "Giuffrida",
+      "position": "Intern 2012-2013"
+    },
+    {
+      "image": "/images/members/menschaert.png",
+      "firstName": "Gerben",
+      "lastName": "Menschaert",
+      "position": "Visiting Scientist 2013"
+    },
+    {
+      "image": "/images/members/namdar.jpg",
+      "firstName": "Rachel",
+      "lastName": "Namdar",
+      "position": "Summer Intern 2013"
+    },    
+    {
+      "image": "/images/members/ovsiy.jpg",
+      "firstName": "Olexandra",
+      "lastName": "Ovsiy",
+      "position": "Research Assistant 2012-2013"
+    },
+    {
+      "image": "/images/members/varshneya.jpg",
+      "firstName": "Meera",
+      "lastName": "Varshneya",
+      "position": "Summer Intern 2013"
+    },
+    {
       "image": "/images/members/akgol.jpg",
       "firstName": "Betül",
       "lastName": "Akgöl Oksuz",
@@ -163,127 +211,6 @@
       "firstName": "Sameer",
       "lastName": "Aryal",
       "position": "Rotation Student 2014"
-    },
-    {
-      "image": "/images/members/askenazi.jpg",
-      "firstName": "Manor",
-      "lastName": "Askenazi",
-      "position": "Visiting Scientist"
-    },
-    {
-      "image": "/images/members/john-atwater.jpeg",
-      "firstName": "John",
-      "lastName": "Atwater",
-      "position": "Rotation Student 2022"
-    },
-    {
-      "image": "/images/members/avik-agarwal.png",
-      "firstName": "Avik",
-      "lastName": "Agarwal",
-      "position": "Intern 2022"
-    },
-    {
-      "image": "/images/members/priyanka.jpg",
-      "firstName": "Priyanka",
-      "lastName": "Bhatt",
-      "position": "Intern 2013-2015"
-    },
-    {
-      "image": "/images/members/bella-bobrow.jpg",
-      "firstName": "Bella",
-      "lastName": "Bobrow",
-      "position": "Intern 2016",
-      "email": "Bella.Bobrow@FenyoLab.org"
-    },
-    {
-      "image": "/images/members/ella-bjorkholm.jpg",
-      "firstName": "Ella",
-      "lastName": "Bjorkholm",
-      "position": "Intern 2016",
-      "email": "Ella.Bjorkholm@FenyoLab.org"
-    },
-    {
-      "image": "/images/members/blank.jpg",
-      "firstName": "Matilda",
-      "lastName": "Broberg",
-      "position": "Summer Intern 2019",
-      "email": "Matilda.Broberg@FenyoLab.org"
-    },
-    {
-      "image": "/images/members/yi-cai.jpg",
-      "firstName": "Yi",
-      "lastName": "Cai",
-      "position": "Master's Student",
-      "email": "Yi.Cai@FenyoLab.org"
-    },
-    {
-      "image": "/images/members/valeria-cesar.jpg",
-      "firstName": "Valeria",
-      "lastName": "Cesar",
-      "position": "Summer Intern 2015",
-      "email": "Valeria.Cesar@FenyoLab.org"
-    },
-    {
-      "image": "/images/members/emmanuel-chang.jpg",
-      "firstName": "Emmanuel",
-      "lastName": "Chang",
-      "position": "Visiting Scientist",
-      "email": "Emmanuel.Chang@FenyoLab.org"
-    },
-    {
-      "image": "/images/members/ji-chen.jpg",
-      "firstName": "Ji",
-      "lastName": "Chen",
-      "position": "Rotation Student 2016"
-    },
-    {
-      "image": "/images/members/xiaoru-fan.jpg",
-      "firstName": "Xiaoru",
-      "lastName": "Fan",
-      "position": "Intern 2015",
-      "email": "Xiaoru.Fan@FenyoLab.org"
-    },
-    {
-      "image": "/images/members/blank.jpg",
-      "firstName": "Sarnai",
-      "lastName": "Ganbold",
-      "position": "Master's Student"
-    },
-    {
-      "image": "/images/members/giuffrida.jpg",
-      "firstName": "Jonathan",
-      "lastName": "Giuffrida",
-      "position": "Intern 2012-2013"
-    },
-    {
-      "image": "/images/members/ananya-gurumurthy.png",
-      "firstName": "Ananya",
-      "lastName": "Gurumurthy",
-      "position": "Summer Intern"
-    },
-    {
-      "image": "/images/members/hiner.jpg",
-      "firstName": "Rebecca",
-      "lastName": "Hiner",
-      "position": "Rotation Student 2012-2013"
-    },
-    {
-      "image": "/images/members/patrick-howard.jpg",
-      "firstName": "Patrick",
-      "lastName": "Howard",
-      "position": "Rotation Student 2015"
-    },
-    {
-      "image": "/images/members/juan-irizarry-cole.jpg",
-      "firstName": "Juan",
-      "lastName": "Irizarry-Cole",
-      "position": "Rotation Student"
-    },
-    {
-      "image": "/images/members/blank.jpg",
-      "firstName": "Isabelle",
-      "lastName": "Johnson",
-      "position": "Master's Student"
     },
     {
       "image": "/images/members/jung.jpg",
@@ -298,102 +225,16 @@
       "position": "Rotation Student 2014"
     },
     {
-      "image": "/images/members/lizabeth-katsnelson.jpg",
-      "firstName": "Lizabeth",
-      "lastName": "Katsnelson",
-      "position": "Rotation Student 2019",
-      "email": "Lizabeth.Katznelson@FenyoLab.org"
-    },
-    {
       "image": "/images/members/blank.jpg",
       "firstName": "Alexander",
       "lastName": "Koch",
       "position": "Visiting Student 2014"
     },
     {
-      "image": "/images/members/tenzin-lhakhang.jpg",
-      "firstName": "Tenzin",
-      "lastName": "Lhakhang",
-      "position": "Intern 2014-2015",
-      "email": "Tenzin.Lhakhang@FenyoLab.org"
-    },
-    {
-      "image": "/images/members/yang-liu.jpg",
-      "firstName": "Yang",
-      "lastName": "Liu",
-      "position": "Volunteer",
-      "email": "Yang.Liu@FenyoLab.org"
-    },
-    {
-      "image": "/images/members/menschaert.png",
-      "firstName": "Gerben",
-      "lastName": "Menschaert",
-      "position": "Visiting Scientist 2013",
-      "email": "Gerben@FenyoLab.org"
-    },
-    {
-      "image": "/images/members/ankita-mishra.jpg",
-      "firstName": "Ankita",
-      "lastName": "Mishra",
-      "position": "Master's Student",
-      "email": "Ankita.Mishra@FenyoLab.org"
-    },
-    {
-      "image": "/images/members/raquel-moya.jpg",
-      "firstName": "Raquel",
-      "lastName": "Moya",
-      "position": "Summer Intern",
-      "email": "Raquel.Moya@FenyoLab.org"
-    },
-    {
-      "image": "/images/members/john-murphy.jpg",
-      "firstName": "John",
-      "lastName": "Murphy",
-      "position": "Summer Intern",
-      "email": "John.Murphy@FenyoLab.org"
-    },
-    {
-      "image": "/images/members/sarah-nagar.jpg",
-      "firstName": "Sarah",
-      "lastName": "Nagar",
-      "position": "Intern 2015"
-    },
-    {
-      "image": "/images/members/namdar.jpg",
-      "firstName": "Rachel",
-      "lastName": "Namdar",
-      "position": "Summer Intern 2013"
-    },
-    {
-      "image": "/images/members/mahim-naveed.jpg",
-      "firstName": "Mahim",
-      "lastName": "Naveed",
-      "position": "Intern 2015",
-    },
-    {
-      "image": "/images/members/mehrnoosh-oghbaie.jpg",
-      "firstName": "Mehrnoosh",
-      "lastName": "Oghbaie",
-      "position": "Intern"
-    },
-    {
       "image": "/images/members/comzit.jpeg",
       "firstName": "Comzit",
       "lastName": "Opachaloemphan",
       "position": "Rotation Student 2014"
-    },
-    {
-      "image": "/images/members/andrea-ouyang.jpeg",
-      "firstName": "Andrea",
-      "lastName": "Ouyang",
-      "position": "Undergraduate Student",
-      "email": "Andrea.Ouyang@FenyoLab.org"
-    },
-    {
-      "image": "/images/members/ovsiy.jpg",
-      "firstName": "Olexandra",
-      "lastName": "Ovsiy",
-      "position": "Research Assistant 2012-2013"
     },
     {
       "image": "/images/members/alla-peselis.jpg",
@@ -420,30 +261,65 @@
       "position": "Intern 2014-2015"
     },
     {
-      "image": "/images/members/blank.jpg",
-      "firstName": "Tiffany",
-      "lastName": "Tsou",
-      "position": "Rotation Student 2021"
+      "image": "/images/members/mahim-naveed.jpg",
+      "firstName": "Mahim",
+      "lastName": "Naveed",
+      "position": "Intern 2015"
     },
     {
-      "image": "/images/members/varshneya.jpg",
-      "firstName": "Meera",
-      "lastName": "Varshneya",
-      "position": "Summer Intern 2013"
+      "image": "/images/members/sarah-nagar.jpg",
+      "firstName": "Sarah",
+      "lastName": "Nagar",
+      "position": "Intern 2015"
     },
     {
-      "image": "/images/members/angelina-volkova.jpg",
-      "firstName": "Angelina",
-      "lastName": "Volkova",
-      "position": "Rotation Student 2017",
-      "email": "Angelina.Volkova@FenyoLab.org"
+      "image": "/images/members/valeria-cesar.jpg",
+      "firstName": "Valeria",
+      "lastName": "Cesar",
+      "position": "Summer Intern 2015"
     },
     {
-      "image": "/images/members/joshua-wang.jpg",
-      "firstName": "Joshua",
-      "lastName": "Wang",
-      "position": "MD/PhD Rotation Student 2019"
+      "image": "/images/members/tenzin-lhakhang.jpg",
+      "firstName": "Tenzin",
+      "lastName": "Lhakhang",
+      "position": "Intern 2014-2015"
     },
+    {
+      "image": "/images/members/priyanka.jpg",
+      "firstName": "Priyanka",
+      "lastName": "Bhatt",
+      "position": "Intern 2013-2015"
+    },
+    {
+      "image": "/images/members/xiaoru-fan.jpg",
+      "firstName": "Xiaoru",
+      "lastName": "Fan",
+      "position": "Intern 2015"
+    },
+    {
+      "image": "/images/members/patrick-howard.jpg",
+      "firstName": "Patrick",
+      "lastName": "Howard",
+      "position": "Rotation Student 2015"
+    },
+    {
+      "image": "/images/members/ji-chen.jpg",
+      "firstName": "Ji",
+      "lastName": "Chen",
+      "position": "Rotation Student 2016"
+    },
+    {
+      "image": "/images/members/bella-bobrow.jpg",
+      "firstName": "Bella",
+      "lastName": "Bobrow",
+      "position": "Intern 2016"
+    },
+    {
+      "image": "/images/members/ella-bjorkholm.jpg",
+      "firstName": "Ella",
+      "lastName": "Bjorkholm",
+      "position": "Intern 2016"
+    },    
     {
       "image": "/images/members/wei-wei.jpg",
       "firstName": "Wei",
@@ -451,10 +327,52 @@
       "position": "Rotation Student 2016"
     },
     {
-      "image": "/images/members/jill-westcott.jpg",
-      "firstName": "Jill",
-      "lastName": "Westcott",
-      "position": "Maternal-Fetal Medicine Fellow"
+      "image": "/images/members/john-murphy.jpg",
+      "firstName": "John",
+      "lastName": "Murphy",
+      "position": "Summer Intern 2017"
+    },
+    {
+      "image": "/images/members/raquel-moya.jpg",
+      "firstName": "Raquel",
+      "lastName": "Moya",
+      "position": "Summer Intern 2017"
+    },
+    {
+      "image": "/images/members/emmanuel-chang.jpg",
+      "firstName": "Emmanuel",
+      "lastName": "Chang",
+      "position": "Visiting Scientist 2016-2017"
+    },
+    {
+      "image": "/images/members/ananya-gurumurthy.png",
+      "firstName": "Ananya",
+      "lastName": "Gurumurthy",
+      "position": "Summer Intern 2017"
+    },
+    {
+      "image": "/images/members/angelina-volkova.jpg",
+      "firstName": "Angelina",
+      "lastName": "Volkova",
+      "position": "Rotation Student 2017"
+    },
+    {
+      "image": "/images/members/mehrnoosh-oghbaie.jpg",
+      "firstName": "Mehrnoosh",
+      "lastName": "Oghbaie",
+      "position": "Intern 2017-2018"
+    },
+    {
+      "image": "/images/members/juan-irizarry-cole.jpg",
+      "firstName": "Juan",
+      "lastName": "Irizarry-Cole",
+      "position": "Rotation Student 2018"
+    },
+    {
+      "image": "/images/members/yang-liu.jpg",
+      "firstName": "Yang",
+      "lastName": "Liu",
+      "position": "Volunteer 2018"
     },
     {
       "image": "/images/members/kevin-yang.jpg",
@@ -472,10 +390,62 @@
       "image": "/images/members/yan-zhang.png",
       "firstName": "Yan",
       "lastName": "Zhang",
-      "position": "Volunteer"
+      "position": "Volunteer 2019"
     },
-
-
+    {
+      "image": "/images/members/lizabeth-katsnelson.jpg",
+      "firstName": "Lizabeth",
+      "lastName": "Katsnelson",
+      "position": "Rotation Student 2019"
+    },
+    {
+      "image": "/images/members/andrea-ouyang.jpeg",
+      "firstName": "Andrea",
+      "lastName": "Ouyang",
+      "position": "Undergraduate Student 2019"
+    },
+    {
+      "image": "/images/members/joshua-wang.jpg",
+      "firstName": "Joshua",
+      "lastName": "Wang",
+      "position": "MD/PhD Rotation Student 2019"
+    },
+    {
+      "image": "/images/members/ankita-mishra.jpg",
+      "firstName": "Ankita",
+      "lastName": "Mishra",
+      "position": "Master's Student 2019"
+    },
+    {
+      "image": "/images/members/blank.jpg",
+      "firstName": "Matilda",
+      "lastName": "Broberg",
+      "position": "Summer Intern 2019"
+    },
+    {
+      "image": "/images/members/yi-cai.jpg",
+      "firstName": "Yi",
+      "lastName": "Cai",
+      "position": "Master's Student 2019"
+    },
+    {
+      "image": "/images/members/blank.jpg",
+      "firstName": "Isabelle",
+      "lastName": "Johnson",
+      "position": "Master's Student 2021"
+    },
+    {
+      "image": "/images/members/blank.jpg",
+      "firstName": "Tiffany",
+      "lastName": "Tsou",
+      "position": "Rotation Student 2021"
+    },
+    {
+      "image": "/images/members/blank.jpg",
+      "firstName": "Sarnai",
+      "lastName": "Ganbold",
+      "position": "Master's Student 2020-2021"
+    },
     {
       "image": "/images/members/madu-nzerem.jpeg",
       "firstName": "Madu",
@@ -499,6 +469,18 @@
       "firstName": "Dania",
       "lastName": "Annuar",
       "position": "Master's Student 2022"
+    },
+    {
+      "image": "/images/members/john-atwater.jpeg",
+      "firstName": "John",
+      "lastName": "Atwater",
+      "position": "Rotation Student 2022"
+    },
+    {
+      "image": "/images/members/avik-agarwal.png",
+      "firstName": "Avik",
+      "lastName": "Agarwal",
+      "position": "Intern 2022"
     },
     {
       "image": "/images/members/tianxiao-zhao.jpg",
