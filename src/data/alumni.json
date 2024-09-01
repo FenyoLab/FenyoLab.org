@@ -127,10 +127,10 @@
   ],
   "Staff": [
     {
-      "image": "/images/members/mark-grivainis.jpg",
-      "firstName": "Mark",
-      "lastName": "Grivainis",
-      "position": "Scientific Programmer 2015-2021"
+      "image": "/images/members/prasad.jpg",
+      "firstName": "Meera",
+      "lastName": "Prasad",
+      "position": "Scientific Programmer 2011-2014"
     },
     {
       "image": "/images/members/bart-aromando.jpg",
@@ -142,13 +142,13 @@
       "image": "/images/members/samson-jacob.jpg",
       "firstName": "Samson",
       "lastName": "Jacob",
-      "position": "Scientific Programmer"
+      "position": "Scientific Programmer 2016-2019"
     },
     {
-      "image": "/images/members/prasad.jpg",
-      "firstName": "Meera",
-      "lastName": "Prasad",
-      "position": "Scientific Programmer 2011-2014"
+      "image": "/images/members/mark-grivainis.jpg",
+      "firstName": "Mark",
+      "lastName": "Grivainis",
+      "position": "Scientific Programmer 2015-2021"
     }
   ],
   "Interns / Visitors / Rotation Students": [
@@ -259,8 +259,7 @@
       "image": "/images/members/ananya-gurumurthy.png",
       "firstName": "Ananya",
       "lastName": "Gurumurthy",
-      "position": "Summer Intern",
-      "email": "Ananya.Gurumurthy@FenyoLab.org"
+      "position": "Summer Intern"
     },
     {
       "image": "/images/members/hiner.jpg",
@@ -278,8 +277,7 @@
       "image": "/images/members/juan-irizarry-cole.jpg",
       "firstName": "Juan",
       "lastName": "Irizarry-Cole",
-      "position": "Rotation Student",
-      "email": "Juan.Irizarry-Cole@FenyoLab.org"
+      "position": "Rotation Student"
     },
     {
       "image": "/images/members/blank.jpg",
@@ -358,8 +356,7 @@
       "image": "/images/members/sarah-nagar.jpg",
       "firstName": "Sarah",
       "lastName": "Nagar",
-      "position": "Intern 2015",
-      "email": "Sarah.Nagar@FenyoLab.org"
+      "position": "Intern 2015"
     },
     {
       "image": "/images/members/namdar.jpg",
@@ -372,14 +369,12 @@
       "firstName": "Mahim",
       "lastName": "Naveed",
       "position": "Intern 2015",
-      "email": "Mahim.Naveed@FenyoLab.org"
     },
     {
       "image": "/images/members/mehrnoosh-oghbaie.jpg",
       "firstName": "Mehrnoosh",
       "lastName": "Oghbaie",
-      "position": "Intern",
-      "email": "Mehrnoosh.Oghbaie@FenyoLab.org"
+      "position": "Intern"
     },
     {
       "image": "/images/members/comzit.jpeg",
@@ -447,44 +442,40 @@
       "image": "/images/members/joshua-wang.jpg",
       "firstName": "Joshua",
       "lastName": "Wang",
-      "position": "MD/PhD Rotation Student 2019",
-      "email": "Joshua.Wang@FenyoLab.org"
+      "position": "MD/PhD Rotation Student 2019"
     },
     {
       "image": "/images/members/wei-wei.jpg",
       "firstName": "Wei",
       "lastName": "Wei",
-      "position": "Rotation Student 2016",
-      "email": "Wei.Wei@FenyoLab.org"
+      "position": "Rotation Student 2016"
     },
     {
       "image": "/images/members/jill-westcott.jpg",
       "firstName": "Jill",
       "lastName": "Westcott",
-      "position": "Maternal-Fetal Medicine Fellow",
-      "email": "Jill.Westcott@FenyoLab.org"
+      "position": "Maternal-Fetal Medicine Fellow"
     },
     {
       "image": "/images/members/kevin-yang.jpg",
       "firstName": "Kevin",
       "lastName": "Yang",
-      "position": "Rotation Student 2018",
-      "email": "Kevin.Yang@FenyoLab.org"
+      "position": "Rotation Student 2018"
     },
     {
       "image": "/images/members/anna-yeaton.png",
       "firstName": "Anna",
       "lastName": "Yeaton",
-      "position": "Rotation Student 2018",
-      "email": "Anna.Yeaton@FenyoLab.org"
+      "position": "Rotation Student 2018"
     },
     {
       "image": "/images/members/yan-zhang.png",
       "firstName": "Yan",
       "lastName": "Zhang",
-      "position": "Volunteer",
-      "email": "Yan.Zhang@FenyoLab.org"
+      "position": "Volunteer"
     },
+
+
     {
       "image": "/images/members/madu-nzerem.jpeg",
       "firstName": "Madu",
@@ -544,6 +535,12 @@
       "firstName": "Avery",
       "lastName": "Dunn",
       "position": "Rotation Student 2024"
+    },
+    {
+      "image": "/images/members/anthony-chalhoub.jpg",
+      "firstName": "Anthony",
+      "lastName": "Chalhoub",
+      "position": "Student Intern 2024"
     }
   ]
 }
