@@ -8,11 +8,11 @@ import Layout from "@layouts/Layout.astro";
   <div class="flex items-cejnter gap-4 mb-6">
     <p class="text-justify leading-tight text-sm">
       <b>Deep learning applied to histopathology:</b> We apply deep learning methods to analyze tissue images and to integrate multi-omic data. 
-      We have developed models to predict endometrial cancer subtypes and molecular features from histopathology 
-      images using a multi-resolution models 
-      (<i><u><a href="https://doi.org/10.1016/j.xcrm.2021.100400" target="_blank">Hong et al., Cell Reports Medicine 2021</a></u></i>), 
-      and to integrate histopathology and proteogenomics at a pan-cancer level 
-      (<i><u><a href="https://doi.org/10.1016/j.xcrm.2023.101173" target="_blank">Wang et al., Cell Reports Medicine 2023</a></u></i>)
+Taking advantage of the multi-resolution nature of the whole slide H&E images, we introduced a customized deep convolutional neural network architecture, Panoptes, to integrate features of different magnifications 
+(<i><u><a href="https://doi.org/10.1016/j.xcrm.2021.100400" target="_blank">Hong et al., Cell Reports Medicine 2021</a></u></i>). 
+We have applied Panoptes to predict subtypes and molecular features for endometrial cancer, predict STK11 mutations in lung adenocarcinoma, as well as immune response, the CpG island methylator phenotype and telomere length in glioblastoma.
+We have also integrated histopathology and proteogenomics at a pan-cancer level 
+      (<i><u><a href="https://doi.org/10.1016/j.xcrm.2023.101173" target="_blank">Wang et al., Cell Reports Medicine 2023</a></u></i>).
     </p>
     <div class="flex-none">
     </div>
@@ -23,11 +23,11 @@ import Layout from "@layouts/Layout.astro";
     </div>
     <p class="text-justify leading-tight text-sm">
       <b>Spatial omics:</b> We have developed a method, CANVAS, for characterization of 
-      tissue heterogeneity through segmentation-free representation learning. 
-      CANVAS uses a self-supervised machine learning approach based on masked imaging modeling, 
+      tissue heterogeneity through segmentation-free representation learning and applied it to high-dimensional spatial omics data. 
+      CANVAS uses a self-supervised machine learning approach based on vision transformers and masked imaging modeling, 
       where a large portion of the image is removed and the remaining image is 
-      used to reconstruct the original image in combination with vision transformers to multiplexed imaging data. 
-      We are applying CANVAS to analyze mass cytometry and mass spectrometry imaging data of lung adenocarcinoma, 
+      used to reconstruct the original image.
+      We are applying CANVAS to analyze mass cytometry and mass spectrometry imaging data of lung cancer, 
       and to multiplexed immunoflourescence data of endometrial and cervical cancer.
     </p>
   </div>
