@@ -259,7 +259,7 @@
       "firstName": "Aliza",
       "lastName": "Siegman",
       "position": "Master's Student 2023-2024"
-    }
+    },
     {
       "image": "/images/members/mina-zanna.jpg",
       "firstName": "Mina",
@@ -593,7 +593,8 @@
       "firstName": "Yang",
       "lastName": "Liu",
       "position": "Volunteer 2018"
-    }, {
+    }, 
+    {
       "image": "/images/members/andrea-ouyang.jpeg",
       "firstName": "Andrea",
       "lastName": "Ouyang",
