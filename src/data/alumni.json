@@ -157,6 +157,116 @@
       "position": "Scientific Programmer 2015-2021"
     }
   ],
+  "Master's Students": [
+    {
+      "image": "/images/members/ankita-mishra.jpg",
+      "firstName": "Ankita",
+      "lastName": "Mishra",
+      "position": "Master's Student 2019"
+    },
+    {
+      "image": "/images/members/yi-cai.jpg",
+      "firstName": "Yi",
+      "lastName": "Cai",
+      "position": "Master's Student 2019"
+    },
+    {
+      "image": "/images/members/blank.jpg",
+      "firstName": "Andrew",
+      "lastName": "Lin",
+      "position": "Master's Student 2019"
+    },
+    {
+      "image": "/images/members/blank.jpg",
+      "firstName": "Yan",
+      "lastName": "Zhang",
+      "position": "Master's Student 2019"
+    },
+    {
+      "image": "/images/members/mark-grivainis.jpg",
+      "firstName": "Mark",
+      "lastName": "Grivainis",
+      "position": "Master's Student 2019"
+    },
+    {
+      "image": "/images/members/blank.jpg",
+      "firstName": "Chaojie",
+      "lastName": "Zhang",
+      "position": "Master's Student 2020"
+    },
+    {
+      "image": "/images/members/blank.jpg",
+      "firstName": "Michael",
+      "lastName": "Chen",
+      "position": "Master's Student 2020"
+    },
+    {
+      "image": "/images/members/blank.jpg",
+      "firstName": "Isabelle",
+      "lastName": "Johnson",
+      "position": "Master's Student 2021"
+    },
+    {
+      "image": "/images/members/blank.jpg",
+      "firstName": "Sarnai",
+      "lastName": "Ganbold",
+      "position": "Master's Student 2020-2021"
+    },
+    {
+      "image": "/images/members/hannah-kim.jpg",
+      "firstName": "Hannah",
+      "lastName": "Kim",
+      "position": "Master's Student 2022"
+    },
+    {
+      "image": "/images/members/krutika-pandit.jpg",
+      "firstName": "Krutika",
+      "lastName": "Pandit",
+      "position": "Master's Student 2022"
+    },
+    {
+      "image": "/images/members/dania-annuar.png",
+      "firstName": "Dania",
+      "lastName": "Annuar",
+      "position": "Master's Student 2022"
+    },
+    {
+      "image": "/images/members/keegan.jpg",
+      "firstName": "Sarah",
+      "lastName": "Keegan",
+      "position": "Master's Student 2023"
+    },
+    {
+      "image": "/images/members/blank.jpg",
+      "firstName": "Robert",
+      "lastName": "James",
+      "position": "Master's Student 2023"
+    },
+    {
+      "image": "/images/members/tayyibah-khanam.jpg",
+      "firstName": "Tayyibah",
+      "lastName": "Khanam",
+      "position": "Master's Student 2022-2023"
+    },
+    {
+      "image": "/images/members/jon-ma.jpg",
+      "firstName": "Jon",
+      "lastName": "Ma",
+      "position": "Master's Student 2023-2024"
+    },
+    {
+      "image": "/images/members/aliza-siegman.jpg",
+      "firstName": "Aliza",
+      "lastName": "Siegman",
+      "position": "Master's Student 2023-2024"
+    }
+    {
+      "image": "/images/members/mina-zanna.jpg",
+      "firstName": "Mina",
+      "lastName": "Zanna",
+      "position": "Master's Student 2023-2024"
+    }
+  ],
   "Rotation Students": [
     {
       "image": "/images/members/teubl.jpg",
@@ -483,24 +593,17 @@
       "firstName": "Yang",
       "lastName": "Liu",
       "position": "Volunteer 2018"
-    }, 
-    {
-      "image": "/images/members/yan-zhang.png",
-      "firstName": "Yan",
-      "lastName": "Zhang",
-      "position": "Volunteer 2019"
-    },
-    {
+    }, {
       "image": "/images/members/andrea-ouyang.jpeg",
       "firstName": "Andrea",
       "lastName": "Ouyang",
       "position": "Undergraduate Student 2019"
     },
     {
-      "image": "/images/members/ankita-mishra.jpg",
-      "firstName": "Ankita",
-      "lastName": "Mishra",
-      "position": "Master's Student 2019"
+      "image": "/images/members/yan-zhang.png",
+      "firstName": "Yan",
+      "lastName": "Zhang",
+      "position": "Volunteer 2019"
     },
     {
       "image": "/images/members/blank.jpg",
@@ -509,70 +612,16 @@
       "position": "Summer Intern 2019"
     },
     {
-      "image": "/images/members/yi-cai.jpg",
-      "firstName": "Yi",
-      "lastName": "Cai",
-      "position": "Master's Student 2019"
-    },
-    {
-      "image": "/images/members/blank.jpg",
-      "firstName": "Isabelle",
-      "lastName": "Johnson",
-      "position": "Master's Student 2021"
-    },
-    {
-      "image": "/images/members/blank.jpg",
-      "firstName": "Sarnai",
-      "lastName": "Ganbold",
-      "position": "Master's Student 2020-2021"
-    },
-    {
-      "image": "/images/members/hannah-kim.jpg",
-      "firstName": "Hannah",
-      "lastName": "Kim",
-      "position": "Master's Student 2022"
-    },
-    {
-      "image": "/images/members/krutika-pandit.jpg",
-      "firstName": "Krutika",
-      "lastName": "Pandit",
-      "position": "Master's Student 2022"
-    },
-    {
-      "image": "/images/members/dania-annuar.png",
-      "firstName": "Dania",
-      "lastName": "Annuar",
-      "position": "Master's Student 2022"
-    },
-    {
       "image": "/images/members/avik-agarwal.png",
       "firstName": "Avik",
       "lastName": "Agarwal",
       "position": "Intern 2022"
     },
     {
-      "image": "/images/members/tayyibah-khanam.jpg",
-      "firstName": "Tayyibah",
-      "lastName": "Khanam",
-      "position": "Master's Student 2022-2023"
-    },
-    {
       "image": "/images/members/Bartha-Aron.jpg",
       "firstName": "Aron",
       "lastName": "Bartha",
       "position": "Visiting Student 2022-2023"
-    },
-     {
-      "image": "/images/members/jon-ma.jpg",
-      "firstName": "Jon",
-      "lastName": "Ma",
-      "position": "Master's Student 2023-2024"
-    },
-    {
-      "image": "/images/members/mina-zanna.jpg",
-      "firstName": "Mina",
-      "lastName": "Zanna",
-      "position": "Master's Student 2023-2024"
     },
     {
       "image": "/images/members/anthony-chalhoub.jpg",
