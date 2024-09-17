@@ -154,6 +154,12 @@
       "firstName": "Wenjing",
       "lastName": "Zhang",
       "position": "Student Intern"
+    },
+    {
+      "image": "/images/members/brian-mann.jpg",
+      "firstName": "Brian",
+      "lastName": "Mann",
+      "position": "Master's Student"
     }
   ]
 }
