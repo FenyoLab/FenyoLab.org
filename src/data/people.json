@@ -156,6 +156,12 @@
       "position": "Student Intern"
     },
     {
+      "image": "/images/members/ruby_photo.jpg",
+      "firstName": "Ruby",
+      "lastName": "Kumar",
+      "position": "Master's Student"
+    },
+    {
       "image": "/images/members/brian-mann.png",
       "firstName": "Brian",
       "lastName": "Mann",
