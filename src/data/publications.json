@@ -1,6 +1,12 @@
 {
   "Preprints": [
     {
+      "authors": "Joseph C Mays, Sally Mei, Manjunatha Kogenaru, Helberth Quysbertf, Nazario Bosco, Xin Zhao, Joy J Bianchi, Aleah Goldberg, Gururaj Rao Kidiyoor, Liam J Holt, David Fenyö, Teresa Davoli",
+      "link": "https://doi.org/10.1101/2023.09.08.555746",
+      "journal": "bioRxiv 2023.09.08.555746",
+      "title": "KaryoTap Enables Aneuploidy Detection in Thousands of Single Human Cells"
+    },
+    {
       "authors": "Jimin Tan, Hortense Le, Jiehui Deng, Yingzhuo Liu, Yuan Hao, Michelle Hollenberg, Wenke Liu, Joshua M Wang, Bo Xia, Sitharam Ramaswami, Valeria Mezzano, Cynthia Loomis, Nina Murrell, Andre L Moreira, Kyunghyun Cho, Harvey I Pass, Kwok-Kin Wong, Yi Ban, Benjamin G Neel, Aristotelis Tsirigos, David Fenyo",
       "link": "https://doi.org/10.1101/2024.09.05.611431",
       "journal": "bioRxiv 2024.09.05.611431",
