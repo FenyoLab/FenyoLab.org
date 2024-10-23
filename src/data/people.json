@@ -19,13 +19,6 @@
       "projectDesc": "Noor is using GWAS and eQTL data from European and East Asian populations to deduce causal risk SNVs for Type 2 diabetes at the NKX6-3/ANK1 locus. Her work utilizes genome engineering techniques to build synthetic haplotypes with various combinations of potential risk SNVs and integrate them into human iPSCs. The cells containing the synthetic haplotypes will be differentiated into multiple cell types associated with Type 2 diabetes and characterized with snRNA-seq, snATAC-seq, and RT-qPCR."
     },
     {
-      "image": "/images/members/jimin-tan.jpg",
-      "firstName": "Jimin",
-      "lastName": "Tan",
-      "position": "Ph.D. Student",
-      "projectDesc": "Jimin is interested in understanding biological systems through machine learning modeling. He developed CANVAS, an ML framework to discover novel tumor microenvironments in multiplexed imaging data. He also developed C.Origami, a deep neural network that predicts chromatin conformation and enables in silico genetic screening on 3D genome."
-    },
-    {
       "image": "/images/members/grant-hussey.jpg",
       "firstName": "Grant",
       "lastName": "Hussey",
