@@ -87,14 +87,6 @@
       "projectDesc": "Jude's research interests include investigation of LINE-1 retrotransposons in gynecologic cancer, chemotherapy decision-making and palliative care outcomes in the cancer population, national and international healthcare disparities and clinical trial accessibility."
     },
     {
-      "image": "/images/members/lizabeth-katsnelson.jpg",
-      "firstName": "Lizabeth",
-      "lastName": "Katsnelson",
-      "suffix": "Ph.D.",
-      "position": "Postdoctoral Fellow",
-      "projectDesc": "Lisa is interested in utilizing machine learning methods to study the association between chromosome-specific aneuploidies and immune evasion in cancer."
-    },
-    {
       "image": "/images/members/jharna-patel.png",
       "firstName": "Jharna",
       "lastName": "Patel",
@@ -137,18 +129,6 @@
   ],
   "Interns / Visitors / Rotation Students / Master's Students": [
     {
-      "image": "/images/members/laura-jaggernauth.jpg",
-      "firstName": "Laura",
-      "lastName": "Jaggernauth",
-      "position": "Student Intern"
-    },
-    {
-      "image": "/images/members/blank.jpg",
-      "firstName": "Saba",
-      "lastName": "Jankarashvili",
-      "position": "Student Intern"
-    },
-    {
       "image": "/images/members/wenjing-zhang.jpg",
       "firstName": "Wenjing",
       "lastName": "Zhang",
@@ -164,6 +144,24 @@
       "image": "/images/members/brian-mann.png",
       "firstName": "Brian",
       "lastName": "Mann",
+      "position": "Master's Student"
+    },
+    {
+      "image": "/images/members/neal-cody.png",
+      "firstName": "Neal",
+      "lastName": "Cody",
+      "position": "Master's Student"
+    },
+    {
+      "image": "/images/members/blank.png",
+      "firstName": "Daniel",
+      "lastName": "Drafta",
+      "position": "Master's Student"
+    },
+    {
+      "image": "/images/members/blank.png",
+      "firstName": "Kavya",
+      "lastName": "Phadke",
       "position": "Master's Student"
     }
   ]

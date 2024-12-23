@@ -37,12 +37,6 @@
       "title": "Histopathology-assisted proteogenomics provides foundations for stratification of melanoma metastases"
     },
     {
-      "authors": "Gregory W. Goldberg, Manjunatha Kogenaru, Sarah Keegan, Max A. B. Haase, Larisa Kagermazova, Mauricio A. Arias, Kenenna Onyebeke, Samantha Adams, David Fenyo, Marcus B. Noyes, Jef D Boeke",
-      "link": "https://doi.org/10.1101/2023.09.18.558319",
-      "journal": "bioRxiv 2023.09.18.558319",
-      "title": "Engineered transcription-associated Cas9 targeting in eukaryotic cells"
-    },
-    {
       "authors": "Niklas Ravn-Boess, Nainita Roy, Takamitsu Hattori, Devin Bready, Hayley Donaldson, Christopher Lawson, Cathryn Lapierre, Aryeh Korman, Tori Rodrick, Enze Liu, Joshua D. Frenster, Gabriele Stephan, Jordan Wilcox, Alexis D. Corrado, Julia Cai, Rebecca Ronnen, Shuai Wang, Sara Haddock, Jonathan Sabio Ortiz, Orin Mishkit, Alireza Khodadadi-Jamayran, Aris Tsirigos, David Fenyö, David Zagzag, Fabiana Perna, Drew R. Jones, Richard Possemato, Akiko Koide, Shohei Koide, Christopher Y. Park, Dimitris G. Placantonakis",
       "link": "https://doi.org/10.1101/2023.08.31.555733",
       "journal": "bioRxiv 2023.08.31.555733",
@@ -86,6 +80,12 @@
     }
   ],
   "2024": [
+    {
+      "authors": "Goldberg GW, Kogenaru M, Keegan S, Haase MAB, Kagermazova L, Arias MA, Onyebeke K, Adams S, Beyer DK, Fenyö D, Noyes MB, Boeke JD",
+      "link": "https://doi.org/10.1038/s41467-024-54629-9",
+      "journal": "Nat Commun. 2024 Nov 27;15(1):10287",
+      "title": "Engineered transcription-associated Cas9 targeting in eukaryotic cells"
+    },
     {
       "authors": "Fridy PC, Farrell RJ, Molloy KR, Keegan S, Wang J, Jacobs EY, Li Y, Trivedi J, Sehgal V, Fenyö D, Wu Z, Chait BT, Rout MP",
       "link": "https://doi.org/10.1016/j.jbc.2024.107623",

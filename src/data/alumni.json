@@ -136,6 +136,14 @@
       "lastName": "Bhardwaj",
       "suffix": "Ph.D.",
       "position": "Postdoctoral Fellow 2021-2024"
+    },
+    {
+      "image": "/images/members/lizabeth-katsnelson.jpg",
+      "firstName": "Lizabeth",
+      "lastName": "Katsnelson",
+      "suffix": "Ph.D.",
+      "position": "Postdoctoral Fellow 2024",
+      "projectDesc": "Lisa is interested in utilizing machine learning methods to study the association between chromosome-specific aneuploidies and immune evasion in cancer."
     }
   ],
   "Staff": [
@@ -636,6 +644,18 @@
       "firstName": "Anthony",
       "lastName": "Chalhoub",
       "position": "Student Intern 2024"
-    }
+    },
+    {
+      "image": "/images/members/laura-jaggernauth.jpg",
+      "firstName": "Laura",
+      "lastName": "Jaggernauth",
+      "position": "Student Intern 2024"
+    },
+    {
+      "image": "/images/members/blank.jpg",
+      "firstName": "Saba",
+      "lastName": "Jankarashvili",
+      "position": "Student Intern 2024"
+    },
   ]
 }
