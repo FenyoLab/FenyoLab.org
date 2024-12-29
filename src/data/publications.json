@@ -25,12 +25,6 @@
       "title": "Machine Learning Classification of 53BP1 Foci"
     },
     {
-      "authors": "Indira Pla, Botond L. Szabolcs, Petra Nikolett Péter, Zsuzsanna Ujfaludi, Yonghyo Kim, Peter Horvatovich, Aniel Sanchez, Krzysztof Pawlowski, Elisabet Wieslander, Jéssica Guedes, Dorottya MP Pál, Anna A. Ascsillán, Lazaro Hiram Betancourt, István Balázs Németh, Jeovanis Gil, Natália Pinto de Almeida, Beáta Szeitz, Leticia Szadai, Viktória Doma, Nicole Woldmar, Áron Bartha, Zoltan Pahi, Tibor Pankotai, Balázs Győrffy, A. Marcell Szasz, Gilberto Domont, Fábio Nogueira, Ho Jeong Kwon, Roger Appelqvist, Sarolta Kárpáti, David Fenyö, Johan Malm, György Marko-Varga, Lajos V. Kemény",
-      "link": "https://doi.org/10.1101/2024.02.08.579424",
-      "journal": "bioRxiv 2024.02.08.579424",
-      "title": "Identifying Ferroptosis Inducers, HDAC, and RTK Inhibitor Sensitivity in Melanoma Subtypes through Unbiased Drug Target Prediction"
-    },
-    {
       "authors": "Magdalena Kuras, Lazaro Hiram Betancourt, Runyu Hong, Leticia Szadai, Jimmy Rodriguez, Peter Horvatovich, Indira Pla, Jonatan Eriksson, Beáta Szeitz, Bartlomiej Deszcz, Charlotte Welinder, Yutaka Sugihara, Henrik Ekedahl, Bo Baldetorp, Christian Ingvar, Lotta Lundgren, Henrik Lindberg, Henriett Oskolas, Zsolt Horvath, Melinda Rezeli, Jeovanis Gil, Roger Appelqvist, Lajos V. Kemény, Johan Malm, Aniel Sanchez, A. Marcell Szasz, Krzysztof Pawlowski, Elisabet Wieslander, David Fenyö, Istvan Balazs Nemeth, György Marko-Varga",
       "link": "https://doi.org/10.1101/2023.09.29.559755",
       "journal": "bioRxiv 2023.09.29.559755",
@@ -79,8 +73,16 @@
       "title": "DreamAI: algorithm for the imputation of proteomics data"
     }
   ],
+
+  
   "2024": [
-    {
+  {
+    "authors": "Pla I, Szabolcs BL, Péter PN, Ujfaludi Z, Kim Y, Horvatovich P, Sanchez A, Pawlowski K, Wieslander E, Kuras M, Murillo JR, Guedes J, Pál DMP, Ascsillán AA, Betancourt LH, Németh IB, Gil J, de Almeida NP, Szeitz B, Szadai L, Doma V, Woldmar N, Bartha Á, Pahi Z, Pankotai T, Győrffy B, Szasz AM, Domont G, Nogueira F, Kwon HJ, Appelqvist R, Kárpáti S, Fenyö D, Malm J, Marko-Varga G, Kemény LV",
+    "link": "https://doi.org/10.1111/ijd.17586",
+    "journal": "Int J Dermatol. 2024",
+    "title": "Unbiased Drug Target Prediction Reveals Sensitivity to Ferroptosis Inducers, HDAC and RTK Inhibitors in Melanoma Subtypes"
+  },
+  {
       "authors": "Goldberg GW, Kogenaru M, Keegan S, Haase MAB, Kagermazova L, Arias MA, Onyebeke K, Adams S, Beyer DK, Fenyö D, Noyes MB, Boeke JD",
       "link": "https://doi.org/10.1038/s41467-024-54629-9",
       "journal": "Nat Commun. 2024 Nov 27;15(1):10287",
