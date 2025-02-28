@@ -7,12 +7,6 @@
       "title": "KaryoTap Enables Aneuploidy Detection in Thousands of Single Human Cells"
     },
     {
-      "authors": "Jimin Tan, Hortense Le, Jiehui Deng, Yingzhuo Liu, Yuan Hao, Michelle Hollenberg, Wenke Liu, Joshua M Wang, Bo Xia, Sitharam Ramaswami, Valeria Mezzano, Cynthia Loomis, Nina Murrell, Andre L Moreira, Kyunghyun Cho, Harvey I Pass, Kwok-Kin Wong, Yi Ban, Benjamin G Neel, Aristotelis Tsirigos, David Fenyo",
-      "link": "https://doi.org/10.1101/2024.09.05.611431",
-      "journal": "bioRxiv 2024.09.05.611431",
-      "title": "Characterization of tumor heterogeneity through segmentation-free representation learning"
-    },
-    {
       "authors": "Hussey G, Valeriano J, Zhang C, Sullivan A, Fenyö D, Schluter J",
       "link": "https://doi.org/10.21203/rs.3.rs-4343683/v1",
       "journal": "Res Sq [Preprint]. 2024 May 8:rs.3.rs-4343683",
@@ -75,6 +69,21 @@
   ],
 
   
+  "2025": [
+    {
+      "authors": "Tan J, Le H, Deng J, Liu Y, Hao Y, Hollenberg M, Liu W, Wang JM, Xia B, Ramaswami S, Mezzano V, Loomis C, Murrell N, Moreira AL, Cho K, Pass HI, Wong KK, Ban Y, Neel BG, Tsirigos A, Fenyö D",
+      "link": "https://doi.org/10.1038/s41551-025-01348-1",
+      "journal": "Nat Biomed Eng. 2025 Feb 20",
+      "title": "Characterization of tumour heterogeneity through segmentation-free representation learning on multiplexed imaging data"
+    },
+    {  
+      "authors": "Gleason C, Terry SN, Hernandez MM, Jacob S, Fenyo D, Johnson JR, Deikus G, Francoeur N, Hahn A, Sebra R, Zamarin D, Molina H, Simon V, Mulder LCF",
+      "link": "https://doi.org/10.1093/nar/gkaf011",
+      "journal": "Nucleic Acids Res. 2025 Jan 11;53(2):gkaf011",
+      "title": "An integrated approach for the accurate detection of HERV-K HML-2 transcription and protein synthesis"
+    }
+  ],
+
   "2024": [
   {
     "authors": "Pla I, Szabolcs BL, Péter PN, Ujfaludi Z, Kim Y, Horvatovich P, Sanchez A, Pawlowski K, Wieslander E, Kuras M, Murillo JR, Guedes J, Pál DMP, Ascsillán AA, Betancourt LH, Németh IB, Gil J, de Almeida NP, Szeitz B, Szadai L, Doma V, Woldmar N, Bartha Á, Pahi Z, Pankotai T, Győrffy B, Szasz AM, Domont G, Nogueira F, Kwon HJ, Appelqvist R, Kárpáti S, Fenyö D, Malm J, Marko-Varga G, Kemény LV",
