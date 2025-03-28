@@ -19,12 +19,6 @@
       "title": "Machine Learning Classification of 53BP1 Foci"
     },
     {
-      "authors": "Magdalena Kuras, Lazaro Hiram Betancourt, Runyu Hong, Leticia Szadai, Jimmy Rodriguez, Peter Horvatovich, Indira Pla, Jonatan Eriksson, Beáta Szeitz, Bartlomiej Deszcz, Charlotte Welinder, Yutaka Sugihara, Henrik Ekedahl, Bo Baldetorp, Christian Ingvar, Lotta Lundgren, Henrik Lindberg, Henriett Oskolas, Zsolt Horvath, Melinda Rezeli, Jeovanis Gil, Roger Appelqvist, Lajos V. Kemény, Johan Malm, Aniel Sanchez, A. Marcell Szasz, Krzysztof Pawlowski, Elisabet Wieslander, David Fenyö, Istvan Balazs Nemeth, György Marko-Varga",
-      "link": "https://doi.org/10.1101/2023.09.29.559755",
-      "journal": "bioRxiv 2023.09.29.559755",
-      "title": "Histopathology-assisted proteogenomics provides foundations for stratification of melanoma metastases"
-    },
-    {
       "authors": "Niklas Ravn-Boess, Nainita Roy, Takamitsu Hattori, Devin Bready, Hayley Donaldson, Christopher Lawson, Cathryn Lapierre, Aryeh Korman, Tori Rodrick, Enze Liu, Joshua D. Frenster, Gabriele Stephan, Jordan Wilcox, Alexis D. Corrado, Julia Cai, Rebecca Ronnen, Shuai Wang, Sara Haddock, Jonathan Sabio Ortiz, Orin Mishkit, Alireza Khodadadi-Jamayran, Aris Tsirigos, David Fenyö, David Zagzag, Fabiana Perna, Drew R. Jones, Richard Possemato, Akiko Koide, Shohei Koide, Christopher Y. Park, Dimitris G. Placantonakis",
       "link": "https://doi.org/10.1101/2023.08.31.555733",
       "journal": "bioRxiv 2023.08.31.555733",
@@ -70,6 +64,12 @@
 
   
   "2025": [
+    {
+      "authors": "Kuras M, Betancourt LH, Hong R, Szadai L, Rodriguez J, Horvatovich P, Pla I, Eriksson J, Szeitz B, Deszcz B, Welinder C, Sugihara Y, Ekedahl H, Baldetorp B, Ingvar C, Lundgren L, Lindberg H, Oskolas H, Horvath Z, Rezeli M, Gil J, Appelqvist R, Kemény LV, Malm J, Sanchez A, Szasz AM, Pawłowski K, Wieslander E, Fenyö D, Nemeth IB, Marko-Varga G",
+      "link": "https://doi.org/10.3390/cancers17050832",
+      "journal": "Cancers (Basel). 2025 Feb 27;17(5):832",
+      "title": "Proteogenomic Profiling of Treatment-Naïve Metastatic Malignant Melanoma"
+    },
     {
       "authors": "Tan J, Le H, Deng J, Liu Y, Hao Y, Hollenberg M, Liu W, Wang JM, Xia B, Ramaswami S, Mezzano V, Loomis C, Murrell N, Moreira AL, Cho K, Pass HI, Wong KK, Ban Y, Neel BG, Tsirigos A, Fenyö D",
       "link": "https://doi.org/10.1038/s41551-025-01348-1",

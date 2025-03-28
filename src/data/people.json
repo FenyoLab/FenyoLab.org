@@ -19,13 +19,6 @@
       "projectDesc": "Noor is using GWAS and eQTL data from European and East Asian populations to deduce causal risk SNVs for Type 2 diabetes at the NKX6-3/ANK1 locus. Her work utilizes genome engineering techniques to build synthetic haplotypes with various combinations of potential risk SNVs and integrate them into human iPSCs. The cells containing the synthetic haplotypes will be differentiated into multiple cell types associated with Type 2 diabetes and characterized with snRNA-seq, snATAC-seq, and RT-qPCR."
     },
     {
-      "image": "/images/members/grant-hussey.jpg",
-      "firstName": "Grant",
-      "lastName": "Hussey",
-      "position": "Ph.D. Student",
-      "projectDesc": "Grant is focused on improving PhosphoDisco, a Python-based toolkit to discover co-regulated phosphorylation modules in phosphoproteomic data, and its application on the CPTAC consortium's pan-cancer datasets."
-    },
-    {
       "image": "/images/members/michelle-hollenberg.jpeg",
       "firstName": "Michelle",
       "lastName": "Hollenberg",
@@ -161,12 +154,6 @@
       "image": "/images/members/daniel-drafta.png",
       "firstName": "Daniel",
       "lastName": "Drafta",
-      "position": "Master's Student"
-    },
-    {
-      "image": "/images/members/blank.jpg",
-      "firstName": "Kavya",
-      "lastName": "Phadke",
       "position": "Master's Student"
     }
   ]
