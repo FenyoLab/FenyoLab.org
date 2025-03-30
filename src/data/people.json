@@ -126,7 +126,14 @@
       "firstName": "Cassie",
       "lastName": "Areff",
       "position": "Rotation Student"
-    },{
+    },
+    {
+      "image": "/images/members/yumi-briones.jpg",
+      "firstName": "Yumi",
+      "lastName": "Briones",
+      "position": "Rotation Student"
+    },
+    {
       "image": "/images/members/wenjing-zhang.jpg",
       "firstName": "Wenjing",
       "lastName": "Zhang",
