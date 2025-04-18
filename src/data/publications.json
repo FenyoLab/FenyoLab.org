@@ -19,12 +19,6 @@
       "title": "Machine Learning Classification of 53BP1 Foci"
     },
     {
-      "authors": "Niklas Ravn-Boess, Nainita Roy, Takamitsu Hattori, Devin Bready, Hayley Donaldson, Christopher Lawson, Cathryn Lapierre, Aryeh Korman, Tori Rodrick, Enze Liu, Joshua D. Frenster, Gabriele Stephan, Jordan Wilcox, Alexis D. Corrado, Julia Cai, Rebecca Ronnen, Shuai Wang, Sara Haddock, Jonathan Sabio Ortiz, Orin Mishkit, Alireza Khodadadi-Jamayran, Aris Tsirigos, David Fenyö, David Zagzag, Fabiana Perna, Drew R. Jones, Richard Possemato, Akiko Koide, Shohei Koide, Christopher Y. Park, Dimitris G. Placantonakis",
-      "link": "https://doi.org/10.1101/2023.08.31.555733",
-      "journal": "bioRxiv 2023.08.31.555733",
-      "title": "The expression profile and tumorigenic mechanisms of CD97 (ADGRE5) in glioblastoma render it a targetable vulnerability"
-    },
-    {
       "authors": "Sarah Keegan, David Fenyö, Liam J. Holt",
       "link": "https://doi.org/10.1101/2023.06.26.546612",
       "journal": "bioRxiv 2023.06.26.546612",
@@ -35,12 +29,6 @@
       "link": "https://doi.org/10.1101/2023.04.18.537350",
       "journal": "bioRxiv 2023.04.18.537350",
       "title": "In vivo metabolomics identifies CD38 as an emergent vulnerability in LKB1-mutant lung cancer"
-    },
-    {
-      "authors": "Gabriele Stephan, Hediye Erdjument-Bromage, Wenke Liu, Joshua D. Frenster, Niklas Ravn-Boess, Devin Bready, Julia Cai, David Fenyo, Thomas Neubert, Dimitris G. Placantonakis",
-      "link": "https://doi.org/10.1101/2023.02.09.527921",
-      "journal": "bioRxiv 2023.02.09.527921",
-      "title": "Modulation of GPR133 (ADGRD1) Signaling by its Intracellular Interaction Partner Extended Synaptotagmin 1 (ESYT1)"
     },
     {
       "authors": "Tamas Szoradi, Tong Shu, Gururaj R Kidiyoor, Ying Xie, Nora L Herzog, Andrew Bazley, Martina Bonucci, Sarah Keegan, Shivanjali Saxena, Farida Ettefa, Gregory P Brittingham, Joel Lemiere, David Fenyo, Fred Chang, Morgan Delarue, Liam J Holt",
@@ -64,6 +52,18 @@
 
   
   "2025": [
+    {
+      "authors": "Oskolas H, Nogueira FCN, Domont GB, Yu KH, Semenov YR, Sorger P, Steinfelder E, Corps L, Schulz L, Wieslander E, Fenyö D, Kárpáti S, Holló P, Kemény LV, Döme B, Megyesfalvi Z, Pawłowski K, Nishimura T, Kwon H, Encarnación-Guevara S, Szasz AM, Veréb Z, Gyulai R, Németh IB, Appelqvist R, Rezeli M, Baldetorp B, Horvatovich P, Malmström J, Pla I, Sanchez A, Knudsen B, Kiss A, Malm J, Marko-Varga G, Gil J",
+      "link": "https://doi.org/10.1016/j.jprot.2025.105442",
+      "journal": "J Proteomics 2025:105442",
+      "title": "Comprehensive biobanking strategy with clinical impact at the European Cancer Moonshot Lund Center"
+    },
+    {
+      "authors": "Martins Rodrigues F, Terekhanova NV, Imbach KJ, Clauser KR, Esai Selvan M, Mendizabal I, Geffen Y, Akiyama Y, Maynard M, Yaron TM, Li Y, Cao S, Storrs EP, Gonda OS, Gaite-Reguero A, Govindan A, Kawaler EA, Wyczalkowski MA, Klein RJ, Turhan B, Krug K, Mani DR, Leprevost FDV, Nesvizhskii AI, Carr SA, Fenyö D, Gillette MA, Colaprico A, Iavarone A, Robles AI, Huang KL, Kumar-Sinha C, Aguet F, Lazar AJ, Cantley LC, Marigorta UM, Gümüş ZH, Bailey MH, Getz G, Porta-Pardo E, Ding L; Clinical Proteomic Tumor Analysis Consortium",
+      "link": "https://doi.org/10.1016/j.cell.2025.03.026",
+      "journal": "Cell 2025:S0092-8674(25)00344-7.",
+      "title": "Precision proteogenomics reveals pan-cancer impact of germline variants"
+    },
     {
       "authors": "Kuras M, Betancourt LH, Hong R, Szadai L, Rodriguez J, Horvatovich P, Pla I, Eriksson J, Szeitz B, Deszcz B, Welinder C, Sugihara Y, Ekedahl H, Baldetorp B, Ingvar C, Lundgren L, Lindberg H, Oskolas H, Horvath Z, Rezeli M, Gil J, Appelqvist R, Kemény LV, Malm J, Sanchez A, Szasz AM, Pawłowski K, Wieslander E, Fenyö D, Nemeth IB, Marko-Varga G",
       "link": "https://doi.org/10.3390/cancers17050832",
