@@ -53,6 +53,18 @@
   
   "2025": [
     {
+      "authors": "Bartha Á, Weltz B, Betancourt LH, Gil J, Pinto de Almeida N, Bianchini G, Szeitz B, Szadai L, Pla I, Kemény LV, Jánosi ÁJ, Hong R, Rajeh A, Nogueira F, Doma V, Woldmar N, Guedes J, Újfaludi Z, Kim Y, Szarvas T, Pahi Z, Pankotai T, Szasz AM, Sanchez A, Baldetorp B, Tímár J, Németh IB, Kárpáti S, Appelqvist R, Domont GB, Pawlowski K, Wieslander E, Malm J, Fenyo D, Horvatovich P, Marko-Varga G, Győrffy B",
+      "link": "https://doi.org/10.1021/acs.jproteome.4c00749",
+      "journal": "J Proteome Res. 2025",
+      "title": "Melanoma Proteomics Unveiled: Harmonizing Diverse Data Sets for Biomarker Discovery and Clinical Insights via MEL-PLOT"
+    },
+    {
+      "authors": "Kołodziejczak-Guglas I, Simões RLS, de Souza Santos E, Demicco EG, Lazcano Segura RN, Ma W, Wang P, Geffen Y, Storrs E, Petralia F, Colaprico A, da Veiga Leprevost F, Pugliese P, Ceccarelli M, Noushmehr H, Nesvizhskii AI, Kamińska B, Priebe W, Lubiński J, Zhang B, Lazar AJ, Kurzawa P, Mesri M, Robles AI; Clinical Proteomic Tumor Analysis Consortium; Ding L, Malta TM, Wiznerowicz M",
+      "link": "https://doi.org/10.1016/j.xgen.2025.100851",
+      "journal": "Cell Genom. 2025:100851",
+      "title": "Proteomic-based stemness score measures oncogenic dedifferentiation and enables the identification of druggable targets"
+    },
+    {
       "authors": "Oskolas H, Nogueira FCN, Domont GB, Yu KH, Semenov YR, Sorger P, Steinfelder E, Corps L, Schulz L, Wieslander E, Fenyö D, Kárpáti S, Holló P, Kemény LV, Döme B, Megyesfalvi Z, Pawłowski K, Nishimura T, Kwon H, Encarnación-Guevara S, Szasz AM, Veréb Z, Gyulai R, Németh IB, Appelqvist R, Rezeli M, Baldetorp B, Horvatovich P, Malmström J, Pla I, Sanchez A, Knudsen B, Kiss A, Malm J, Marko-Varga G, Gil J",
       "link": "https://doi.org/10.1016/j.jprot.2025.105442",
       "journal": "J Proteomics 2025:105442",

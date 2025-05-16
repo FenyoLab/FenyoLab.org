@@ -59,6 +59,13 @@
       "lastName": "Procell",
       "position": "Ph.D. Student",
       "projectDesc": "Linda is interested in studying health and disease in women's healthcare and gynecologic disorders through multi-omic analysis with a focus on single-cell and spatial transcriptomics. She is also intrigued by cellular heterogeneity in disease and the structural components of microenvironmental interactions."
+    },
+    {
+      "image": "/images/members/blank.jpg",
+      "firstName": "Olufolakemi",
+      "lastName": "Olusanya",
+      "position": "Ph.D. Student",
+      "projectDesc": ""
     }
   ],
 
@@ -111,13 +118,6 @@
       "lastName": "Grivainis",
       "position": "Scientific Programmer",
       "projectDesc": "Mark transforms complex biological data into insightful visualizations, leveraging cloud-based technologies to enable researchers and scientists to explore and understand intricate patterns. His expertise lies in developing interactive and scalable visualization tools that empower data-driven discovery in the life sciences."
-    },
-    {
-      "image": "/images/members/aliza-siegman.jpg",
-      "firstName": "Aliza",
-      "lastName": "Siegman",
-      "position": "Scientific Programmer",
-      "projectDesc": "Aliza's research involves using machine learning techniques for image analysis. This includes utilizing cell segmentation-based methods to analyze the tumor microenvironment in endometrial carcinoma and developing deep learning methods to detect H. pylori in the gastrointestinal tract."
     }
   ],
   "Interns / Visitors / Rotation Students / Master's Students": [
@@ -162,6 +162,12 @@
       "firstName": "Daniel",
       "lastName": "Drafta",
       "position": "Master's Student"
+    },
+    {
+      "image": "/images/members/Mehdi-Marrakchi.jpg",
+      "firstName": "Mehdi",
+      "lastName": "Marrakchi",
+      "position": "Student Intern"
     }
   ]
 }
