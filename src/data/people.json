@@ -168,6 +168,30 @@
       "firstName": "Mehdi",
       "lastName": "Marrakchi",
       "position": "Student Intern"
+    },
+    {
+      "image": "/images/members/blank.jpg",
+      "firstName": "Katherine",
+      "lastName": "Zhang",
+      "position": "Student Intern"
+    },
+    {
+      "image": "/images/members/Muhammad_Ali.jpg",
+      "firstName": "Muhammad",
+      "lastName": "Ali",
+      "position": "Intern"
+    },
+    {
+      "image": "/images/members/Vanessa-Fang.jpg",
+      "firstName": "Vanessa",
+      "lastName": "Fang",
+      "position": "Student Intern"
+    },
+    {
+      "image": "/images/members/blank.jpg",
+      "firstName": "Jesper",
+      "lastName": "Broberg",
+      "position": "Student Intern"
     }
   ]
 }
