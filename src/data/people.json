@@ -87,14 +87,6 @@
       "projectDesc": "Jude's research interests include investigation of LINE-1 retrotransposons in gynecologic cancer, chemotherapy decision-making and palliative care outcomes in the cancer population, national and international healthcare disparities and clinical trial accessibility."
     },
     {
-      "image": "/images/members/jharna-patel.png",
-      "firstName": "Jharna",
-      "lastName": "Patel",
-      "suffix": "M.D.",
-      "position": "Gynecologic Oncology Fellow",
-      "projectDesc": "Jharna's research interests include using whole slide imaging to investigate variances in immune profiles in responders versus non-responders to immunotherapy in cervical cancer. She also has an interest in clinical outcomes in early-stage and locally advanced vulvar cancers and in improving diversity in clinical trials."
-    },
-    {
       "image": "/images/members/bea-szeitz.jpeg",
       "firstName": "Bea",
       "lastName": "Szeitz",
@@ -122,18 +114,6 @@
   ],
   "Interns / Visitors / Rotation Students / Master's Students": [
     {
-      "image": "/images/members/cassie-areff.jpg",
-      "firstName": "Cassie",
-      "lastName": "Areff",
-      "position": "Rotation Student"
-    },
-    {
-      "image": "/images/members/yumi-briones.jpg",
-      "firstName": "Yumi",
-      "lastName": "Briones",
-      "position": "Rotation Student"
-    },
-    {
       "image": "/images/members/wenjing-zhang.jpg",
       "firstName": "Wenjing",
       "lastName": "Zhang",
@@ -149,12 +129,6 @@
       "image": "/images/members/brian-mann.png",
       "firstName": "Brian",
       "lastName": "Mann",
-      "position": "Master's Student"
-    },
-    {
-      "image": "/images/members/neal-cody.png",
-      "firstName": "Neal",
-      "lastName": "Cody",
       "position": "Master's Student"
     },
     {
@@ -188,7 +162,7 @@
       "position": "Student Intern"
     },
     {
-      "image": "/images/members/blank.jpg",
+      "image": "/images/members/jesper-broberg.jpg",
       "firstName": "Jesper",
       "lastName": "Broberg",
       "position": "Student Intern"

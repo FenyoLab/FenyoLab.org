@@ -151,6 +151,14 @@
       "suffix": "Ph.D.",
       "position": "Postdoctoral Fellow 2024",
       "projectDesc": "Lisa is interested in utilizing machine learning methods to study the association between chromosome-specific aneuploidies and immune evasion in cancer."
+    },
+    {
+      "image": "/images/members/jharna-patel.png",
+      "firstName": "Jharna",
+      "lastName": "Patel",
+      "suffix": "M.D.",
+      "position": "Gynecologic Oncology Fellow",
+      "projectDesc": "Jharna's research interests include using whole slide imaging to investigate variances in immune profiles in responders versus non-responders to immunotherapy in cervical cancer. She also has an interest in clinical outcomes in early-stage and locally advanced vulvar cancers and in improving diversity in clinical trials."
     }
   ],
   "Staff": [
@@ -294,6 +302,12 @@
       "firstName": "Mina",
       "lastName": "Zanna",
       "position": "Master's Student 2023-2024"
+    },
+    {
+      "image": "/images/members/neal-cody.png",
+      "firstName": "Neal",
+      "lastName": "Cody",
+      "position": "Master's Student 2024-2025"
     }
   ],
   "Rotation Students": [
@@ -458,6 +472,18 @@
       "firstName": "Avery",
       "lastName": "Dunn",
       "position": "Rotation Student 2024"
+    },
+    {
+      "image": "/images/members/cassie-areff.jpg",
+      "firstName": "Cassie",
+      "lastName": "Areff",
+      "position": "Rotation Student 2025"
+    },
+    {
+      "image": "/images/members/yumi-briones.jpg",
+      "firstName": "Yumi",
+      "lastName": "Briones",
+      "position": "Rotation Student 2025"
     }
   ],
   "Interns / Visitors": [
