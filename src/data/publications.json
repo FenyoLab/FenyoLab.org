@@ -13,12 +13,6 @@
       "title": "The MTIST platform: a microbiome time series inference standardized test"
     },
     {
-      "authors": "María Xóchitl Benítez-Jones, Sarah Keegan, Sebastian Jamshahi, David Fenyö",
-      "link": "https://doi.org/10.1101/2024.02.28.582150",
-      "journal": "bioRxiv 2024.02.28.582150",
-      "title": "Machine Learning Classification of 53BP1 Foci"
-    },
-    {
       "authors": "Sarah Keegan, David Fenyö, Liam J. Holt",
       "link": "https://doi.org/10.1101/2023.06.26.546612",
       "journal": "bioRxiv 2023.06.26.546612",
@@ -29,24 +23,6 @@
       "link": "https://doi.org/10.1101/2023.04.18.537350",
       "journal": "bioRxiv 2023.04.18.537350",
       "title": "In vivo metabolomics identifies CD38 as an emergent vulnerability in LKB1-mutant lung cancer"
-    },
-    {
-      "authors": "Tamas Szoradi, Tong Shu, Gururaj R Kidiyoor, Ying Xie, Nora L Herzog, Andrew Bazley, Martina Bonucci, Sarah Keegan, Shivanjali Saxena, Farida Ettefa, Gregory P Brittingham, Joel Lemiere, David Fenyo, Fred Chang, Morgan Delarue, Liam J Holt",
-      "link": "https://doi.org/10.1101/2021.11.18.469159",
-      "journal": "bioRxiv 2021.11.18.469159",
-      "title": "nucGEMs probe the biophysical properties of the nucleoplasm"
-    },
-    {
-      "authors": "Jeovanis Gil, Yonghyo Kim, Beáta Szeitz, Viktória Doma, Ugur Çakir, Natália Pinto de Almeida, Yanick Paco Hagemeijer, Victor Guryev, Jenny G Johansson, Yogita Sharma, Indira Pla Parada, Zsolt Horvath, Jéssica de Siqueira Guedes, Gustavo Monnerat, Fábio CS Nogueira, Boram Lee, Henriett Oskolas, Enikö Kuroli, Judit Hársing, Yutaka Sugihara, Magdalena Kuras, Roger Appelqvist, Elisabet Wieslander, Gilberto B Domont, Bo Baldetorp, Runyu Hong, Gergely Huszty, Laura Vizkeleti, József Tímár, David Fenyö, Lazaro Hiram Betancourt, Johan Jakobsson, Johan Malm, Aniel Sanchez, A. Marcell Szász, Peter Horvatovich, Melinda Rezeli, Sarolta Kárpáti, György Marko-Varga",
-      "link": "https://doi.org/10.1101/2021.04.10.439245",
-      "journal": "bioRxiv 2021.04.10.439245",
-      "title": "Proteogenomics Reveals how Metastatic Melanoma Modulates the Immune System to Allow Immune Evasion"
-    },
-    {
-      "authors": "Weiping Ma, Sunkyu Kim, Shrabanti Chowdhury, Zhi Li, Mi Yang, Seungyeul Yoo, Francesca Petralia, Jeremy Jacobsen, Jingyi Jessica Li, Xinzhou Ge, Kexin Li, Thomas Yu, Nathan Edwards, Samuel Payne, Paul C. Boutros, Henry Rodriguez, Gustavo Stolovitzky, Jun Zhu, Jaewoo Kang, David Fenyo, Julio Saez-Rodriguez, Pei Wang",
-      "link": "https://doi.org/10.1101/2020.07.21.214205",
-      "journal": "bioRxiv 2020.07.21.214205",
-      "title": "DreamAI: algorithm for the imputation of proteomics data"
     }
   ],
 
@@ -180,6 +156,12 @@
       "link": "https://doi.org/10.1016/j.cell.2024.01.027",
       "journal": "Cell 2024 S0092-8674(24)00064-3",
       "title": "Clinical Proteomic Tumor Analysis Consortium. Pan-cancer proteogenomics characterization of tumor immunity"
+    },
+    {
+      "authors": "María Xóchitl Benítez-Jones, Sarah Keegan, Sebastian Jamshahi, David Fenyö",
+      "link": "https://doi.org/10.1101/2024.02.28.582150",
+      "journal": "bioRxiv 2024.02.28.582150",
+      "title": "Machine Learning Classification of 53BP1 Foci"
     }
   ],
   "2023": [
@@ -500,6 +482,24 @@
       "link": "https://doi.org/10.1101/2021.07.15.452534",
       "journal": "bioRxiv 2021.07.15.452534",
       "title": "Modeling transcriptional profiles of gene perturbation with deep neural network"
+    },
+    {
+      "authors": "Tamas Szoradi, Tong Shu, Gururaj R Kidiyoor, Ying Xie, Nora L Herzog, Andrew Bazley, Martina Bonucci, Sarah Keegan, Shivanjali Saxena, Farida Ettefa, Gregory P Brittingham, Joel Lemiere, David Fenyo, Fred Chang, Morgan Delarue, Liam J Holt",
+      "link": "https://doi.org/10.1101/2021.11.18.469159",
+      "journal": "bioRxiv 2021.11.18.469159",
+      "title": "nucGEMs probe the biophysical properties of the nucleoplasm"
+    },
+    {
+      "authors": "Jeovanis Gil, Yonghyo Kim, Beáta Szeitz, Viktória Doma, Ugur Çakir, Natália Pinto de Almeida, Yanick Paco Hagemeijer, Victor Guryev, Jenny G Johansson, Yogita Sharma, Indira Pla Parada, Zsolt Horvath, Jéssica de Siqueira Guedes, Gustavo Monnerat, Fábio CS Nogueira, Boram Lee, Henriett Oskolas, Enikö Kuroli, Judit Hársing, Yutaka Sugihara, Magdalena Kuras, Roger Appelqvist, Elisabet Wieslander, Gilberto B Domont, Bo Baldetorp, Runyu Hong, Gergely Huszty, Laura Vizkeleti, József Tímár, David Fenyö, Lazaro Hiram Betancourt, Johan Jakobsson, Johan Malm, Aniel Sanchez, A. Marcell Szász, Peter Horvatovich, Melinda Rezeli, Sarolta Kárpáti, György Marko-Varga",
+      "link": "https://doi.org/10.1101/2021.04.10.439245",
+      "journal": "bioRxiv 2021.04.10.439245",
+      "title": "Proteogenomics Reveals how Metastatic Melanoma Modulates the Immune System to Allow Immune Evasion"
+    },
+    {
+      "authors": "Weiping Ma, Sunkyu Kim, Shrabanti Chowdhury, Zhi Li, Mi Yang, Seungyeul Yoo, Francesca Petralia, Jeremy Jacobsen, Jingyi Jessica Li, Xinzhou Ge, Kexin Li, Thomas Yu, Nathan Edwards, Samuel Payne, Paul C. Boutros, Henry Rodriguez, Gustavo Stolovitzky, Jun Zhu, Jaewoo Kang, David Fenyo, Julio Saez-Rodriguez, Pei Wang",
+      "link": "https://doi.org/10.1101/2020.07.21.214205",
+      "journal": "bioRxiv 2020.07.21.214205",
+      "title": "DreamAI: algorithm for the imputation of proteomics data"
     }
   ],
   "2020": [
