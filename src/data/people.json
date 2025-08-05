@@ -26,13 +26,6 @@
       "projectDesc": "Michelle focuses on developing strategies for analyzing multiplexed immunofluorescent images to investigate the tumor microenvironment in endometrial carcinoma. I use deep learning, image analysis, and multiomics tools to identify relevant biomarkers and morphological features that correlate with clinical outcomes, such as recurrence and immunotherapy response."
     },
     {
-      "image": "/images/members/efiyenia-kaparos.jpg",
-      "firstName": "Efiyenia",
-      "lastName": "Kaparos",
-      "position": "Ph.D. Student",
-      "projectDesc": "Fenia is interested in quantifying transposable elements (TEs) in genomic and proteomic datasets and characterizing associated molecular features of TE activity. She is using proteogenomic data analysis to characterize the phenotypic landscape of high LINE-1 retrotransposon activity in our CPTAC and TCGA pan-cancer datasets, as well as support other computational and clinical projects involving human LINE-1."
-    },
-    {
       "image": "/images/members/madu-nzerem.jpeg",
       "firstName": "Madu",
       "lastName": "Nzerem",

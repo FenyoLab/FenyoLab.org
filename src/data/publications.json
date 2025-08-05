@@ -1,6 +1,12 @@
 {
   "Preprints": [
     {
+      "authors": "Tianxiao Zhao, Katherine Zhang, Michelle Hollenberg, Wen Zhou, David Fenyö",
+      "link": "https://doi.org/10.1101/2025.07.18.665587",
+      "journal": "bioRxiv 2025.07.18.665587",
+      "title": "SimSpace: a comprehensive in-silico spatial omics data simulation framework"
+    },
+    {
       "authors": "Julie Trolle, Sofia Sessa, Tori Rodrick, Drew R. Jones, David Fenyo, Sudarshan Pinglay, Jef D. Boeke",
       "link": "https://doi.org/10.1101/2025.07.08.663766",
       "journal": "bioRxiv 2025.07.08.663766",
@@ -34,6 +40,12 @@
 
   
   "2025": [
+    {
+      "authors": "Satpathy S, Clark NM, Chen YJ, Hosseini N, Chang YH, Hsiao Y, Lei JT, Petralia F, Chen JS, Geffen Y, Heiman DI, Paul I, Cho H, Hollenberg M, Marino GB, Lin KT, Mannan R, White CJ, Allen J, Avanessian SC, Kane MH, Wolfe A, Kinarivala M, Liu W, Anand S, Lin MW, Haines M, Bergstrom EJ, Hussey G, Li GX, Mani DC, Fang H, Jaehnig EJ, Keshishian H, Miller B, Su KY, Hsiao YJ, Hsu HH, Hsieh MS, Hsu KH, Monovoukas A, Gohsman S, Thorup JR, Deng Y, Akiyama Y, Deng E, Sheng-Wen Chen E, Krek A, Espinoza R, Ma W, Charytonowicz D, Sebra R, Lin JH, Chen YS, Hsu YC, Lin ZS, Chen KC, Yeh CW, Wang YT, Lazar AJ, Mesri M, An E, Zhang X, Clauser KR, Fenyö D, Chinnaiyan AM, Zhang B, Ding L, Ruggles K, Newton C, Zhang H, Wang P, Hostetter G, Omenn GS, Kumar-Sinha C, Thiagarajan M, Govindan R, Paik P, Parolia A, Li QK, Ma'ayan A, Getz GA, Dhanasekaran SM, Robles AI, Chang GC, Yang PC, Yu SL, Chen HY, Nesvizhskii AI, Carr SA, Mani DR, Cieslik MP, Chen YJ, Gillette MA; Taiwan Cancer Moonshot Program; Clinical Proteomic Tumor Analysis Consortium",
+      "link": "https://doi.org/10.1016/j.ccell.2025.07.011",
+      "journal": "Cancer Cell 2025:S1535-6108(25)00317-4",
+      "title": "Integrative analysis of lung adenocarcinoma across diverse ethnicities and exposures"
+    },
     {
       "authors": "Silverman GJ, Amarnani AN, Armini AA, Kim A, Kopinsky H, Fenyo D, Kister I",
       "link": "https://doi.org/10.3389/fimmu.2025.1590165",
