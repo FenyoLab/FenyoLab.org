@@ -90,14 +90,14 @@
       "image": "/images/members/grant-hussey.jpg",
       "firstName": "Grant",
       "lastName": "Hussey",
-      "position": "Ph.D. Student",
+      "position": "Ph.D. Student 2025",
       "projectDesc": "Grant is focused on improving PhosphoDisco, a Python-based toolkit to discover co-regulated phosphorylation modules in phosphoproteomic data, and its application on the CPTAC consortium's pan-cancer datasets."
     },
     {
       "image": "/images/members/efiyenia-kaparos.jpg",
       "firstName": "Efiyenia",
       "lastName": "Kaparos",
-      "position": "Ph.D. Student",
+      "position": "Ph.D. Student 2025",
       "projectDesc": "Fenia is interested in quantifying transposable elements (TEs) in genomic and proteomic datasets and characterizing associated molecular features of TE activity. She is using proteogenomic data analysis to characterize the phenotypic landscape of high LINE-1 retrotransposon activity in our CPTAC and TCGA pan-cancer datasets, as well as support other computational and clinical projects involving human LINE-1."
     }
   ],
