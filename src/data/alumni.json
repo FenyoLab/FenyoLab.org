@@ -703,6 +703,18 @@
       "firstName": "Saba",
       "lastName": "Jankarashvili",
       "position": "Student Intern 2024"
+    },
+    {
+      "image": "/images/members/Vanessa-Fang.jpg",
+      "firstName": "Vanessa",
+      "lastName": "Fang",
+      "position": "Student Intern 2025"
+    },
+    {
+      "image": "/images/members/jesper-broberg.jpg",
+      "firstName": "Jesper",
+      "lastName": "Broberg",
+      "position": "Student Intern 2025"
     }
   ]
 }

@@ -1,6 +1,12 @@
 {
   "Preprints": [
     {
+      "authors": "Eden Wu, Dishita G Turakhia, Guande Wu, Christos Koutras, Sarah Keegan, Wenke Liu, Beata Szeitz, David Fenyo, Cláudio T. Silva, Juliana Freire",
+      "link": "https://doi.org/10.48550/arXiv.2507.16117",
+      "journal": "arXiv:2507.16117",
+      "title": "BDIViz: An Interactive Visualization System for Biomedical Schema Matching with LLM-Powered Validation"
+    },
+    {
       "authors": "Kody Paul Mansfield, Tamara Mestvirishvili, Bibi Sheleeza Subhan, Valeria Mezzano-Robinson, Dianny A Almanzar, Sydney Hanson, Jimin Tan, Cynthia A Loomis, David Fenyo, Aristotelis Tsirigos, Piul S Rabbani",
       "link": "https://doi.org/10.1101/2025.08.19.671136",
       "journal": "bioRxiv 2025.08.19.671136",

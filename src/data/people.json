@@ -72,6 +72,14 @@
       "projectDesc": "Wenke's research focuses on developing machine learning methods to the harmonization analysis of large multimodal biomedical data sets."
     },
     {
+      "image": "/images/members/Hanaa-Khadraoui.JPG",
+      "firstName": "Hanaa",
+      "lastName": "Khadraoui",
+      "suffix": "M.D.",
+      "position": "Gynecologic Oncology Fellow",
+      "projectDesc": "Hanaa's research interests include learning about cellular and molecular mechanisms that mediate chemotherapy drug resistance. She is also interested in cancer care delivery, health disparities, and cancer prevention."
+    },
+    {
       "image": "/images/members/jude-nawlo.jpg",
       "firstName": "Jude",
       "lastName": "Nawlo",
@@ -147,18 +155,6 @@
       "firstName": "Muhammad",
       "lastName": "Ali",
       "position": "Intern"
-    },
-    {
-      "image": "/images/members/Vanessa-Fang.jpg",
-      "firstName": "Vanessa",
-      "lastName": "Fang",
-      "position": "Student Intern"
-    },
-    {
-      "image": "/images/members/jesper-broberg.jpg",
-      "firstName": "Jesper",
-      "lastName": "Broberg",
-      "position": "Student Intern"
     }
   ]
 }
