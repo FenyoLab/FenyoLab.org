@@ -7,12 +7,6 @@
       "title": "BDIViz: An Interactive Visualization System for Biomedical Schema Matching with LLM-Powered Validation"
     },
     {
-      "authors": "Kody Paul Mansfield, Tamara Mestvirishvili, Bibi Sheleeza Subhan, Valeria Mezzano-Robinson, Dianny A Almanzar, Sydney Hanson, Jimin Tan, Cynthia A Loomis, David Fenyo, Aristotelis Tsirigos, Piul S Rabbani",
-      "link": "https://doi.org/10.1101/2025.08.19.671136",
-      "journal": "bioRxiv 2025.08.19.671136",
-      "title": "Non-segmented unsupervised learning of multispectral whole slide images for robust analysis of tissue repair and regeneration"
-    },
-    {
       "authors": "Jimin Tan, Xi Fu, Xinyu Ling, Shentong Mo, Jiangshan Bai, Raúl Rabadán, David Fenyö, Jef D. Boeke, Aristotelis Tsirigos, Bo Xia",
       "link": "https://doi.org/10.1101/2025.08.17.670761",
       "journal": "bioRxiv 2025.08.17.670761",
