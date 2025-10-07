@@ -1,10 +1,7 @@
 {
   "Preprints": [
-    
-
-; doi: 
-    {
-      "authors": "",
+   {
+      "authors": "Efiyenia Ismini Kaparos, Wenjing Zhang, Ryusei Miyanaga, Wilson McKerrow, Jef D Boeke, Teresa Davoli, Paolo Mita, Kelly V. Ruggles, David Fenyo",
       "link": "https://doi.org/10.1101/2025.10.03.680361",
       "journal": "bioRxiv 2025.10.03.680361",
       "title": "Pan-cancer analysis reveals context-dependent roles of LINE-1 ORF1p in immune regulation and copy number alterations"
