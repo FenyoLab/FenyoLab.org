@@ -72,14 +72,6 @@
       "projectDesc": "Wenke's research focuses on developing machine learning methods to the harmonization analysis of large multimodal biomedical data sets."
     },
     {
-      "image": "/images/members/Hanaa-Khadraoui.JPG",
-      "firstName": "Hanaa",
-      "lastName": "Khadraoui",
-      "suffix": "M.D.",
-      "position": "Gynecologic Oncology Fellow",
-      "projectDesc": "Hanaa's research interests include learning about cellular and molecular mechanisms that mediate chemotherapy drug resistance. She is also interested in cancer care delivery, health disparities, and cancer prevention."
-    },
-    {
       "image": "/images/members/jude-nawlo.jpg",
       "firstName": "Jude",
       "lastName": "Nawlo",
@@ -94,6 +86,22 @@
       "suffix": "Ph.D.",
       "position": "Postdoctoral Fellow",
       "projectDesc": "Bea analyzes multi-omic cancer datasets to improve our understanding of tumor heterogeneity and its relation to tumor progression, metastasis development and therapy resistance. Her special interests are proteogenomics and lung cancer."
+    },
+    {
+      "image": "/images/members/Hanaa-Khadraoui.JPG",
+      "firstName": "Hanaa",
+      "lastName": "Khadraoui",
+      "suffix": "M.D.",
+      "position": "Gynecologic Oncology Fellow",
+      "projectDesc": "Hanaa's research interests include learning about cellular and molecular mechanisms that mediate chemotherapy drug resistance. She is also interested in cancer care delivery, health disparities, and cancer prevention."
+    },
+    {
+      "image": "/images/members/Naaman-Mehta.jpg",
+      "firstName": "Naaman",
+      "lastName": "Mehta",
+      "suffix": "M.D.",
+      "position": "Gynecologic Oncology Fellow",
+      "projectDesc": "Naaman's research interests include exploring cellular and molecular targets for high-risk endometrial cancers. She is also interested in survivorship care and improving gynecologic cancer health disparities nationally and internationally."
     }
   ],
 
