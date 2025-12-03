@@ -129,12 +129,6 @@
       "position": "Student Intern"
     },
     {
-      "image": "/images/members/ruby_photo.jpg",
-      "firstName": "Ruby",
-      "lastName": "Kumar",
-      "position": "Master's Student"
-    },
-    {
       "image": "/images/members/brian-mann.png",
       "firstName": "Brian",
       "lastName": "Mann",
@@ -147,12 +141,6 @@
       "position": "Master's Student"
     },
     {
-      "image": "/images/members/Mehdi-Marrakchi.jpg",
-      "firstName": "Mehdi",
-      "lastName": "Marrakchi",
-      "position": "Student Intern"
-    },
-    {
       "image": "/images/members/KatherineZ.jpeg",
       "firstName": "Katherine",
       "lastName": "Zhang",
@@ -163,6 +151,24 @@
       "firstName": "Muhammad",
       "lastName": "Ali",
       "position": "Intern"
+    },
+    {
+      "image": "/images/members/zhekai-liu.jpg",
+      "firstName": "Zhekai",
+      "lastName": "Liu",
+      "position": "Master's Student"
+    },
+    {
+      "image": "/images/members/alessia-tosca.png",
+      "firstName": "Alessia",
+      "lastName": "Tosca",
+      "position": "Master's Student"
+    },
+    {
+      "image": "/images/members/claudia-durbin.png",
+      "firstName": "Claudia",
+      "lastName": "Durbin",
+      "position": "Master's Student"
     }
   ]
 }

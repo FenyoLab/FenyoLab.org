@@ -315,6 +315,12 @@
       "firstName": "Neal",
       "lastName": "Cody",
       "position": "Master's Student 2024-2025"
+    },
+    {
+      "image": "/images/members/ruby_photo.jpg",
+      "firstName": "Ruby",
+      "lastName": "Kumar",
+      "position": "Master's Student 2024-2025"
     }
   ],
   "Rotation Students": [
@@ -714,6 +720,12 @@
       "image": "/images/members/jesper-broberg.jpg",
       "firstName": "Jesper",
       "lastName": "Broberg",
+      "position": "Student Intern 2025"
+    },
+    {
+      "image": "/images/members/Mehdi-Marrakchi.jpg",
+      "firstName": "Mehdi",
+      "lastName": "Marrakchi",
       "position": "Student Intern 2025"
     }
   ]
