@@ -1,6 +1,12 @@
 {
   "Preprints": [
    {
+      "authors": "Chalhoub N, Varshney A, Zhang W, Uhl S, Laurent JM, McLoughlin C, Ashe H, Mou X, Dale N, Ramnarine K, Paull D, Goldberg J, Maurano MT, Brosh R, Fenyö D, Cipriani F, Parker SCJ, Boeke JD",
+      "link": "https://doi.org/10.64898/2026.01.04.697539",
+      "journal": "bioRxiv 2026.01.04.697539",
+      "title": "Genome writing and Targeted Delivery of the NKX6-3/ANK1 gene cluster and its Type 2 Diabetes GWAS Variants to Human iPSCs"
+    },
+    {
       "authors": "Efiyenia Ismini Kaparos, Wenjing Zhang, Ryusei Miyanaga, Wilson McKerrow, Jef D Boeke, Teresa Davoli, Paolo Mita, Kelly V. Ruggles, David Fenyo",
       "link": "https://doi.org/10.1101/2025.10.03.680361",
       "journal": "bioRxiv 2025.10.03.680361",
@@ -59,6 +65,18 @@
 
   
   "2025": [
+    {
+      "authors": "Wu E, Turakhia DG, Wu G, Koutras C, Keegan S, Liu W, Szeitz B, Fenyo D, Silva CT, Freire J",
+      "link": "https://doi.org/10.1109/TVCG.2025.3634843",
+      "journal": "IEEE Trans Vis Comput Graph. 2025",
+      "title": "BDIViz: An Interactive Visualization System for Biomedical Schema Matching with LLM-Powered Validation"
+    },
+    {
+      "authors": "Coleman KE, Shin DW, Goehring L, Szeitz B, Fenyö D, Rothenberg E, Poirier JT, Huang TT",
+      "link": "https://doi.org/10.1038/s41467-025-66068-1",
+      "journal": "Nat Commun. 2025 16(1):11029",
+      "title": "SLFN11 counteracts the RFWD3-PRIMPOL DNA damage tolerance axis to restrain gapped DNA synthesis in response to replication stress"
+    },
     {
       "authors": "Szeitz B, Hagemeijer YP, Pahi ZG, Ujfaludi Z, Kuras M, Rodriguez J, Doma V, Mohacsi R, Herold M, Herold Z, Horvath Z, Pla I, Sugihara Y, Baldetorp B, Lindberg H, Oskolas H, Rezeli M, Gil J, Appelqvist R, Kemeny LV, Guedes J, Malm J, Sanchez A, Boros IM, Nemeth IB, Guryev V, Pankotai T, Pawłowski K, Wieslander E, Szasz AM, Fenyö D, Horvatovich P, Timar J, Marko-Varga G, Betancourt LH",
       "link": "https://doi.org/10.1002/ctm2.70477",
