@@ -99,6 +99,13 @@
       "lastName": "Kaparos",
       "position": "Ph.D. 2025",
       "projectDesc": "Fenia is interested in quantifying transposable elements (TEs) in genomic and proteomic datasets and characterizing associated molecular features of TE activity. She is using proteogenomic data analysis to characterize the phenotypic landscape of high LINE-1 retrotransposon activity in our CPTAC and TCGA pan-cancer datasets, as well as support other computational and clinical projects involving human LINE-1."
+    },
+    {
+      "image": "/images/members/noor-chalhoub.jpg",
+      "firstName": "Noor",
+      "lastName": "Chalhoub",
+      "position": "Ph.D. 2026",
+      "projectDesc": "Noor is using GWAS and eQTL data from European and East Asian populations to deduce causal risk SNVs for Type 2 diabetes at the NKX6-3/ANK1 locus. Her work utilizes genome engineering techniques to build synthetic haplotypes with various combinations of potential risk SNVs and integrate them into human iPSCs. The cells containing the synthetic haplotypes will be differentiated into multiple cell types associated with Type 2 diabetes and characterized with snRNA-seq, snATAC-seq, and RT-qPCR."
     }
   ],
   "Postdocs / Research Scientist": [

@@ -60,6 +60,12 @@
   
   "2025": [
     {
+      "authors": "James RT, Liu W, Wollstein G, Schuman JS, Fenyo D, Chan KC, Lee D",
+      "link": "https://doi.org/10.1155/bmri/9930837",
+      "journal": "Biomed Res Int. 2026 Jan 30;2026:9930837",
+      "title": "Predicting Intraocular Pressure From Glaucoma Patients Receiving Medication Treatment Using Explainable Machine Learning"
+    },
+    {
       "authors": "Wu E, Turakhia DG, Wu G, Koutras C, Keegan S, Liu W, Szeitz B, Fenyo D, Silva CT, Freire J",
       "link": "https://doi.org/10.1109/TVCG.2025.3634843",
       "journal": "IEEE Trans Vis Comput Graph. 2025",

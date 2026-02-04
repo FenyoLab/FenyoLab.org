@@ -12,13 +12,6 @@
 
   "Ph.D. Students": [
     {
-      "image": "/images/members/noor-chalhoub.jpg",
-      "firstName": "Noor",
-      "lastName": "Chalhoub",
-      "position": "Ph.D. Student",
-      "projectDesc": "Noor is using GWAS and eQTL data from European and East Asian populations to deduce causal risk SNVs for Type 2 diabetes at the NKX6-3/ANK1 locus. Her work utilizes genome engineering techniques to build synthetic haplotypes with various combinations of potential risk SNVs and integrate them into human iPSCs. The cells containing the synthetic haplotypes will be differentiated into multiple cell types associated with Type 2 diabetes and characterized with snRNA-seq, snATAC-seq, and RT-qPCR."
-    },
-    {
       "image": "/images/members/michelle-hollenberg.jpeg",
       "firstName": "Michelle",
       "lastName": "Hollenberg",
@@ -59,6 +52,13 @@
       "lastName": "Olusanya",
       "position": "Ph.D. Student",
       "projectDesc": "Fola's research is focused on plasmid evolutionary dynamics and its implications for Staphylococcus aureus cytotoxicity"
+    },
+    {
+      "image": "/images/members/Adam-Walker.png",
+      "firstName": "Adam",
+      "lastName": "Walker",
+      "position": "Ph.D. Student",
+      "projectDesc": ""
     }
   ],
 
@@ -102,6 +102,14 @@
       "suffix": "M.D.",
       "position": "Gynecologic Oncology Fellow",
       "projectDesc": "Naaman's research interests include exploring cellular and molecular targets for high-risk endometrial cancers. She is also interested in survivorship care and improving gynecologic cancer health disparities nationally and internationally."
+    },
+    {
+      "image": "/images/members/Rhea-Eubanks.jpg",
+      "firstName": "Rhea",
+      "lastName": "Eubanks",
+      "suffix": "M.D.",
+      "position": "Gynecologic Oncology Fellow",
+      "projectDesc": "Rhea's research interests include the investigation of molecular targets that may affect the durability of HER2 targeted therapies in patients who have HER2 expressing gynecologic cancers. She is also interested in health care disparities, improving health literacy, and primary cancer prevention. "
     }
   ],
 
