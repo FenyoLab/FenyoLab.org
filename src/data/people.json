@@ -54,11 +54,11 @@
       "projectDesc": "Fola's research is focused on plasmid evolutionary dynamics and its implications for Staphylococcus aureus cytotoxicity"
     },
     {
-      "image": "/images/members/Adam-Walker.png",
+      "image": "/images/members/Adam-Walker.jpeg",
       "firstName": "Adam",
       "lastName": "Walker",
       "position": "Ph.D. Student",
-      "projectDesc": ""
+      "projectDesc": "Adam is working on better understanding cancer metastasis and cell plasticity. He plans on analyzing cancer organoids using a combination of microscopy and multi-omics to identify biomarkers for plasticity and metastatic potential. He will utilize machine learning models to try and computationally assess an organoid's viability and possible clinical uses. Adam is co-mentored by Dr. Theresa Vincent."
     }
   ],
 
