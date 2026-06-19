@@ -106,6 +106,14 @@
       "lastName": "Chalhoub",
       "position": "Ph.D. 2026",
       "projectDesc": "Noor is using GWAS and eQTL data from European and East Asian populations to deduce causal risk SNVs for Type 2 diabetes at the NKX6-3/ANK1 locus. Her work utilizes genome engineering techniques to build synthetic haplotypes with various combinations of potential risk SNVs and integrate them into human iPSCs. The cells containing the synthetic haplotypes will be differentiated into multiple cell types associated with Type 2 diabetes and characterized with snRNA-seq, snATAC-seq, and RT-qPCR."
+    },
+    
+    {
+      "image": "/images/members/michelle-hollenberg.jpeg",
+      "firstName": "Michelle",
+      "lastName": "Hollenberg",
+      "position": "Ph.D. 2026",
+      "projectDesc": "Michelle focuses on developing strategies for analyzing multiplexed immunofluorescent images to investigate the tumor microenvironment in endometrial carcinoma. I use deep learning, image analysis, and multiomics tools to identify relevant biomarkers and morphological features that correlate with clinical outcomes, such as recurrence and immunotherapy response."
     }
   ],
   "Postdocs / Research Scientist": [

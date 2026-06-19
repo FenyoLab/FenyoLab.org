@@ -12,13 +12,6 @@
 
   "Ph.D. Students": [
     {
-      "image": "/images/members/michelle-hollenberg.jpeg",
-      "firstName": "Michelle",
-      "lastName": "Hollenberg",
-      "position": "Ph.D. Student",
-      "projectDesc": "Michelle focuses on developing strategies for analyzing multiplexed immunofluorescent images to investigate the tumor microenvironment in endometrial carcinoma. I use deep learning, image analysis, and multiomics tools to identify relevant biomarkers and morphological features that correlate with clinical outcomes, such as recurrence and immunotherapy response."
-    },
-    {
       "image": "/images/members/madu-nzerem.jpeg",
       "firstName": "Madu",
       "lastName": "Nzerem",
@@ -110,6 +103,15 @@
       "suffix": "M.D.",
       "position": "Gynecologic Oncology Fellow",
       "projectDesc": "Rhea's research interests include the investigation of molecular targets that may affect the durability of HER2 targeted therapies in patients who have HER2 expressing gynecologic cancers. She is also interested in health care disparities, improving health literacy, and primary cancer prevention. "
+    },
+    
+    {
+      "image": "/images/members/michelle-hollenberg.jpeg",
+      "firstName": "Michelle",
+      "lastName": "Hollenberg",
+      "suffix": "Ph.D.",
+      "position": "Postdoctoral Fellow",
+      "projectDesc": "Michelle focuses on developing strategies for analyzing multiplexed immunofluorescent images to investigate the tumor microenvironment in endometrial carcinoma. I use deep learning, image analysis, and multiomics tools to identify relevant biomarkers and morphological features that correlate with clinical outcomes, such as recurrence and immunotherapy response."
     }
   ],
 
@@ -177,6 +179,18 @@
       "firstName": "Claudia",
       "lastName": "Durbin",
       "position": "Master's Student"
+    },
+    {
+      "image": "/images/members/Kene-Okeke.jpeg",
+      "firstName": "Kene",
+      "lastName": "Okeke",
+      "position": "Student Intern"
+    },
+    {
+      "image": "/images/members/aidan-falter.jpeg",
+      "firstName": "Aidan",
+      "lastName": "Falter",
+      "position": "Student Intern"
     }
   ]
 }
