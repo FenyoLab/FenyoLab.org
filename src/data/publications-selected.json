@@ -1,0 +1,276 @@
+{ 
+  "Spatial Biology": [
+    {
+      "authors": "Michelle Hollenberg, Catherine Hermann, Aliza Siegman, Wenke Liu, Cynthia Loomis, Valeria Mezzano, Shanmugapriya Selvaraj, Jimin Tan, Tianxiao Zhao, Joshua M. Wang, Lizabeth Katsnelson, Linda Procell, Esther Adler, Leslie Boyd, David Fenyö",
+      "link": "https://doi.org/10.64898/2026.03.12.26348249",
+      "journal": "medRxiv 2026.03.12.26348249",
+      "title": "The Spatial Immune Landscape of Mismatch Repair Deficient Endometrial Cancer: Implications for Clinical Outcomes"
+    },
+    {
+      "authors": "Tianxiao Zhao, Katherine Zhang, Michelle Hollenberg, Wen Zhou, David Fenyö",
+      "link": "https://doi.org/10.1101/2025.07.18.665587",
+      "journal": "bioRxiv 2025.07.18.665587",
+      "title": "SimSpace: a comprehensive in-silico spatial omics data simulation framework"
+    },
+    {
+      "authors": "Storrs E, Mo CK, Chou WH, Bhatt G, Chen S, Wei X, Houston A, Karpova A, Jayasinghe RG, Lal P, Bayguinov P, Herndon JM, Li X, Anjum Simin F, Fang X, Wendl MC, Liu X, Zheng H, Davies SR, Wang JT, Shinkle A, Fulton RS, Ponce J, Heinz M, Head R, Chen D, Zhao Y, Fenyo D, Li YE, Ma CX, Aft R, Reimers MA, Kim AH, Puram SV, Fitzpatrick JAJ, Shoghi KI, Figenshau RS, Ademuyiwa FO, Ju T, Colditz GA, Drake BF, Patti GJ, Oh ST, Kim EH, Gillanders WE, Olson JA, Chheda MG, Weimholt C, Veis DJ, Raphael BJ, Fields RC, Pachynski RK, Chen F, Ding L",
+      "link": "https://doi.org/10.1158/2159-8290.CD-26-0012",
+      "journal": "Cancer Discov. 2026",
+      "title": "Spatial Mapping of the Precancer-to-Cancer Transition in Breast and Prostate"
+    },
+    {
+      "authors": "Tan J, Le H, Deng J, Liu Y, Hao Y, Hollenberg M, Liu W, Wang JM, Xia B, Ramaswami S, Mezzano V, Loomis C, Murrell N, Moreira AL, Cho K, Pass HI, Wong KK, Ban Y, Neel BG, Tsirigos A, Fenyö D",
+      "link": "https://doi.org/10.1038/s41551-025-01348-1",
+      "journal": "Nat Biomed Eng. 2025 Feb 20",
+      "title": "Characterization of tumour heterogeneity through segmentation-free representation learning on multiplexed imaging data"
+    },
+    {
+      "authors": "Wang JM, Hong R, Demicco EG, Tan J, Lazcano R, Moreira AL, Li Y, Calinawan A, Razavian N, Schraink T, Gillette MA, Omenn GS, An E, Rodriguez H, Tsirigos A, Ruggles KV, Ding L, Robles AI, Mani DR, Rodland KD, Lazar AJ, Liu W, Fenyö D; Clinical Proteomic Tumor Analysis Consortium",
+      "link": "https://doi.org/10.1016/j.xcrm.2023.101173",
+      "journal": "Cell Rep Med. 2023 Aug 11:101173",
+      "title": "Deep learning integrates histopathology and proteogenomics at a pan-cancer level"
+    },
+    {
+      "authors": "Runyu Hong, Wenke Liu, Deborah DeLair, Narges Razavian, David Fenyö",
+      "link": "https://doi.org/10.1016/j.xcrm.2021.100400",
+      "announcement": "NCI announcement",
+      "announcement-link": "https://proteomics.cancer.gov/news_and_announcements/machine-learning-predicts-molecular-features-endometrial-cancer-exceptionally?cid=eb_govdel",
+      "journal": "Cell Reports Medicine 2 (2021) 100400",
+      "title": "Predicting endometrial cancer subtypes and molecular features from histopathology images using multi-resolution deep learning models"
+    },
+    {
+      "authors": "Coudray N, Ocampo PS, Sakellaropoulos T, Narula N, Snuderl M, Fenyö D, Moreira AL, Razavian N, Tsirigos A",
+      "link": "https://doi.org/10.1038/s41591-018-0177-5",
+      "journal": "Nat Med. 2018 Sep 17",
+      "title": "Classification and mutation prediction from non-small cell lung cancer histopathology images using deep learning"
+    },
+    {
+      "authors": "Bermudez-Hernandez K, Keegan S, Whelan DR, Reid DA, Zagelbaum J, Yin Y, Ma S, Rothenberg E, Fenyö D",
+      "link": "http://doi.org/10.1038/s41598-017-14922-8",
+      "journal": "Scientific Reports (2017)",
+      "title": "A Method for Quantifying Molecular Interactions Using Stochastic Modelling and Super-Resolution Microscopy"
+    }
+  ],
+  
+ 
+  "Multiomics Integration": [
+      {
+      "authors": "Szeitz B, Hagemeijer YP, Pahi ZG, Ujfaludi Z, Kuras M, Rodriguez J, Doma V, Mohacsi R, Herold M, Herold Z, Horvath Z, Pla I, Sugihara Y, Baldetorp B, Lindberg H, Oskolas H, Rezeli M, Gil J, Appelqvist R, Kemeny LV, Guedes J, Malm J, Sanchez A, Boros IM, Nemeth IB, Guryev V, Pankotai T, Pawłowski K, Wieslander E, Szasz AM, Fenyö D, Horvatovich P, Timar J, Marko-Varga G, Betancourt LH",
+      "link": "https://doi.org/10.1002/ctm2.70477",
+      "journal": "Clin Transl Med. 2025 Oct;15(10):e70477",
+      "title": "Distant metastases of melanoma exhibit varying extent of intrapatient proteogenomic heterogeneity"
+    },
+    {
+      "authors": "Kuras M, Betancourt LH, Hong R, Szadai L, Rodriguez J, Horvatovich P, Pla I, Eriksson J, Szeitz B, Deszcz B, Welinder C, Sugihara Y, Ekedahl H, Baldetorp B, Ingvar C, Lundgren L, Lindberg H, Oskolas H, Horvath Z, Rezeli M, Gil J, Appelqvist R, Kemény LV, Malm J, Sanchez A, Szasz AM, Pawłowski K, Wieslander E, Fenyö D, Nemeth IB, Marko-Varga G",
+      "link": "https://doi.org/10.3390/cancers17050832",
+      "journal": "Cancers (Basel). 2025 Feb 27;17(5):832",
+      "title": "Proteogenomic Profiling of Treatment-Naïve Metastatic Malignant Melanoma"
+    },
+    {
+      "authors": "Petralia F, Ma W, Yaron TM, Caruso FP, Tignor N, Wang JM, Charytonowicz D, Johnson JL, Huntsman EM, Marino GB, Calinawan A, Evangelista JE, Selvan ME, Chowdhury S, Rykunov D, Krek A, Song X, Turhan B, Christianson KE, Lewis DA, Deng EZ, Clarke DJB, Whiteaker JR, Kennedy JJ, Zhao L, Segura RL, Batra H, Raso MG, Parra ER, Soundararajan R, Tang X, Li Y, Yi X, Satpathy S, Wang Y, Wiznerowicz M, González-Robles TJ, Iavarone A, Gosline SJC, Reva B, Robles AI, Nesvizhskii AI, Mani DR, Gillette MA, Klein RJ, Cieslik M, Zhang B, Paulovich AG, Sebra R, Gümüs ZH, Hostetter G, Fenyö D, Omenn GS, Cantley LC, Ma'ayan A, Lazar AJ, Ceccarelli M, Wang P, Clinical Proteomic Tumor Analysis Consortium",
+      "link": "https://doi.org/10.1016/j.cell.2024.01.027",
+      "journal": "Cell 2024 S0092-8674(24)00064-3",
+      "title": "Pan-cancer proteogenomics characterization of tumor immunity"
+    },
+    {
+      "authors": "Fridy PC, Farrell RJ, Molloy KR, Keegan S, Wang J, Jacobs EY, Li Y, Trivedi J, Sehgal V, Fenyö D, Wu Z, Chait BT, Rout MP",
+      "link": "https://doi.org/10.1016/j.jbc.2024.107623",
+      "journal": "J Biol Chem. 2024 Aug 2:107623",
+      "title": "A new generation of nanobody research tools using improved mass spectrometry-based discovery methods"
+    },
+    {
+      "authors": "Wang Y, Fenyö D",
+      "link": "https://doi.org/10.1021/acs.jproteome.3c00491",
+      "journal": "J Proteome Res. 22 (2023) 3625-3639",
+      "title": "Proteogenomics Reveal the Overexpression of HLA-I in Cancer"
+    },
+    {
+      "authors": "Li Y, Dou Y, Da Veiga Leprevost F, Geffen Y, Calinawan AP, Aguet F, Akiyama Y, Anand S, Birger C, Cao S, Chaudhary R, Chilappagari P, Cieslik M, Colaprico A, Zhou DC, Day C, Domagalski MJ, Esai Selvan M, Fenyö D, Foltz SM, Francis A, Gonzalez-Robles T, Gümüs ZH, Heiman D, Holck M, Hong R, Hu Y, Jaehnig EJ, Ji J, Jiang W, Katsnelson L, Ketchum KA, Klein RJ, Lei JT, Liang WW, Liao Y, Lindgren CM, Ma W, Ma L, MacCoss MJ, Martins Rodrigues F, McKerrow W, Nguyen N, Oldroyd R, Pilozzi A, Pugliese P, Reva B, Rudnick P, Ruggles KV, Rykunov D, Savage SR, Schnaubelt M, Schraink T, Shi Z, Singhal D, Song X, Storrs E, Terekhanova NV, Thangudu RR, Thiagarajan M, Wang LB, Wang JM, Wang Y, Wen B, Wu Y, Wyczalkowski MA, Xin Y, Yao L, Yi X, Zhang H, Zhang Q, Zuhl M, Getz G, Ding L, Nesvizhskii AI, Wang P, Robles AI, Zhang B, Payne SH; Clinical Proteomic Tumor Analysis Consortium",
+      "link": "https://doi.org/10.1016/j.ccell.2023.06.009",
+      "journal": "Cancer Cell 2023 Aug 14;41(8):1397-1406",
+      "title": "Proteogenomic data and resources for pan-cancer analysis"
+    },
+    {
+      "authors": "Dou Y, Katsnelson L, Gritsenko MA, Hu Y, Reva B, Hong R, Wang YT, Kolodziejczak I, Lu RJ, Tsai CF, Bu W, Liu W, Guo X, An E, Arend RC, Bavarva J, Chen L, Chu RK, Czekanski A, Davoli T, Demicco EG, DeLair D, Devereaux K, Dhanasekaran SM, Dottino P, Dover B, Fillmore TL, Foxall M, Hermann CE, Hiltke T, Hostetter G, Jedryka M, Jewell SD, Johnson I, Kahn AG, Ku AT, Kumar-Sinha C, Kurzawa P, Lazar AJ, Lazcano R, Lei JT, Li Y, Liao Y, Lih TM, Lin TT, Martignetti JA, Masand RP, Matkowski R, McKerrow W, Mesri M, Monroe ME, Moon J, Moore RJ, Nestor MD, Newton C, Omelchenko T, Omenn GS, Payne SH, Petyuk VA, Robles AI, Rodriguez H, Ruggles KV, Rykunov D, Savage SR, Schepmoes AA, Shi T, Shi Z, Tan J, Taylor M, Thiagarajan M, Wang JM, Weitz KK, Wen B, Williams CM, Wu Y, Wyczalkowski MA, Yi X, Zhang X, Zhao R, Mutch D, Chinnaiyan AM, Smith RD, Nesvizhskii AI, Wang P, Wiznerowicz M, Ding L, Mani DR, Zhang H, Anderson ML, Rodland KD, Zhang B, Liu T, Fenyö D; Clinical Proteomic Tumor Analysis Consortium",
+      "link": "https://doi.org/10.1016/j.ccell.2023.07.007",
+      "journal": "Cancer Cell S1535-6108 (2023) 00247-7",
+      "title": "Proteogenomic insights suggest druggable pathways in endometrial carcinoma"
+    }, 
+    {
+      "authors": "Schraink T, Blumenberg L, Hussey G, George S, Miller B, Mathew N, González-Robles TJ, Sviderskiy V, Papagiannakopoulos T, Possemato R, Fenyö D, Ruggles KV",
+      "link": "https://doi.org/10.1016/j.mcpro.2023.100596",
+      "journal": "Mol Cell Proteomics. 2023:100596",
+      "title": "PhosphoDisco: a toolkit for co-regulated phosphorylation module discovery in phosphoproteomic data"
+    },
+    {
+      "authors": "Cheng P, Zhao X, Katsnelson L, Camacho-Hernandez EM, Mermerian A, Mays JC, Lippman SM, Rosales-Alvarez RE, Moya R, Shwetar J, Grun D, Fenyo D, Davoli T",
+      "link": "https://doi.org/10.7554/eLife.75227",
+      "journal": "Elife 11 (2022) e75227",
+      "title": "Proteogenomic analysis of cancer aneuploidy and normal tissues reveals divergent modes of gene regulation across cellular pathways"
+    },
+    {
+      "authors": "Mast FD, Fridy PC, Ketaren NE, Wang J, Jacobs EY, Olivier JP, Sanyal T, Molloy KR, Schmidt F, Rutkowska M, Weisblum Y, Rich LM, Vanderwall ER, Dambrauskas N, Vigdorovich V, Keegan S, Jiler JB, Stein ME, Olinares PDB, Herlands L, Hatziioannou T, Sather DN, Debley JS, Fenyö D, Sali A, Bieniasz PD, Aitchison JD, Chait BT, Rout MP",
+      "link": "https://doi.org/10.7554/eLife.73027",
+      "journal": "Elife. 2021 Dec 7;10:e73027",
+      "title": "Highly synergistic combinations of nanobodies that target SARS-CoV-2 and are resistant to escape"
+    },
+    {
+      "authors": "Dou Y, Kawaler EA, Cui Zhou D, Gritsenko MA, Huang C, Blumenberg L, Karpova A, Petyuk VA, Savage SR, Satpathy S, Liu W, Wu Y, Tsai CF, Wen B, Li Z, Cao S, Moon J, Shi Z, Cornwell M, Wyczalkowski MA, Chu RK, Vasaikar S, Zhou H, Gao Q, Moore RJ, Li K, Sethuraman S, Monroe ME, Zhao R, Heiman D, Krug K, Clauser K, Kothadia R, Maruvka Y, Pico AR, Oliphant AE, Hoskins EL, Pugh SL, Beecroft SJI, Adams DW, Jarman JC, Kong A, Chang HY, Reva B, Liao Y, Rykunov D, Colaprico A, Chen XS, Czekanski A, Jedryka M, Matkowski R, Wiznerowicz M, Hiltke T, Boja E, Kinsinger CR, Mesri M, Robles AI, Rodriguez H, Mutch D, Fuh K, Ellis MJ, DeLair D, Thiagarajan M, Mani DR, Getz G, Noble M, Nesvizhskii AI, Wang P, Anderson ML, Levine DA, Smith RD, Payne SH, Ruggles KV, Rodland KD, Ding L, Zhang B, Liu T, Fenyö D; Clinical Proteomic Tumor Analysis Consortium",
+      "link": "http://dx.doi.org/10.1016/j.cell.2020.01.026",
+      "journal": "Cell 180 (2020) 729-748.e26",
+      "title": "Proteogenomic Characterization of Endometrial Carcinoma"
+    },
+    {
+      "authors": "Krug K, Jaehnig EJ, Satpathy S, Blumenberg L, Karpova A, Anurag M, Miles G, Mertins P, Geffen Y, Tang LC, Heiman DI, Cao S, Maruvka YE, Lei JT, Huang C, Kothadia RB, Colaprico A, Birger C, Wang J, Dou Y, Wen B, Shi Z, Liao Y, Wiznerowicz M, Wyczalkowski MA, Chen XS, Kennedy JJ, Paulovich AG, Thiagarajan M, Kinsinger CR, Hiltke T, Boja ES, Mesri M, Robles AI, Rodriguez H, Westbrook TF, Ding L, Getz G, Clauser KR, Fenyö D, Ruggles KV, Zhang B, Mani DR, Carr SA, Ellis MJ, Gillette MA; Clinical Proteomic Tumor Analysis Consortium",
+      "link": "https://doi.org/10.1016/j.cell.2020.10.036",
+      "journal": "Cell. 2020 Nov 16:S0092-8674(20)31400-8",
+      "title": "Proteogenomic Landscape of Breast Cancer Tumorigenesis and Targeted Therapy"
+    },
+    {
+      "authors": "Pamela Wu, Zachary J Heins, James Muller, Lizabeth Katsnelson, Ino de Bruijn, Adam A Abeshouse, Nikolaus Schultz, David Fenyö and Jianjiong Gao",
+      "link": "https://doi.org/10.1074/mcp.TIR119.001673",
+      "journal": "Molecular & Cellular Proteomics 2019 mcp.TIR119.001673",
+      "title": "Integration and analysis of CPTAC proteomics data in the context of cancer genomics in the cBioPortal"
+    },
+    {
+      "authors": "Liu W, Payne SH, Ma S, Fenyö D",
+      "link": "https://doi.org/10.1074/mcp.TIR119.001442",
+      "journal": "Molecular & Cellular Proteomics 2019 mcp.TIR119.001442",
+      "title": "Extracting Pathway-Level Signatures from Proteogenomic data in Breast Cancer Using Independent Component Analysis"
+    },
+    {
+      "authors": "Mundt F, Rajput S, Li S, Ruggles KV, Mooradian AD, Mertins P, Gillette MA, Krug K, Guo Z, Hoog J, Erdmann-Gilmore P, Primeau T, Huang S, Edwards DP, Wang X, Wang X, Kawaler E, Mani DR, Clauser KR, Gao F, Luo J, Davies SR, Johnson GL, Huang KL, Yoon CJ, Ding L, Fenyö D, Ellis MJ, Townsend RR, Held JM, Carr SA, Ma CX",
+      "link": "https://doi.org/10.1158/0008-5472.CAN-17-1990",
+      "journal": "Cancer Res. 2018",
+      "title": "Mass spectrometry-based proteomics reveals potential roles of NEK9 and MAP2K4 in resistance to PI3K inhibitors in triple negative breast cancers"
+    },
+    {
+      "authors": "Wang X, Mooradian AD, Erdmann-Gilmore P, Zhang Q, Viner R, Davies SR, Huang KL, Bomgarden R, Van Tine BA, Shao J, Ding L, Li S, Ellis MJ, Rogers JC, Townsend RR, Fenyö D, Held JM",
+      "link": "https://www.ncbi.nlm.nih.gov/pubmed/28790197",
+      "journal": "Sci Signal. 10 (2017) pii:eaam8065",
+      "title": "Breast tumors educate the proteome of stromal tissue in an individualized but coordinated manner"
+    },
+    {
+      "authors": "Ruggles KV, Krug K, Wang X, Clauser KR, Wang J, Payne SH, Fenyö D, Zhang B, Mani DR",
+      "link": "https://www.ncbi.nlm.nih.gov/pubmed/28456751",
+      "image": "/images/publications/proteogenomics_mcp_2017.png",
+      "journal": "Mol Cell Proteomics 2017",
+      "title": "Methods, tools and current perspectives in proteogenomics"
+    },
+    {
+      "authors": "Mertins P, Mani DR, Ruggles KV, Gillette MA, Clauser KR, Wang P, Wang X, Qiao JW, Cao S, Petralia F, Kawaler E, Mundt F, Krug K, Tu Z, Lei JT, Gatza ML, Wilkerson M, Perou CM, Yellapantula V, Huang K-l, Lin C, McLellan MD, Yan P, Davies SR, Townsend RR, Skates SJ, Wang J, Zhang B, Kinsinger CR, Mesri M, Rodriguez H, Ding L, Paulovich AG, Fenyö D, Ellis MJ, Carr SA & the NCI CPTAC",
+      "link": "http://www.ncbi.nlm.nih.gov/pubmed/27251275",
+      "journal": "Nature 534 (2016) 55-62",
+      "title": "Proteogenomics connects somatic mutations to signaling in breast cancer"
+    },
+    {
+      "authors": "Keegan S, Cortens JP, Beavis RC, Fenyo D",
+      "link": "http://www.ncbi.nlm.nih.gov/pubmed/26842767",
+      "journal": "J Proteome Res. 2016 Feb 4",
+      "title": "g2pDB: A Database Mapping Protein Post-Translational Modifications to Genomic Coordinates"
+    },
+    {
+      "authors": "Menschaert G, Fenyo D",
+      "link": "http://www.ncbi.nlm.nih.gov/pubmed/26670565",
+      "journal": "Mass Spectrometry Reviews 2015",
+      "title": "Proteogenomics from a bioinformatics angle: A growing field"
+    },
+    {
+      "authors": "Askenazi M, Ruggles K, Fenyo D",
+      "link": "http://www.ncbi.nlm.nih.gov/pubmed/26638927",
+      "journal": "J Proteome Res. 2015",
+      "title": "PGx: Putting Peptides to BED"
+    },
+    {
+      "authors": "Ruggles KV, Tang Z, Wang X, Grover H, Askenazi M, Teubl J, Cao S, McLellan MD, Clauser KR, Tabb DL, Mertins P, Slebos R, Erdmann-Gilmore P, Li S, Gunawardena HP, Xie L, Liu T, Zhou JY, Sun S, Hoadley KA, Perou CM, Chen X, Davies SR, Maher CA, Kinsinger CR, Rodland KD, Zhang H, Zhang Z, Ding L, Townsend RR, Rodriguez H, Chan D, Smith RD, Liebler DC, Carr SA, Payne S, Ellis MJ, Fenyo D",
+      "link": "http://www.ncbi.nlm.nih.gov/pubmed/26631509",
+      "journal": "Mol Cell Proteomics. 2015",
+      "title": "An analysis of the sensitivity of proteogenomic mapping of somatic mutations and novel splicing events in cancer"
+    }
+  ],
+
+
+  "Retrotransposition": [
+    {
+      "authors": "Efiyenia Ismini Kaparos, Wenjing Zhang, Ryusei Miyanaga, Wilson McKerrow, Jef D Boeke, Teresa Davoli, Paolo Mita, Kelly V. Ruggles, David Fenyo",
+      "link": "https://doi.org/10.1101/2025.10.03.680361",
+      "journal": "bioRxiv 2025.10.03.680361",
+      "title": "Pan-cancer analysis reveals context-dependent roles of LINE-1 ORF1p in immune regulation and copy number alterations"
+    },
+    {
+      "authors": "McKerrow W, Kagermazova L, Doudican N, Frazzette N, Kaparos EI, Evans SA, Rocha A, Sedivy JM, Neretti N, Carucci J, Boeke JD, Fenyö D",
+      "link": "https://doi.org/10.1093/nar/gkad049",
+      "journal": "Nucleic Acids Res. 2023 Feb 6:gkad049",
+      "title": "LINE-1 retrotransposon expression in cancerous, epithelial and neuronal cells revealed by 5' single-cell RNA-Seq"
+    },
+    {
+      "authors": "McKerrow W, Wang X, Mendez-Dorantes C, Mita P, Cao S, Grivainis M, Ding L, LaCava J, Burns KH, Boeke JD, Fenyö D",
+      "link": "https://doi.org/10.1073/pnas.2115999119",
+      "journal": "Proc Natl Acad Sci USA, 2022 Feb 22;119(8):e2115999119",
+      "title": "LINE-1 expression in cancer correlates with p53 mutation, copy number alteration, and S phase checkpoint"
+    },
+    {
+      "authors": "Briggs EM, McKerrow W, Mita P, Boeke JD, Logan SK, Fenyö D",
+      "link": "https://doi.org/10.1186/s13100-021-00233-3",
+      "journal": "Mob DNA. 12 (2021) 5",
+      "title": "RIP-seq reveals LINE-1 ORF1p association with p-body enriched mRNAs"
+    },
+    {
+      "authors": "Grivainis M, Tang Z, Fenyö D",
+      "link": "http://dx.doi.org/10.1093/bioinformatics/btaa244",
+      "journal": "Bioinformatics 2020 btaa244",
+      "title": "TranspoScope - Interactive Visualization of Retrotransposon Insertions"
+    },
+    {
+      "authors": "McKerrow W, Fenyö D",
+      "link": "https://doi.org/10.1093/bioinformatics/btz724",
+      "journal": "Bioinformatics. 2019 Oct 4. pii: btz724",
+      "title": "L1EM: A tool for accurate locus specific LINE-1 RNA quantification"
+    },
+    {
+      "authors": "Sun X, Wang X, Tang Z, Grivainis M, Kahler D, Yun C, Mita P, Fenyö D, Boeke JD",
+      "link": "https:/doi.org/10.1073/pnas.1722565115",
+      "journal": "Proc Natl Acad Sci U S A. 2018 May 25. pii: 201722565",
+      "title": "Transcription factor profiling reveals molecular choreography and key regulators of human retrotransposon expression"
+    },
+      "authors": "Tang Z, Steranka JP, Ma S, Grivainis M, Rodic N, Huang CR, Shih IM, Wang TL, Boeke JD, Fenyö D, Burns KH",
+      "link": "https://www.ncbi.nlm.nih.gov/pubmed/28096347",
+      "journal": "Proc Natl Acad Sci U S A. 2017 Jan 17. pii: 201619797",
+      "title": "Human transposon insertion profiling: Analysis, visualization and identification of somatic LINE-1 insertions in ovarian cancer"
+    }
+  ],
+
+  "Genomics": [
+    {
+      "authors": "Kit Leng Lui S, Keegan S, Tonzi P, Kahli M, Chen YH, Chalhoub N, Coleman KE, Fenyo D, Smith DJ, Huang TT",
+      "link": "https://doi.org/10.1038/s41596-020-00454-5",
+      "journal": "Nat Protoc. 2021 Jan 13",
+      "title": "Monitoring genome-wide replication fork directionality by Okazaki fragment sequencing in mammalian cells"
+    },
+    {
+      "authors": "Chen YH, Keegan S, Kahli M, Tonzi P, Fenyö D, Huang TT, Smith DJ",
+      "link": "https://doi.org/10.1038/s41594-018-0171-0",
+      "journal": "Nat Struct Mol Biol. 2018 Dec 31",
+      "title": "Transcription shapes DNA replication initiation and termination in human cells"
+    }
+  ],
+  
+  "Clinical": [
+    {
+      "authors": "Westcott JM, Hughes F, Liu W, Grivainis M, Hoskins I, Fenyo D",
+      "link": "https://doi.org/10.2196/34108",
+      "journal": "J Med Internet Res 24 (2022) e34108",
+      "title": "Prediction of Maternal Hemorrhage Using Machine Learning: Retrospective Cohort Study"
+    },
+    {
+      "authors": "Wang JM, Liu W, Chen X, McRae MP, McDevitt JT, Fenyo D",
+      "link": "https://doi.org/10.2196/29514",
+      "journal": "J Med Internet Res. 2021 May 26",
+      "title": "Predictive modeling of morbidity and mortality in COVID-19 hospitalized patients and its clinical implications"
+    }
+  ]
+}
+
+
+
+
