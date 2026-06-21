@@ -233,6 +233,7 @@
       "journal": "Proc Natl Acad Sci U S A. 2018 May 25. pii: 201722565",
       "title": "Transcription factor profiling reveals molecular choreography and key regulators of human retrotransposon expression"
     },
+    {
       "authors": "Tang Z, Steranka JP, Ma S, Grivainis M, Rodic N, Huang CR, Shih IM, Wang TL, Boeke JD, Fenyö D, Burns KH",
       "link": "https://www.ncbi.nlm.nih.gov/pubmed/28096347",
       "journal": "Proc Natl Acad Sci U S A. 2017 Jan 17. pii: 201619797",
@@ -252,9 +253,50 @@
       "link": "https://doi.org/10.1038/s41594-018-0171-0",
       "journal": "Nat Struct Mol Biol. 2018 Dec 31",
       "title": "Transcription shapes DNA replication initiation and termination in human cells"
+    },
+    {
+      "authors": "M.D. Sekedat, D. Fenyö, R.S. Rogers, A.J. Tackett, J.D. Aitchison, B.T. Chait",
+      "link": "/pdf/10_sekedat_msb.pdf",
+      "journal": "Mol Syst Biol. 6 (2010) 353",
+      "title": "GINS motion reveals replication fork progression is remarkably uniform throughout the yeast genome"
     }
   ],
   
+
+  "proteomics": [
+    {
+      "authors": "J. Eriksson, D. Fenyö",
+      "link": "/pdf/07_eriksson_nbt.pdf",
+      "journal": "Nature Biotechnology 25 (2007) 651-655",
+      "title": "Improving the success rate of proteome analysis by modeling protein-abundance distributions and experimental designs"
+    },
+    {
+      "authors": "D. Fenyö, B.S.Phinney, R.C. Beavis",
+      "link": "/pdf/07_fenyo_jpr.pdf",
+      "journal": "J Proteome Res 6 (2007) 1997-2004",
+      "title": "Determining the Overall Merit of Protein Identification Data Sets: rho-Diagrams and rho-Scores"
+    },
+    {
+      "authors": "D. Fenyö, R.C. Beavis",
+      "link": "/pdf/03_fenyo_anal-chem.pdf",
+      "journal": "Analytical Chemistry 75 (2003) 768-74",
+      "title": "A method for assessing the statistical significance of mass spectrometry-based protein identifications using general scoring schemes"
+    },
+    {
+      "authors": "J. Eriksson, B.T. Chait, D. Fenyö",
+      "link": "/pdf/00_eriksson_anal-chem.pdf",
+      "journal": "Anal Chem 72 (2000) 999-1005",
+      "title": "A statistical basis for testing the significance of mass spectrometric protein identification results"
+    },
+    {
+      "authors": "D. Fenyö, J. Qin, B.T. Chait",
+      "link": "/pdf/98_fenyo_electrophoresis.pdf",
+      "journal": "Electrophoresis 19 (1998) 998-1005",
+      "title": "Protein Identification using Mass Spectrometric Information"
+    }  
+  ],
+
+
   "Clinical": [
     {
       "authors": "Westcott JM, Hughes F, Liu W, Grivainis M, Hoskins I, Fenyo D",
