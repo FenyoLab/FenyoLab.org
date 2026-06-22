@@ -21,7 +21,6 @@ interface Publication {
     <ul id="publications" class="list-none h-full overflow-y-scroll">
       {
         Object.entries(publications)
-          .reverse()
           .map(([year, publications_list]) => (
             <>
               <li id={year} class="section">
@@ -92,7 +91,6 @@ interface Publication {
     <ul class="flex-none hidden xl:block text-sm w-26 overflow-y-scroll pl-4">
       {
         Object.keys(publications)
-          .reverse()
           .map((year) => (
             <li>
               {/* <a class="link hover:text-red-700" href={"#" + year}> */}
