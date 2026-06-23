@@ -109,6 +109,12 @@
       "title": "Proteogenomic analysis of cancer aneuploidy and normal tissues reveals divergent modes of gene regulation across cellular pathways"
     },
     {
+      "authors": "Blumenberg L, Kawaler EA, Cornwell M, Smith S, Ruggles KV, Fenyö D",
+      "link": "https://doi.org/10.1021/acs.jproteome.1c00190",
+      "journal": "J Proteome Res. 20 (2021) 3767-3773",
+      "title": "BlackSheep: A Bioconductor and Bioconda Package for Differential Extreme Value Analysis"
+    },
+    {
       "authors": "Mast FD, Fridy PC, Ketaren NE, Wang J, Jacobs EY, Olivier JP, Sanyal T, Molloy KR, Schmidt F, Rutkowska M, Weisblum Y, Rich LM, Vanderwall ER, Dambrauskas N, Vigdorovich V, Keegan S, Jiler JB, Stein ME, Olinares PDB, Herlands L, Hatziioannou T, Sather DN, Debley JS, Fenyö D, Sali A, Bieniasz PD, Aitchison JD, Chait BT, Rout MP",
       "link": "https://doi.org/10.7554/eLife.73027",
       "journal": "Elife. 2021 Dec 7;10:e73027",
@@ -222,6 +228,12 @@
       "title": "TranspoScope - Interactive Visualization of Retrotransposon Insertions"
     },
     {
+      "authors": "Ardeljan D, Wang X, Oghbaie M, Taylor MS, Husband D, Deshpande V, Steranka JP, Gorbounov M, Yang WR, Sie B, Larman HB, Jiang H, Molloy KR, Altukhov I, Li Z, McKerrow W, Fenyö D, Burns KH, LaCava J",
+      "link": "https://doi.org/10.1186/s13100-019-0191-2",
+      "journal": "Mob DNA. 2019 11:1",
+      "title": "LINE-1 ORF2p expression is nearly imperceptible in human cancers"
+    },
+    {
       "authors": "McKerrow W, Fenyö D",
       "link": "https://doi.org/10.1093/bioinformatics/btz724",
       "journal": "Bioinformatics. 2019 Oct 4. pii: btz724",
@@ -263,7 +275,13 @@
   ],
   
 
-  "proteomics": [
+  "Proteomics": [
+        {
+      "authors": "Cifani P, Li Z, Luo D, Grivainis M, Intlekofer AM, Fenyö D, Kentsis A",
+      "link": "https://doi.org/10.1021/acs.jproteome.0c00638",
+      "journal": "J Proteome Res. 2021, 10.1021/acs.jproteome.0c00638",
+      "title": "Discovery of Protein Modifications Using Differential Tandem Mass Spectrometry Proteomics"
+    },
     {
       "authors": "J. Eriksson, D. Fenyö",
       "link": "/pdf/07_eriksson_nbt.pdf",

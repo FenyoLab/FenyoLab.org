@@ -203,10 +203,10 @@
       "title": "Predicting immune checkpoint therapy response in three independent metastatic melanoma cohorts"
     },
     {
-      "authors": "Liu J, Cao S, Imbach KJ, Gritsenko MA, Lih TM, Kyle JE, Yaron-Barir TM, Binder ZA, Li Y, Strunilin I, Wang YT, Tsai CF, Ma W, Chen L, Clark NM, Shinkle A, Naser Al Deen N, Caravan W, Houston A, Simin FA, Wyczalkowski MA, Wang LB, Storrs E, Chen S, Illindala R, Li YD, Jayasinghe RG, Rykunov D, Cottingham SL, Chu RK, Weitz KK, Moore RJ, Sagendorf T, Petyuk VA, Nestor M, Bramer LM, Stratton KG, Schepmoes AA, Couvillion SP, Eder J, Kim YM, Gao Y, Fillmore TL, Zhao R, Monroe ME, Southard-Smith AN, Li YE, Jui-Hsien Lu R, Johnson JL, Wiznerowicz M, Hostetter G, Newton CJ, Ketchum KA, Thangudu RR, Barnholtz-Sloan JS, Wang P, Fenyö D, An E, Thiagarajan M, Robles AI, Mani DR, Smith RD, Porta-Pardo E, Cantley LC, Iavarone A, Chen F, Mesri M, Nasrallah MP, Zhang H, Resnick AC, Chheda MG, Rodland KD, Liu T, Ding L",
+      "authors": "Liu J, Cao S, Imbach KJ, Gritsenko MA, Lih TM, Kyle JE, Yaron-Barir TM, Binder ZA, Li Y, Strunilin I, Wang YT, Tsai CF, Ma W, Chen L, Clark NM, Shinkle A, Naser Al Deen N, Caravan W, Houston A, Simin FA, Wyczalkowski MA, Wang LB, Storrs E, Chen S, Illindala R, Li YD, Jayasinghe RG, Rykunov D, Cottingham SL, Chu RK, Weitz KK, Moore RJ, Sagendorf T, Petyuk VA, Nestor M, Bramer LM, Stratton KG, Schepmoes AA, Couvillion SP, Eder J, Kim YM, Gao Y, Fillmore TL, Zhao R, Monroe ME, Southard-Smith AN, Li YE, Jui-Hsien Lu R, Johnson JL, Wiznerowicz M, Hostetter G, Newton CJ, Ketchum KA, Thangudu RR, Barnholtz-Sloan JS, Wang P, Fenyö D, An E, Thiagarajan M, Robles AI, Mani DR, Smith RD, Porta-Pardo E, Cantley LC, Iavarone A, Chen F, Mesri M, Nasrallah MP, Zhang H, Resnick AC, Chheda MG, Rodland KD, Liu T, Ding L; Philadelphia Coalition for a Cure; Clinical Proteomic Tumor Analysis Consortium",
       "link": "https://doi.org/10.1016/j.ccell.2024.06.004",
       "journal": "Cancer Cell 2024; 42(7):1217-1238.e19",
-      "title": "Philadelphia Coalition for a Cure; Clinical Proteomic Tumor Analysis Consortium. Multi-scale signaling and tumor evolution in high-grade gliomas"
+      "title": "Multi-scale signaling and tumor evolution in high-grade gliomas"
     },
     {
       "authors": "Kohlrausch FB, Wang F, McKerrow W, Grivainis M, Fenyo D, Keefe DL",
@@ -239,10 +239,10 @@
       "title": "Few-shot genes selection: subset of PAM50 genes for breast cancer subtypes classification"
     },
     {
-      "authors": "Petralia F, Ma W, Yaron TM, Caruso FP, Tignor N, Wang JM, Charytonowicz D, Johnson JL, Huntsman EM, Marino GB, Calinawan A, Evangelista JE, Selvan ME, Chowdhury S, Rykunov D, Krek A, Song X, Turhan B, Christianson KE, Lewis DA, Deng EZ, Clarke DJB, Whiteaker JR, Kennedy JJ, Zhao L, Segura RL, Batra H, Raso MG, Parra ER, Soundararajan R, Tang X, Li Y, Yi X, Satpathy S, Wang Y, Wiznerowicz M, González-Robles TJ, Iavarone A, Gosline SJC, Reva B, Robles AI, Nesvizhskii AI, Mani DR, Gillette MA, Klein RJ, Cieslik M, Zhang B, Paulovich AG, Sebra R, Gümüs ZH, Hostetter G, Fenyö D, Omenn GS, Cantley LC, Ma'ayan A, Lazar AJ, Ceccarelli M, Wang P",
+      "authors": "Petralia F, Ma W, Yaron TM, Caruso FP, Tignor N, Wang JM, Charytonowicz D, Johnson JL, Huntsman EM, Marino GB, Calinawan A, Evangelista JE, Selvan ME, Chowdhury S, Rykunov D, Krek A, Song X, Turhan B, Christianson KE, Lewis DA, Deng EZ, Clarke DJB, Whiteaker JR, Kennedy JJ, Zhao L, Segura RL, Batra H, Raso MG, Parra ER, Soundararajan R, Tang X, Li Y, Yi X, Satpathy S, Wang Y, Wiznerowicz M, González-Robles TJ, Iavarone A, Gosline SJC, Reva B, Robles AI, Nesvizhskii AI, Mani DR, Gillette MA, Klein RJ, Cieslik M, Zhang B, Paulovich AG, Sebra R, Gümüs ZH, Hostetter G, Fenyö D, Omenn GS, Cantley LC, Ma'ayan A, Lazar AJ, Ceccarelli M, Wang P; Clinical Proteomic Tumor Analysis Consortium",
       "link": "https://doi.org/10.1016/j.cell.2024.01.027",
       "journal": "Cell 2024 S0092-8674(24)00064-3",
-      "title": "Clinical Proteomic Tumor Analysis Consortium. Pan-cancer proteogenomics characterization of tumor immunity"
+      "title": "Pan-cancer proteogenomics characterization of tumor immunity"
     },
     {
       "authors": "María Xóchitl Benítez-Jones, Sarah Keegan, Sebastian Jamshahi, David Fenyö",
@@ -469,10 +469,10 @@
       "title": "Predicting endometrial cancer subtypes and molecular features from histopathology images using multi-resolution deep learning models"
     },
     {
-      "authors": "Cao L, Huang C, Cui Zhou D, Hu Y, Lih TM, Savage SR, Krug K, Clark DJ, Schnaubelt M, Chen L, da Veiga Leprevost F, Eguez RV, Yang W, Pan J, Wen B, Dou Y, Jiang W, Liao Y, Shi Z, Terekhanova NV, Cao S, Lu RJ, Li Y, Liu R, Zhu H, Ronning P, Wu Y, Wyczalkowski MA, Easwaran H, Danilova L, Mer AS, Yoo S, Wang JM, Liu W, Haibe-Kains B, Thiagarajan M, Jewell SD, Hostetter G, Newton CJ, Li QK, Roehrl MH, Fenyö D, Wang P, Nesvizhskii AI, Mani DR, Omenn GS, Boja ES, Mesri M, Robles AI, Rodriguez H, Bathe OF, Chan DW, Hruban RH, Ding L, Zhang B, Zhang H",
+      "authors": "Cao L, Huang C, Cui Zhou D, Hu Y, Lih TM, Savage SR, Krug K, Clark DJ, Schnaubelt M, Chen L, da Veiga Leprevost F, Eguez RV, Yang W, Pan J, Wen B, Dou Y, Jiang W, Liao Y, Shi Z, Terekhanova NV, Cao S, Lu RJ, Li Y, Liu R, Zhu H, Ronning P, Wu Y, Wyczalkowski MA, Easwaran H, Danilova L, Mer AS, Yoo S, Wang JM, Liu W, Haibe-Kains B, Thiagarajan M, Jewell SD, Hostetter G, Newton CJ, Li QK, Roehrl MH, Fenyö D, Wang P, Nesvizhskii AI, Mani DR, Omenn GS, Boja ES, Mesri M, Robles AI, Rodriguez H, Bathe OF, Chan DW, Hruban RH, Ding L, Zhang B, Zhang H; Clinical Proteomic Tumor Analysis Consortium",
       "link": "https://doi.org/10.1016/j.cell.2021.08.023",
       "journal": "Cell, 2021 Sep 16;184(19):5031-5052.e26",
-      "title": "Clinical Proteomic Tumor Analysis Consortium. Proteogenomic characterization of pancreatic ductal adenocarcinoma"
+      "title": "Proteogenomic characterization of pancreatic ductal adenocarcinoma"
     },
     {
       "authors": "Gorbunova V, Seluanov A, Mita P, McKerrow W, Fenyö D, Boeke JD, Linker SB, Gage FH, Kreiling JA, Petrashen AP, Woodham TA, Taylor JR, Helfand SL, Sedivy JM",
