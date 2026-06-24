@@ -20,11 +20,11 @@ interface Publication {
   <div class="flex h-full">
     <ul id="publications" class="list-none h-full overflow-y-scroll">
       {
-        Object.entries(publications)
-          .map(([year, publications_list]) => (
+        Object.entries(publications).map(
+          ([sectionTitle, publications_list]) => (
             <>
-              <li id={year} class="section">
-                <div class="font-bold mb-4 text-base">{year}</div>
+              <li id={sectionTitle} id="" class="section">
+                <div class="font-bold mb-4 text-base">{sectionTitle}</div>
                 <ul class="list-none space-y-8 mb-8">
                   {publications_list.map((publication: Publication) => (
                     <li>
@@ -85,22 +85,59 @@ interface Publication {
                 </ul>
               </li>
             </>
-          ))
+          ),
+        )
       }
     </ul>
-    <ul class="flex-none hidden xl:block text-sm w-26 overflow-y-scroll pl-4">
+    <ul
+      id="publication-index"
+      class="flex-none hidden xl:block text-sm w-26 overflow-y-scroll pl-4"
+    >
       {
-        Object.keys(publications)
-          .map((year) => (
-            <li>
-              {/* <a class="link hover:text-red-700" href={"#" + year}> */}
-              <a class="link hover:text-red-700">{year}</a>
-            </li>
-          ))
+        Object.keys(publications).map((sectionTitle) => (
+          <li id={sectionTitle}>
+            {/* <a class="link hover:text-red-700" href={"#" + year}> */}
+            <a class="link hover:text-red-700">{sectionTitle}</a>
+          </li>
+        ))
       }
     </ul>
   </div>
 </Layout>
+<script>
+  // Grab the container and the JSON data
+  const container = document.getElementById("publications");
+
+  const searchParams = new URLSearchParams(window.location.search);
+  const filterParam = Object.fromEntries(searchParams.entries());
+
+  if (container) {
+    Array.from(container.children).forEach((section) => {
+      if (filterParam.hasOwnProperty(section.id)) {
+        const publication = Array.from(section.querySelectorAll("li"));
+        const indices = filterParam[section.id].split(",").map(Number);
+        publication.forEach((paper, index) => {
+          if (!indices.includes(index)) {
+            paper.classList.add("hidden");
+          }
+        });
+      } else {
+        section.classList.add("hidden");
+      }
+    });
+  }
+  const publicationIndex = document.getElementById("publication-index");
+  if (publicationIndex) {
+    console.log(publicationIndex.children);
+    Array.from(publicationIndex.children).forEach((section) => {
+      if (filterParam.hasOwnProperty(section.id)) {
+        section.classList.remove("hidden");
+      } else {
+        section.classList.add("hidden");
+      }
+    });
+  }
+</script>
 
 <script>
   // Find all buttons with the `alert` class on the page.
