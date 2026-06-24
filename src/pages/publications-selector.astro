@@ -19,20 +19,31 @@ interface Publication {
 <Layout title="Selected Publications">
   <div class="flex h-full">
     <ul id="publications" class="list-none h-full overflow-y-scroll">
+      <li>
+        <button id="show-link" class="rounded-sm bg-slate-500 text-white px-2"
+          >Show link</button
+        >
+      </li>
       {
         Object.entries(publications).map(
           ([sectionTitle, publications_list]) => (
             <>
-              <li id={sectionTitle} id="" class="section">
+              <li id={sectionTitle} class="section">
                 <div class="font-bold mb-4 text-base">{sectionTitle}</div>
                 <ul class="list-none space-y-8 mb-8">
-                  {publications_list.map((publication: Publication) => (
+                  {publications_list.map((publication: Publication, index) => (
                     <li>
                       <div class="flex gap-2 items-center">
                         {publication.image && (
                           <img width="50" src={publication.image} alt="alt" />
                         )}
                         <div class="text-sm">
+                          <input
+                            type="checkbox"
+                            id={`${index}`}
+                            name={`${sectionTitle}`}
+                          />
+                          {sectionTitle} - {index}
                           {publication.authors}:
                           {publication?.link ? (
                             <a
@@ -89,57 +100,59 @@ interface Publication {
         )
       }
     </ul>
-    <ul
-      id="publication-index"
-      class="flex-none hidden xl:block text-sm w-26 overflow-y-auto pl-4"
-    >
+    <ul class="flex-none hidden xl:block text-sm w-26 overflow-y-auto pl-4">
       {
-        Object.keys(publications).map((sectionTitle) => (
-          <li id={sectionTitle}>
+        Object.keys(publications).map((year) => (
+          <li>
             {/* <a class="link hover:text-red-700" href={"#" + year}> */}
-            <a class="link hover:text-red-700">{sectionTitle}</a>
+            <a class="link hover:text-red-700">{year}</a>
           </li>
         ))
       }
     </ul>
   </div>
 </Layout>
+
 <script>
-  // Grab the container and the JSON data
-  const container = document.getElementById("publications");
+  let url = new URL(window.location.origin + "/publications-selected/");
 
-  const searchParams = new URLSearchParams(window.location.search);
-  const filterParam = Object.fromEntries(searchParams.entries());
-
-  if (container) {
-    Array.from(container.children).forEach((section) => {
-      if (filterParam.hasOwnProperty(section.id)) {
-        const publication = Array.from(section.querySelectorAll("li"));
-        const indices = filterParam[section.id].split(",").map(Number);
-        publication.forEach((paper, index) => {
-          if (!indices.includes(index)) {
-            paper.classList.add("hidden");
+  const checkboxes = document.querySelectorAll(
+    "input[type=checkbox]",
+  ) as NodeListOf<HTMLInputElement>;
+  checkboxes.forEach((checkbox) => {
+    checkbox.addEventListener("change", () => {
+      const selectedPublications = Array.from(
+        document.querySelectorAll(
+          "input[type=checkbox]:checked",
+        ) as NodeListOf<HTMLInputElement>,
+      ).reduce(
+        (acc, checkbox) => {
+          const sectionTitle = checkbox.name;
+          const index = checkbox.id;
+          if (!acc[sectionTitle]) {
+            acc[sectionTitle] = [];
           }
-        });
-      } else {
-        section.classList.add("hidden");
-      }
-    });
-  }
-  const publicationIndex = document.getElementById("publication-index");
-  if (publicationIndex) {
-    console.log(publicationIndex.children);
-    Array.from(publicationIndex.children).forEach((section) => {
-      if (filterParam.hasOwnProperty(section.id)) {
-        section.classList.remove("hidden");
-      } else {
-        section.classList.add("hidden");
-      }
-    });
-  }
-</script>
+          acc[sectionTitle].push(index);
 
-<script>
+          return acc;
+        },
+        {} as Record<string, string[]>,
+      );
+      url = new URL(window.location.origin + "/publications-selected/");
+      Object.entries(selectedPublications).forEach(
+        ([sectionTitle, indices]) => {
+          url.searchParams.set(`${sectionTitle}`, indices.join(","));
+        },
+      );
+    });
+  });
+  const shareLink = document.getElementById("show-link");
+  if (shareLink) {
+    shareLink.addEventListener("click", () => {
+      alert(`${url}`);
+    });
+  }
+
   // Find all buttons with the `alert` class on the page.
   const publications = document.getElementById("publications");
   if (publications) {
