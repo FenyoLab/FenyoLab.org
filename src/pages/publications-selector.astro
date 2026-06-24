@@ -20,9 +20,7 @@ interface Publication {
   <div class="flex h-full">
     <ul id="publications" class="list-none h-full overflow-y-scroll">
       <li>
-        <button id="show-link" class="rounded-sm bg-slate-500 text-white px-2"
-          >Show link</button
-        >
+        <div id="show-link" class="text-sm"></div>
       </li>
       {
         Object.entries(publications).map(
@@ -144,14 +142,12 @@ interface Publication {
           url.searchParams.set(`${sectionTitle}`, indices.join(","));
         },
       );
+      const link = document.getElementById("show-link");
+      if (link) {
+        link.innerHTML = `<a href="${url.toString()}" target="_blank">Show selected publications</a>`;
+      }
     });
   });
-  const shareLink = document.getElementById("show-link");
-  if (shareLink) {
-    shareLink.addEventListener("click", () => {
-      alert(`${url}`);
-    });
-  }
 
   // Find all buttons with the `alert` class on the page.
   const publications = document.getElementById("publications");
