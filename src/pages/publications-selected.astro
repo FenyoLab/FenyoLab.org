@@ -111,31 +111,32 @@ interface Publication {
   const searchParams = new URLSearchParams(window.location.search);
   const filterParam = Object.fromEntries(searchParams.entries());
 
-  if (container) {
-    Array.from(container.children).forEach((section) => {
-      if (filterParam.hasOwnProperty(section.id)) {
-        const publication = Array.from(section.querySelectorAll("li"));
-        const indices = filterParam[section.id].split(",").map(Number);
-        publication.forEach((paper, index) => {
-          if (!indices.includes(index)) {
-            paper.classList.add("hidden");
-          }
-        });
-      } else {
-        section.classList.add("hidden");
-      }
-    });
-  }
-  const publicationIndex = document.getElementById("publication-index");
-  if (publicationIndex) {
-    console.log(publicationIndex.children);
-    Array.from(publicationIndex.children).forEach((section) => {
-      if (filterParam.hasOwnProperty(section.id)) {
-        section.classList.remove("hidden");
-      } else {
-        section.classList.add("hidden");
-      }
-    });
+  if (Object.keys(filterParam).length > 0) {
+    if (container) {
+      Array.from(container.children).forEach((section) => {
+        if (filterParam.hasOwnProperty(section.id)) {
+          const publication = Array.from(section.querySelectorAll("li"));
+          const indices = filterParam[section.id].split(",").map(Number);
+          publication.forEach((paper, index) => {
+            if (!indices.includes(index)) {
+              paper.classList.add("hidden");
+            }
+          });
+        } else {
+          section.classList.add("hidden");
+        }
+      });
+    }
+    const publicationIndex = document.getElementById("publication-index");
+    if (publicationIndex) {
+      Array.from(publicationIndex.children).forEach((section) => {
+        if (filterParam.hasOwnProperty(section.id)) {
+          section.classList.remove("hidden");
+        } else {
+          section.classList.add("hidden");
+        }
+      });
+    }
   }
 </script>
 
