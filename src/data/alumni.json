@@ -337,6 +337,30 @@
       "lastName": "Kumar",
       "position": "Master's Student 2024-2025"
     }
+    {
+      "image": "/images/members/daniel-drafta.png",
+      "firstName": "Daniel",
+      "lastName": "Drafta",
+      "position": "Master's Student 2025-2026"
+    },
+    {
+      "image": "/images/members/alessia-tosca.png",
+      "firstName": "Alessia",
+      "lastName": "Tosca",
+      "position": "Master's Student 2026"
+    },
+    {
+      "image": "/images/members/claudia-durbin.png",
+      "firstName": "Claudia",
+      "lastName": "Durbin",
+      "position": "Master's Student 2026"
+    },
+    {
+      "image": "/images/members/zhekai-liu.jpg",
+      "firstName": "Zhekai",
+      "lastName": "Liu",
+      "position": "Master's Student 2026"
+    },
   ],
   "Rotation Students": [
     {

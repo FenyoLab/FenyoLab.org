@@ -1,6 +1,6 @@
 {
   "Preprints": [
-   {
+    {
       "authors": "Teresa Davoli, Lizabeth Katsnelson, Shini Chen, Mario Rangel-Valenzuela, Andy Zhao, Joanne Xiu, David Fenyo, Joy Bianchi",
       "link": "https://doi.org/10.64898/2026.04.12.718039",
       "journal": "bioRxiv 2026.04.12.718039",
@@ -76,6 +76,24 @@
 
 
   "2026": [
+    {
+      "authors": "González-Robles TJ, Khan M, Sastourné P, Triola M, Zhou H, Kito Y, Kaisari S, Fenyö D, Rona G, Soto-Feliciano YM, Neel BG, Ruggles KV, Pagano M",
+      "link": "https://doi.org/10.1038/s41418-026-01787-6",
+      "journal": "Cell Death Differ. 2026 Jul 19",
+      "title": "Pan-cancer proteogenomic interrogation of the ubiquitin-proteasome system"
+    },
+    { 
+      "authors": "González-Robles TJ, Sastourné P, Triola M, Khan M, Bartha Á, Estrada J, Soto-Feliciano YM, Neel BG, Fenyö D, Pagano M, Ruggles KV",
+      "link": "https://doi.org/10.1038/s41418-026-01791-w",
+      "journal": "Cell Death Differ. 2026 Jul 10",
+      "title": "UbiDash: A UPS proteomic atlas for tissue-aware degrader design"
+    },
+    {
+      "authors": "Fülöp L, Szadai L, Szigeti B, Christersson L, Oskolas H, Horvatovich P, Fernandez-Coto DL, Malm J, Wieslander E, Baldetorp B, Encarnación-Guevara S, Szasz AM, Nemeth IB, Fenyö D, Gil J, Marko-Varga G",
+      "link": "https://doi.org/10.3390/cancers18121951",
+      "journal": "Cancers (Basel). 2026 Jun 16;18(12):1951",
+      "title": "From Primary Melanoma to Metastatic Evolution: AI-Powered Pathology Integrated with Functional Analysis and Clinical Metadata Improving Treatment Prediction"
+    },
     {
       "authors": "Storrs E, Mo CK, Chou WH, Bhatt G, Chen S, Wei X, Houston A, Karpova A, Jayasinghe RG, Lal P, Bayguinov P, Herndon JM, Li X, Anjum Simin F, Fang X, Wendl MC, Liu X, Zheng H, Davies SR, Wang JT, Shinkle A, Fulton RS, Ponce J, Heinz M, Head R, Chen D, Zhao Y, Fenyo D, Li YE, Ma CX, Aft R, Reimers MA, Kim AH, Puram SV, Fitzpatrick JAJ, Shoghi KI, Figenshau RS, Ademuyiwa FO, Ju T, Colditz GA, Drake BF, Patti GJ, Oh ST, Kim EH, Gillanders WE, Olson JA, Chheda MG, Weimholt C, Veis DJ, Raphael BJ, Fields RC, Pachynski RK, Chen F, Ding L",
       "link": "https://doi.org/10.1158/2159-8290.CD-26-0012",
