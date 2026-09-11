@@ -105,12 +105,12 @@
       "projectDesc": "Michelle focuses on developing strategies for analyzing multiplexed immunofluorescent images to investigate the tumor microenvironment in endometrial carcinoma. I use deep learning, image analysis, and multiomics tools to identify relevant biomarkers and morphological features that correlate with clinical outcomes, such as recurrence and immunotherapy response."
     },
     {
-      "image": "/images/members/blank.jpg",
+      "image": "/images/members/Yuhao-Shi.jpeg",
       "firstName": "Tom",
       "lastName": "Shi",
       "suffix": "M.D.",
       "position": "Radiation Oncology Resident",
-      "projectDesc": ""
+      "projectDesc": "Tom is interested in biomarkers of response and resistance to cancer therapies including radiation and immunotherapies. Currently, he is focusing on transcriptomic biomarkers in head and neck cancers."
     }
   ],
 
