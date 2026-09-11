@@ -65,14 +65,6 @@
       "projectDesc": "Wenke's research focuses on developing machine learning methods to the harmonization analysis of large multimodal biomedical data sets."
     },
     {
-      "image": "/images/members/jude-nawlo.jpg",
-      "firstName": "Jude",
-      "lastName": "Nawlo",
-      "suffix": "M.D.",
-      "position": "Gynecologic Oncology Fellow",
-      "projectDesc": "Jude's research interests include investigation of LINE-1 retrotransposons in gynecologic cancer, chemotherapy decision-making and palliative care outcomes in the cancer population, national and international healthcare disparities and clinical trial accessibility."
-    },
-    {
       "image": "/images/members/bea-szeitz.jpeg",
       "firstName": "Bea",
       "lastName": "Szeitz",
@@ -104,7 +96,6 @@
       "position": "Gynecologic Oncology Fellow",
       "projectDesc": "Rhea's research interests include the investigation of molecular targets that may affect the durability of HER2 targeted therapies in patients who have HER2 expressing gynecologic cancers. She is also interested in health care disparities, improving health literacy, and primary cancer prevention. "
     },
-    
     {
       "image": "/images/members/michelle-hollenberg.jpeg",
       "firstName": "Michelle",
@@ -112,6 +103,14 @@
       "suffix": "Ph.D.",
       "position": "Postdoctoral Fellow",
       "projectDesc": "Michelle focuses on developing strategies for analyzing multiplexed immunofluorescent images to investigate the tumor microenvironment in endometrial carcinoma. I use deep learning, image analysis, and multiomics tools to identify relevant biomarkers and morphological features that correlate with clinical outcomes, such as recurrence and immunotherapy response."
+    },
+    {
+      "image": "/images/members/blank.jpg",
+      "firstName": "Tom",
+      "lastName": "Shi",
+      "suffix": "M.D.",
+      "position": "Radiation Oncology Resident",
+      "projectDesc": ""
     }
   ],
 
@@ -133,18 +132,6 @@
   ],
   "Interns / Visitors / Rotation Students / Master's Students": [
     {
-      "image": "/images/members/wenjing-zhang.jpg",
-      "firstName": "Wenjing",
-      "lastName": "Zhang",
-      "position": "Student Intern"
-    },
-    {
-      "image": "/images/members/brian-mann.png",
-      "firstName": "Brian",
-      "lastName": "Mann",
-      "position": "Master's Student"
-    },
-    {
       "image": "/images/members/KatherineZ.jpeg",
       "firstName": "Katherine",
       "lastName": "Zhang",
@@ -163,9 +150,9 @@
       "position": "Student Intern"
     },
     {
-      "image": "/images/members/aidan-falter.jpeg",
-      "firstName": "Aidan",
-      "lastName": "Falter",
+      "image": "/images/members/Kawtar-El-Asri.jpeg",
+      "firstName": "Kawtar",
+      "lastName": "El Asri",
       "position": "Student Intern"
     }
   ]

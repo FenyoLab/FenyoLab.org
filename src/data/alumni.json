@@ -181,6 +181,14 @@
       "suffix": "M.D.",
       "position": "Gynecologic Oncology Fellow",
       "projectDesc": "Jharna's research interests include using whole slide imaging to investigate variances in immune profiles in responders versus non-responders to immunotherapy in cervical cancer. She also has an interest in clinical outcomes in early-stage and locally advanced vulvar cancers and in improving diversity in clinical trials."
+    },
+    {
+      "image": "/images/members/jude-nawlo.jpg",
+      "firstName": "Jude",
+      "lastName": "Nawlo",
+      "suffix": "M.D.",
+      "position": "Gynecologic Oncology Fellow",
+      "projectDesc": "Jude's research interests include investigation of LINE-1 retrotransposons in gynecologic cancer, chemotherapy decision-making and palliative care outcomes in the cancer population, national and international healthcare disparities and clinical trial accessibility."
     }
   ],
   "Staff": [
@@ -766,6 +774,24 @@
       "firstName": "Mehdi",
       "lastName": "Marrakchi",
       "position": "Student Intern 2025"
+    },
+    {
+      "image": "/images/members/wenjing-zhang.jpg",
+      "firstName": "Wenjing",
+      "lastName": "Zhang",
+      "position": "Student Intern 2024-2026"
+    },
+    {
+      "image": "/images/members/brian-mann.png",
+      "firstName": "Brian",
+      "lastName": "Mann",
+      "position": "Master's Student 2024-2026"
+    },
+    {
+      "image": "/images/members/aidan-falter.jpeg",
+      "firstName": "Aidan",
+      "lastName": "Falter",
+      "position": "Student Intern 2026"
     }
   ]
 }
